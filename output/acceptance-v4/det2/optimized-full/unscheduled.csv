@@ -1,0 +1,54 @@
+well_id,asset,category,purpose,mandatory,reason,detail,ideal_value,compatible_rigs,test_tag
+VAL-003,Valhall,development,water_injector,False,negative_value,value if drilled at earliest start -11.1 M USD,-11144728.801913545,R01;R02;R03,
+VAL-004,Valhall,development,producer,False,negative_value,value if drilled at earliest start -62.6 M USD,-62560327.69867438,R01;R02;R03,negative_value
+VAL-005,Valhall,development,producer,False,negative_value,value if drilled at earliest start -75.1 M USD,-75056061.38732158,R01;R02;R03,negative_value
+VAL-006,Valhall,development,producer,False,negative_value,value if drilled at earliest start -59.8 M USD,-59756691.29473313,R01;R02;R03,negative_value
+VAL-007,Valhall,development,producer,False,negative_value,value if drilled at earliest start -59.2 M USD,-59205040.07408974,R01;R02;R03,negative_value
+VAL-008,Valhall,development,producer,False,negative_value,value if drilled at earliest start -54.1 M USD,-54102857.01752844,R01;R02;R03,negative_value
+VAL-012,Valhall,development,producer,False,precedence_blocked,"predecessor(s) not scheduled: VAL-035; value at earliest start: this well 53.7 M, predecessor(s) -31.0 M USD; together positive, but rig capacity is used for higher-value wells",53680632.560935564,R01;R02;R03,
+VAL-013,Valhall,development,producer,False,negative_value,value if drilled at earliest start -18.6 M USD,-18620929.76350756,R01;R02;R03,
+VAL-022,Valhall,development,producer,False,negative_value,value if drilled at earliest start -27.4 M USD,-27351855.036535025,R01;R02;R03,
+VAL-028,Valhall,development,water_injector,False,negative_value,value if drilled at earliest start -32.6 M USD,-32630353.591541342,R01;R02;R03,
+VAL-031,Valhall,development,gas_injector,False,negative_value,value if drilled at earliest start -13.2 M USD,-13153223.454578586,R01;R02;R03,
+VAL-033,Valhall,development,water_injector,False,negative_value,value if drilled at earliest start -29.4 M USD,-29419168.991459757,R01;R03,
+VAL-035,Valhall,development,water_injector,False,negative_value,value if drilled at earliest start -31.0 M USD,-31033061.670612276,R01;R03,
+VAL-038,Valhall,development,water_injector,False,negative_value,value if drilled at earliest start -44.2 M USD,-44181694.89155617,R01;R02;R03,
+VAL-047,Valhall,development,water_injector,False,negative_value,value if drilled at earliest start -0.4 M USD,-366228.44145934284,R01;R02;R03,
+ALV-021,Alvheim,development,water_injector,False,negative_value,value if drilled at earliest start -25.2 M USD,-25238108.120703474,R04;R05;R06;R07;R08,
+ALV-022,Alvheim,development,producer,False,precedence_blocked,"predecessor(s) not scheduled: ALV-021; value at earliest start: this well 10.5 M, predecessor(s) -25.2 M USD; together negative",10542351.277021423,R04;R05;R06;R07;R08,
+ALV-030,Alvheim,development,water_injector,False,negative_value,value if drilled at earliest start -44.1 M USD,-44085505.79840495,R04;R05;R06;R07;R08,
+ALV-032,Alvheim,development,water_injector,False,negative_value,value if drilled at earliest start -32.2 M USD,-32195641.911267295,R04;R05;R06;R07;R08,
+ALV-041,Alvheim,development,water_injector,False,negative_value,value if drilled at earliest start -19.7 M USD,-19729419.23944357,R04;R05;R06;R07;R08,
+IVA-005,Ivar Aasen,development,observation,False,negative_value,value if drilled at earliest start -23.2 M USD,-23181213.55661336,R01;R02;R03,
+IVA-008,Ivar Aasen,development,observation,False,negative_value,value if drilled at earliest start -26.6 M USD,-26584366.626595397,R01;R02;R03,
+IVA-011,Ivar Aasen,development,producer,False,negative_value,value if drilled at earliest start -6.3 M USD,-6339911.644900665,R01;R02;R03,
+IVA-016,Ivar Aasen,development,observation,False,negative_value,value if drilled at earliest start -20.3 M USD,-20264705.40074153,R01;R02;R03,
+IVA-017,Ivar Aasen,development,water_injector,False,negative_value,value if drilled at earliest start -44.8 M USD,-44792687.21069768,R01;R02;R03,
+EDG-011,Edvard Grieg,development,gas_injector,False,negative_value,value if drilled at earliest start -25.0 M USD,-24994369.151526287,R04;R05;R06;R07;R08,
+EDG-012,Edvard Grieg,development,water_injector,False,negative_value,value if drilled at earliest start -7.7 M USD,-7666141.704174094,R04;R05;R06;R07;R08,
+EDG-018,Edvard Grieg,development,observation,False,negative_value,value if drilled at earliest start -21.7 M USD,-21672643.90379487,R04;R05;R06;R07;R08,
+EDG-022,Edvard Grieg,development,observation,False,negative_value,value if drilled at earliest start -43.0 M USD,-43001124.372053295,R04;R05;R06;R07;R08,
+EDG-025,Edvard Grieg,development,observation,False,negative_value,value if drilled at earliest start -19.4 M USD,-19372739.4134072,R04;R05;R06;R07;R08,
+SKA-001,Skarv,development,producer,False,no_compatible_rig,"water depth 399 m outside rig range: R01, R02, R03; missing MPD: R04, R05, R06, R07, R08",26757083.8078605,,no_compatible_rig
+SKA-006,Skarv,development,water_injector,False,negative_value,value if drilled at earliest start -18.3 M USD,-18297062.86936253,R04;R05;R06;R07;R08,
+SKA-014,Skarv,development,water_injector,False,negative_value,value if drilled at earliest start -25.1 M USD,-25113614.073037714,R04;R05;R06;R07;R08,
+SKA-030,Skarv,development,observation,False,negative_value,value if drilled at earliest start -60.6 M USD,-60634957.645620376,R04;R05,hpht_bottleneck
+YGG-041,Yggdrasil,development,observation,False,negative_value,value if drilled at earliest start -51.2 M USD,-51186037.720504,R04;R05;R06;R07;R08,
+YGG-047,Yggdrasil,development,gas_injector,False,negative_value,value if drilled at earliest start -50.5 M USD,-50487576.33834243,R04;R05;R06;R07;R08,
+YGG-056,Yggdrasil,development,gas_injector,False,negative_value,value if drilled at earliest start -66.7 M USD,-66708071.25034458,R04;R05;R06;R07;R08,
+YGG-065,Yggdrasil,development,water_injector,False,negative_value,value if drilled at earliest start -42.5 M USD,-42527257.15386245,R04;R05;R06;R07;R08,
+EXP-001,Exploration,exploration,n/a,False,no_compatible_rig,"water depth 1800 m outside rig range: R01, R02, R03, R04, R05, R06, R07, R08",-11938372.301168323,,no_compatible_rig
+EXP-003,Exploration,exploration,n/a,False,negative_value,value if drilled at earliest start -61.1 M USD,-61114749.25354913,R04,negative_value
+EXP-004,Exploration,appraisal,n/a,False,negative_value,value if drilled at earliest start -33.4 M USD,-33433313.344681792,R02;R04,negative_value
+EXP-005,Exploration,exploration,n/a,False,negative_value,value if drilled at earliest start -53.9 M USD,-53869034.31920959,R04,negative_value
+EXP-006,Exploration,appraisal,n/a,False,negative_value,value if drilled at earliest start -27.5 M USD,-27462259.83016436,R02;R04,negative_value
+EXP-007,Exploration,exploration,n/a,False,negative_value,value if drilled at earliest start -44.8 M USD,-44764300.79237299,R04,negative_value
+EXP-019,Exploration,exploration,n/a,False,negative_value,value if drilled at earliest start -6.1 M USD,-6086876.4764167,R02;R04,
+EXP-021,Exploration,exploration,n/a,False,negative_value,value if drilled at earliest start -17.9 M USD,-17909188.78641362,R02;R04,
+EXP-022,Exploration,exploration,n/a,False,negative_value,value if drilled at earliest start -24.8 M USD,-24803969.599336687,R02;R04,
+EXP-027,Exploration,exploration,n/a,False,negative_value,value if drilled at earliest start -23.0 M USD,-22995398.92303344,R02,
+EXP-031,Exploration,exploration,n/a,False,negative_value,value if drilled at earliest start -11.3 M USD,-11337300.956174899,R02;R04,
+EXP-040,Exploration,exploration,n/a,False,negative_value,value if drilled at earliest start -41.2 M USD,-41222050.91988629,R02,
+EXP-045,Exploration,exploration,n/a,False,no_capacity_in_horizon,"compatible rigs (R02, R04) are used for higher-value wells; value if drilled at earliest start 2.0 M USD",1950021.022720851,R02;R04,
+EXP-048,Exploration,exploration,n/a,False,negative_value,value if drilled at earliest start -21.5 M USD,-21461951.38868667,R04,test_rig_bottleneck
+EXP-049,Exploration,exploration,n/a,False,negative_value,value if drilled at earliest start -23.6 M USD,-23639928.795948245,R02;R04,

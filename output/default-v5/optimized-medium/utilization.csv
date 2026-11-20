@@ -1,0 +1,9 @@
+rig_id,name,rig_type,available_days,drilling_days,weather_added_days,sailing_days,idle_days,unavailable_days,utilization,contract_end
+R01,Noble Integrator,jackup,3653,2209.0,58.0,6.0,1345.0,35,0.621,2038-01-01
+R02,Noble Invincible,jackup,3653,1731.0,61.0,10.0,1807.0,44,0.491,2038-01-01
+R03,Noble Interceptor,jackup,3653,1736.3,52.7,13.0,1811.0,40,0.49,2038-01-01
+R04,Transocean Enabler,semisub,3653,1904.0,327.0,64.0,1326.0,32,0.611,2038-01-01
+R05,Transocean Spitsbergen,semisub,3653,1342.9,167.1,26.0,2039.0,78,0.413,2038-01-01
+R06,Deepsea Nordkapp,semisub,3653,1072.9,122.1,15.0,2399.0,44,0.327,2038-01-01
+R07,Deepsea Atlantic,semisub,3288,962.4,102.6,18.0,2163.0,42,0.324,2038-01-01
+R08,Transocean Encourage,semisub,2008,1455.4,180.6,13.0,330.0,29,0.815,2032-07-01

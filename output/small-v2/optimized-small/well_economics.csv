@@ -1,0 +1,20 @@
+well_id,asset,field,category,purpose,rig_id,start_date,end_date,value,capex,frozen
+IVA-001,Ivar Aasen,Ivar Aasen,development,producer,R01,2027-01-09,2027-02-27,40272776.340078525,64882000.0,True
+FEN-001,Fenris,Fenris,development,producer,R01,2027-03-07,2027-05-17,330221124.89942765,91221000.0,True
+YGG-002,Yggdrasil,Hugin,development,water_injector,R01,2027-07-01,2027-08-17,76718311.91100918,55771000.0,True
+YGG-003,Yggdrasil,Munin,development,water_injector,R01,2027-10-01,2027-12-13,-12001581.422519624,88685000.0,True
+ALV-005,Alvheim,Bøyla,development,gas_injector,R02,2026-12-09,2027-04-21,47283765.53623116,175171000.0,True
+EDG-002,Edvard Grieg,Solveig,development,producer,R02,2027-06-01,2027-07-15,147499279.91096282,94770000.0,True
+ALV-001,Alvheim,Alvheim,development,producer,R02,2027-07-19,2027-11-01,366567966.87095946,126755000.0,True
+EXP-004,Exploration,Exploration,appraisal,n/a,R02,2027-11-07,2027-12-25,39607610.95517302,44951000.0,True
+ALV-002,Alvheim,Alvheim,development,producer,R03,2027-01-05,2027-04-26,459699091.8206371,139546000.0,True
+ALV-003,Alvheim,Bøyla,development,producer,R03,2027-04-30,2027-07-18,448550399.27773786,136277000.0,True
+EDG-001,Edvard Grieg,Solveig,development,producer,R03,2027-07-22,2027-09-12,90573686.64491667,98774000.0,True
+SKA-003,Skarv,Skarv,development,producer,R03,2027-09-18,2028-01-13,87012881.54535943,146594000.0,True
+YGG-004,Yggdrasil,Munin,development,producer,R01,2028-02-01,2028-03-23,311066191.1210516,59507000.0,False
+EXP-005,Exploration,Exploration,appraisal,n/a,R02,2028-04-01,2028-05-21,52485960.673452295,72940000.0,False
+YGG-005,Yggdrasil,Frøy,development,producer,R03,2028-05-01,2028-09-05,347608969.28155196,119098000.0,False
+YGG-006,Yggdrasil,Frøy,development,water_injector,R03,2028-05-09,2028-10-21,-39771019.13214872,85264000.0,False
+YGG-007,Yggdrasil,Frøy,development,producer,R03,2028-05-19,2028-07-09,184740105.15327135,109276000.0,False
+YGG-001,Yggdrasil,Hugin,development,water_injector,R01,2028-04-01,2028-05-16,27188677.539466754,53424000.0,False
+EXP-001,Exploration,Exploration,exploration,n/a,R02,2029-06-19,2029-07-30,-3714191.60125567,49642000.0,False

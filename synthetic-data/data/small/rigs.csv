@@ -1,0 +1,4 @@
+rig_id,name,rig_type,min_water_depth_m,max_water_depth_m,max_drilling_depth_m,capabilities,transit_speed_knots,mob_demob_days,move_sensitivity,contract_start,contract_end,extension_option,initial_well_id,initial_lat,initial_lon,day_rate_usd,performance_factor
+R01,Noble Integrator,jackup,0,150,9000,HARSH_ENV;HPHT,3.1,5,0.99,2025-01-01,2031-01-01,,,58.97,5.73,372000,1.04
+R02,Transocean Enabler,semisub,70,1500,7100,FORMATION_TEST;HARSH_ENV;HPHT;WELL_TEST;WINTERIZED,7.5,3,0.49,2025-01-01,2031-01-01,,ALV-005,59.40448,1.87779,457000,1.04
+R03,Transocean Spitsbergen,semisub,70,1500,8600,HARSH_ENV;WINTERIZED,7.5,3,0.32,2025-01-01,2031-01-01,,,60.39,5.32,470000,0.99

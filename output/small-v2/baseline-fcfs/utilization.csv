@@ -1,0 +1,4 @@
+rig_id,name,rig_type,available_days,drilling_days,weather_added_days,sailing_days,idle_days,unavailable_days,utilization,contract_end
+R01,Boreal Fulmar,jackup,1096,324.5,11.5,39.0,696.0,25,0.307,2031-01-01
+R02,Polar Cormorant,semisub,1096,310.6,87.4,25.0,632.0,41,0.363,2031-01-01
+R03,Polar Eider,semisub,1096,420.3,104.7,32.0,515.0,24,0.479,2031-01-01

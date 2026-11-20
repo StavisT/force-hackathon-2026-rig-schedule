@@ -1,0 +1,22 @@
+{
+  "name": "reference",
+  "unit_set": "USD_bbl_MMBtu",
+  "money_unit": "USD",
+  "portfolio_value": 32508030173.641758,
+  "objective": 28332863901.0,
+  "winter_penalty": 260459273.0,
+  "batch_penalty": -2340000.0,
+  "wells_scheduled": 242,
+  "wells_frozen": 7,
+  "wells_unscheduled": 58,
+  "sail_days": 1188,
+  "idle_days": 5167,
+  "exploration_target_deviation": 13,
+  "missing_mandatory": 0,
+  "changed_vs_reference": 0,
+  "optimization_freedom": "free",
+  "frozen_months": 0,
+  "plan_start": "2027-01-01",
+  "freeze_end": "2027-01-01",
+  "horizon_end": "2037-01-01"
+}

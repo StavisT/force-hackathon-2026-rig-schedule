@@ -1,0 +1,59 @@
+well_id,asset,category,purpose,mandatory,reason,detail,ideal_value,compatible_rigs,test_tag
+VAL-003,Valhall,development,water_injector,False,negative_value,value if drilled at earliest start -117.0 M NOK,-117019652.42009223,R01;R02;R03,
+VAL-004,Valhall,development,producer,False,negative_value,value if drilled at earliest start -656.9 M NOK,-656883440.836081,R01;R02;R03,negative_value
+VAL-005,Valhall,development,producer,False,negative_value,value if drilled at earliest start -788.1 M NOK,-788088644.5668765,R01;R02;R03,negative_value
+VAL-006,Valhall,development,producer,False,negative_value,value if drilled at earliest start -627.4 M NOK,-627445258.5946978,R01;R02;R03,negative_value
+VAL-007,Valhall,development,producer,False,negative_value,value if drilled at earliest start -621.7 M NOK,-621652920.7779423,R01;R02;R03,negative_value
+VAL-008,Valhall,development,producer,False,negative_value,value if drilled at earliest start -568.1 M NOK,-568079998.6840485,R01;R02;R03,negative_value
+VAL-012,Valhall,development,producer,False,precedence_blocked,"predecessor(s) not scheduled: VAL-035; value at earliest start: this well 563.6 M, predecessor(s) -325.8 M NOK; together positive, but rig capacity is used for higher-value wells",563646641.8898234,R01;R02;R03,
+VAL-013,Valhall,development,producer,False,negative_value,value if drilled at earliest start -195.5 M NOK,-195519762.51682937,R01;R02;R03,
+VAL-022,Valhall,development,producer,False,negative_value,value if drilled at earliest start -287.2 M NOK,-287194477.88361776,R01;R02;R03,
+VAL-028,Valhall,development,water_injector,False,negative_value,value if drilled at earliest start -342.6 M NOK,-342618712.7111841,R01;R02;R03,
+VAL-031,Valhall,development,gas_injector,False,negative_value,value if drilled at earliest start -138.1 M NOK,-138108846.27307516,R01;R02;R03,
+VAL-033,Valhall,development,water_injector,False,negative_value,value if drilled at earliest start -308.9 M NOK,-308901274.41032743,R01;R03,
+VAL-035,Valhall,development,water_injector,False,negative_value,value if drilled at earliest start -325.8 M NOK,-325847147.5414289,R01;R03,
+VAL-038,Valhall,development,water_injector,False,negative_value,value if drilled at earliest start -463.9 M NOK,-463907796.3613398,R01;R02;R03,
+VAL-047,Valhall,development,water_injector,False,negative_value,value if drilled at earliest start -3.8 M NOK,-3845398.6353231,R01;R02;R03,
+ALV-021,Alvheim,development,water_injector,False,negative_value,value if drilled at earliest start -265.0 M NOK,-265000135.26738647,R04;R05;R06;R07;R08,
+ALV-022,Alvheim,development,producer,False,precedence_blocked,"predecessor(s) not scheduled: ALV-021; value at earliest start: this well 110.7 M, predecessor(s) -265.0 M NOK; together negative",110694688.40872493,R04;R05;R06;R07;R08,
+ALV-030,Alvheim,development,water_injector,False,negative_value,value if drilled at earliest start -462.9 M NOK,-462897810.88325197,R04;R05;R06;R07;R08,
+ALV-032,Alvheim,development,water_injector,False,negative_value,value if drilled at earliest start -338.1 M NOK,-338054240.0683066,R04;R05;R06;R07;R08,
+ALV-041,Alvheim,development,water_injector,False,negative_value,value if drilled at earliest start -207.2 M NOK,-207158902.01415747,R04;R05;R06;R07;R08,
+IVA-005,Ivar Aasen,development,observation,False,negative_value,value if drilled at earliest start -243.4 M NOK,-243402742.34444028,R01;R02;R03,
+IVA-008,Ivar Aasen,development,observation,False,negative_value,value if drilled at earliest start -279.1 M NOK,-279135849.57925165,R01;R02;R03,
+IVA-011,Ivar Aasen,development,producer,False,negative_value,value if drilled at earliest start -66.6 M NOK,-66569072.27145698,R01;R02;R03,
+IVA-016,Ivar Aasen,development,observation,False,negative_value,value if drilled at earliest start -212.8 M NOK,-212779406.70778605,R01;R02;R03,
+IVA-017,Ivar Aasen,development,water_injector,False,negative_value,value if drilled at earliest start -470.3 M NOK,-470323215.71232563,R01;R02;R03,
+EDG-011,Edvard Grieg,development,gas_injector,False,negative_value,value if drilled at earliest start -262.4 M NOK,-262440876.091026,R04;R05;R06;R07;R08,
+EDG-012,Edvard Grieg,development,water_injector,False,negative_value,value if drilled at earliest start -80.5 M NOK,-80494487.89382799,R04;R05;R06;R07;R08,
+EDG-018,Edvard Grieg,development,observation,False,negative_value,value if drilled at earliest start -227.6 M NOK,-227562760.98984614,R04;R05;R06;R07;R08,
+EDG-022,Edvard Grieg,development,observation,False,negative_value,value if drilled at earliest start -451.5 M NOK,-451511805.9065596,R04;R05;R06;R07;R08,
+EDG-025,Edvard Grieg,development,observation,False,negative_value,value if drilled at earliest start -203.4 M NOK,-203413763.84077558,R04;R05;R06;R07;R08,
+SKA-001,Skarv,development,producer,False,no_compatible_rig,"water depth 399 m outside rig range: R01, R02, R03; missing MPD: R04, R05, R06, R07, R08",280949379.98253524,,no_compatible_rig
+SKA-006,Skarv,development,water_injector,False,negative_value,value if drilled at earliest start -192.1 M NOK,-192119160.12830657,R04;R05;R06;R07;R08,
+SKA-014,Skarv,development,water_injector,False,negative_value,value if drilled at earliest start -263.7 M NOK,-263692947.766896,R04;R05;R06;R07;R08,
+SKA-026,Skarv,development,producer,False,no_capacity_in_horizon,"compatible rigs (R04, R05, R06, R07, R08) are used for higher-value wells; value if drilled at earliest start 819.9 M NOK",819852169.5474882,R04;R05;R06;R07;R08,
+SKA-030,Skarv,development,observation,False,negative_value,value if drilled at earliest start -636.7 M NOK,-636667055.279014,R04;R05,hpht_bottleneck
+YGG-041,Yggdrasil,development,observation,False,negative_value,value if drilled at earliest start -537.5 M NOK,-537453396.065292,R04;R05;R06;R07;R08,
+YGG-047,Yggdrasil,development,gas_injector,False,negative_value,value if drilled at earliest start -530.1 M NOK,-530119551.5525955,R04;R05;R06;R07;R08,
+YGG-056,Yggdrasil,development,gas_injector,False,negative_value,value if drilled at earliest start -700.4 M NOK,-700434748.1286181,R04;R05;R06;R07;R08,
+YGG-065,Yggdrasil,development,water_injector,False,negative_value,value if drilled at earliest start -446.5 M NOK,-446536200.1155557,R04;R05;R06;R07;R08,
+EXP-001,Exploration,exploration,,False,no_compatible_rig,"water depth 1800 m outside rig range: R01, R02, R03, R04, R05, R06, R07, R08",-125352909.16226739,,no_compatible_rig
+EXP-003,Exploration,exploration,,False,negative_value,value if drilled at earliest start -641.7 M NOK,-641704867.1622659,R04,negative_value
+EXP-004,Exploration,appraisal,,False,negative_value,value if drilled at earliest start -351.0 M NOK,-351049790.1191588,R02;R04,negative_value
+EXP-005,Exploration,exploration,,False,negative_value,value if drilled at earliest start -565.6 M NOK,-565624860.3517007,R04,negative_value
+EXP-006,Exploration,appraisal,,False,negative_value,value if drilled at earliest start -288.4 M NOK,-288353728.2167258,R02;R04,negative_value
+EXP-007,Exploration,exploration,,False,negative_value,value if drilled at earliest start -470.0 M NOK,-470025158.31991637,R04,negative_value
+EXP-018,Exploration,exploration,,False,negative_value,value if drilled at earliest start -121.0 M NOK,-121002035.21021762,R02;R04,
+EXP-019,Exploration,exploration,,False,negative_value,value if drilled at earliest start -63.9 M NOK,-63912203.00237535,R02;R04,
+EXP-021,Exploration,exploration,,False,negative_value,value if drilled at earliest start -188.0 M NOK,-188046482.25734302,R02;R04,
+EXP-022,Exploration,exploration,,False,negative_value,value if drilled at earliest start -260.4 M NOK,-260441680.7930352,R02;R04,
+EXP-024,Exploration,exploration,,False,negative_value,value if drilled at earliest start -20.4 M NOK,-20380480.635630064,R02;R04,
+EXP-026,Exploration,exploration,,False,negative_value,value if drilled at earliest start -153.8 M NOK,-153777726.3378273,R02;R04,
+EXP-027,Exploration,exploration,,False,negative_value,value if drilled at earliest start -241.5 M NOK,-241451688.6918511,R02,
+EXP-029,Exploration,exploration,,False,negative_value,value if drilled at earliest start -382.2 M NOK,-382232411.8517488,R04,test_rig_bottleneck
+EXP-031,Exploration,exploration,,False,negative_value,value if drilled at earliest start -119.0 M NOK,-119041660.03983644,R02;R04,
+EXP-038,Exploration,exploration,,False,negative_value,value if drilled at earliest start -17.2 M NOK,-17239027.125300106,R04,test_rig_bottleneck
+EXP-040,Exploration,exploration,,False,negative_value,value if drilled at earliest start -432.8 M NOK,-432831534.6588061,R02,
+EXP-048,Exploration,exploration,,False,negative_value,value if drilled at earliest start -225.4 M NOK,-225350489.58121005,R04,test_rig_bottleneck
+EXP-049,Exploration,exploration,,False,negative_value,value if drilled at earliest start -248.2 M NOK,-248219252.35745656,R02;R04,

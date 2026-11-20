@@ -1,0 +1,9 @@
+rig_id,name,rig_type,available_days,drilling_days,weather_added_days,sailing_days,idle_days,unavailable_days,utilization,contract_end
+R01,Boreal Fulmar,jackup,3653,2023.3,56.7,16.0,1522.0,35,0.569,2038-01-01
+R02,Boreal Gannet,jackup,3653,1695.8,62.2,15.0,1836.0,44,0.481,2038-01-01
+R03,Boreal Kittiwake,jackup,3653,1623.8,50.2,16.0,1923.0,40,0.458,2038-01-01
+R04,Polar Cormorant,semisub,3653,1994.3,310.7,73.0,1243.0,32,0.631,2038-01-01
+R05,Polar Eider,semisub,3653,1329.9,151.1,19.0,2075.0,78,0.405,2038-01-01
+R06,Polar Shearwater,semisub,3653,1354.4,165.6,15.0,2074.0,44,0.416,2038-01-01
+R07,Polar Razorbill,semisub,3288,890.5,123.5,15.0,2217.0,42,0.308,2038-01-01
+R08,Polar Petrel,semisub,2008,1263.9,153.1,9.0,553.0,29,0.706,2032-07-01

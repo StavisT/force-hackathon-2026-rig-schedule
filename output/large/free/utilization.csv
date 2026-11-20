@@ -1,0 +1,21 @@
+rig_id,name,rig_type,available_days,drilling_days,weather_added_days,sailing_days,idle_days,unavailable_days,utilization,contract_end
+R01,Boreal Fulmar,jackup,5479,2729.0,70.0,270.0,2390.0,20,0.511,2043-01-01
+R02,Boreal Gannet,jackup,5479,2040.5,86.5,277.0,3020.0,55,0.388,2043-01-01
+R03,Boreal Kittiwake,jackup,5479,2213.8,73.2,236.0,2888.0,68,0.417,2043-01-01
+R04,Polar Cormorant,semisub,5479,3149.9,498.1,365.0,1391.0,75,0.666,2043-01-01
+R05,Polar Eider,semisub,5479,2449.7,273.3,237.0,2476.0,43,0.497,2043-01-01
+R06,Polar Shearwater,semisub,5479,3210.8,401.2,285.0,1546.0,36,0.659,2043-01-01
+R07,Polar Razorbill,semisub,5114,2620.1,327.9,237.0,1873.0,56,0.576,2043-01-01
+R08,Polar Petrel,semisub,2008,1394.2,170.8,110.0,311.0,22,0.779,2032-07-01
+R09,Boreal Puffin,jackup,5479,2214.1,56.9,215.0,2956.0,37,0.414,2043-01-01
+R10,Boreal Guillemot,jackup,5479,2043.1,77.9,265.0,3053.0,40,0.387,2043-01-01
+R11,Boreal Skua,jackup,5479,2611.1,73.9,251.0,2475.0,68,0.49,2043-01-01
+R12,Polar Merganser,semisub,5479,2868.3,473.7,313.0,1743.0,81,0.61,2043-01-01
+R13,Polar Grebe,semisub,5479,2859.5,351.5,244.0,1947.0,77,0.586,2043-01-01
+R14,Polar Loon,semisub,5479,2966.1,426.9,258.0,1771.0,57,0.619,2043-01-01
+R15,Polar Plover,semisub,5479,3028.8,365.2,266.0,1795.0,24,0.619,2043-01-01
+R16,Polar Sandpiper,semisub,2008,1334.1,165.9,126.0,354.0,28,0.747,2032-07-01
+R17,Boreal Tern,jackup,5479,2281.4,65.6,213.0,2880.0,39,0.428,2043-01-01
+R18,Boreal Cormorant,jackup,5479,2416.7,106.3,330.0,2602.0,24,0.46,2043-01-01
+R19,Boreal Eider,jackup,5479,2376.9,72.1,257.0,2690.0,83,0.447,2043-01-01
+R20,Polar Osprey,semisub,5479,3005.7,467.3,339.0,1595.0,72,0.634,2043-01-01

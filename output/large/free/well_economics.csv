@@ -1,0 +1,1004 @@
+well_id,asset,field,category,purpose,rig_id,start_date,end_date,value,capex,frozen
+EDG-021,Edvard Grieg,Edvard Grieg,development,producer,R01,2026-12-13,2027-01-23,81009889.65518862,41883000.0,True
+IVA-050,Ivar Aasen,Ivar Aasen,development,producer,R01,2027-01-30,2027-03-17,318422280.57808435,50812000.0,True
+VAL-178,Valhall,Hod,development,producer,R01,2027-04-06,2027-05-23,338273419.16485584,51889000.0,True
+VAL-105,Valhall,Valhall,development,producer,R01,2027-06-01,2027-07-14,327596432.24425405,55925000.0,True
+YGG-041,Yggdrasil,Munin,development,gas_injector,R01,2027-07-22,2027-09-10,170556976.18405503,54321000.0,True
+VAL-011,Valhall,Valhall,development,water_injector,R01,2027-10-04,2028-01-21,-71390247.50383464,110948000.0,True
+VAL-151,Valhall,Valhall,development,producer,R02,2026-12-25,2027-02-24,269301553.80394125,65517000.0,True
+VAL-030,Valhall,Valhall,development,producer,R02,2027-03-18,2027-05-03,438863609.9936907,49028000.0,True
+VAL-184,Valhall,Hod,development,producer,R02,2027-05-23,2027-07-16,364206448.4217926,62154000.0,True
+IVA-052,Ivar Aasen,Ivar Aasen,development,producer,R02,2027-07-24,2027-09-11,303572863.1370895,67659000.0,True
+YGG-021,Yggdrasil,Hugin,development,producer,R02,2027-09-29,2027-11-12,267070711.154078,58243000.0,True
+IVA-045,Ivar Aasen,Ivar Aasen,development,producer,R02,2027-12-31,2028-02-05,319639976.1826032,42485000.0,True
+IVA-043,Ivar Aasen,Ivar Aasen,development,water_injector,R03,2026-12-09,2027-01-26,118344406.1305643,48953000.0,True
+VAL-031,Valhall,Valhall,development,producer,R03,2027-02-03,2027-03-18,491155479.94772667,61010000.0,True
+VAL-120,Valhall,Valhall,development,producer,R03,2027-08-01,2027-10-06,386687244.2821552,89513000.0,True
+EDG-006,Edvard Grieg,Edvard Grieg,development,producer,R03,2027-11-12,2027-12-23,157274401.8272152,38828000.0,True
+ALV-169,Alvheim,Tyrving,development,producer,R04,2026-12-11,2027-02-28,213081418.33323193,80724000.0,True
+ALV-028,Alvheim,Alvheim,development,producer,R04,2027-03-31,2027-05-24,478128388.95460826,91769000.0,True
+YGG-092,Yggdrasil,Fulla,development,water_injector,R04,2027-07-01,2027-09-01,-16727100.387807153,87061000.0,True
+YGG-205,Yggdrasil,Frøy,development,producer,R04,2027-09-15,2027-10-29,408809212.7189705,60256000.0,True
+SKA-081,Skarv,Idun,development,producer,R05,2026-12-25,2027-02-16,186599971.00405088,81826000.0,True
+ALV-052,Alvheim,Volund,development,water_injector,R05,2027-04-01,2027-05-18,102613470.17908673,79309000.0,True
+SKA-105,Skarv,Idun,development,producer,R05,2027-05-24,2027-07-09,355511275.455818,84165000.0,True
+YGG-148,Yggdrasil,Frøy,development,producer,R05,2027-07-14,2027-08-25,358323839.51458555,67190000.0,True
+ALV-180,Alvheim,Tyrving,development,water_injector,R05,2027-08-29,2027-10-23,-2399801.0828991234,83430000.0,True
+YGG-212,Yggdrasil,Frøy,development,producer,R05,2027-10-29,2027-12-20,427442181.6273073,78523000.0,True
+EDG-083,Edvard Grieg,Solveig,development,producer,R05,2027-12-24,2028-02-06,131380927.77322954,98149000.0,True
+SKA-034,Skarv,Skarv,development,producer,R06,2026-12-14,2027-02-14,27876229.16264662,104635000.0,True
+ALV-167,Alvheim,Tyrving,development,producer,R06,2027-06-07,2027-07-23,457565041.9250661,63933000.0,True
+YGG-220,Yggdrasil,Frøy,development,producer,R06,2027-08-04,2027-09-15,427525121.1306119,74485000.0,True
+SKA-038,Skarv,Skarv,development,producer,R06,2027-09-20,2027-10-30,258070642.7501176,91513000.0,True
+YGG-062,Yggdrasil,Fulla,development,producer,R06,2027-11-04,2027-12-23,336620811.28858757,65268000.0,True
+YGG-192,Yggdrasil,Frøy,development,water_injector,R06,2027-12-27,2028-02-12,104806887.27784371,61500000.0,True
+EDG-071,Edvard Grieg,Solveig,development,producer,R08,2026-12-24,2027-02-06,186236462.83423,65625000.0,True
+ALV-146,Alvheim,Skogul,development,producer,R08,2027-02-10,2027-03-25,445657431.42105556,59153000.0,True
+ALV-051,Alvheim,Volund,development,producer,R08,2027-05-18,2027-07-07,464227793.8580575,106296000.0,True
+ALV-047,Alvheim,Volund,development,water_injector,R08,2027-07-09,2027-08-27,9338514.091837317,106279000.0,True
+ALV-054,Alvheim,Volund,development,producer,R08,2027-08-29,2027-10-05,292659001.346798,82516000.0,True
+EDG-038,Edvard Grieg,Solveig,development,producer,R08,2027-10-09,2027-11-27,231710068.74803197,87498000.0,True
+ALV-117,Alvheim,Vilje,development,producer,R08,2027-12-10,2028-01-30,403016198.15289515,58246000.0,True
+VAL-104,Valhall,Valhall,development,water_injector,R09,2026-12-22,2027-02-05,10031835.977035023,46990000.0,True
+VAL-131,Valhall,Valhall,development,producer,R09,2027-02-24,2027-04-13,435783667.43601143,61484000.0,True
+VAL-136,Valhall,Valhall,development,gas_injector,R09,2027-04-15,2027-05-29,58744812.87773347,53701000.0,True
+IVA-024,Ivar Aasen,Ivar Aasen,development,producer,R09,2027-06-07,2027-07-17,297654693.7766683,39980000.0,True
+YGG-009,Yggdrasil,Hugin,development,producer,R09,2027-08-11,2027-09-29,377197508.89271855,51141000.0,True
+YGG-029,Yggdrasil,Hugin,development,producer,R09,2027-11-12,2027-12-22,375953023.08791995,41571000.0,True
+VAL-080,Valhall,Valhall,development,producer,R10,2026-12-10,2027-02-15,241373275.19888306,70775000.0,True
+EDG-022,Edvard Grieg,Edvard Grieg,development,producer,R10,2027-03-01,2027-04-11,386918716.83001375,43826000.0,True
+EDG-019,Edvard Grieg,Edvard Grieg,development,producer,R10,2027-04-13,2027-06-05,337308584.07859004,49930000.0,True
+EDG-015,Edvard Grieg,Edvard Grieg,development,producer,R10,2027-06-07,2027-07-28,321022095.2855624,49613000.0,True
+VAL-037,Valhall,Valhall,development,water_injector,R10,2027-08-10,2027-10-04,51136687.05835098,53527000.0,True
+VAL-193,Valhall,Hod,development,producer,R11,2026-12-02,2027-02-16,106056633.46687686,98359000.0,True
+VAL-182,Valhall,Hod,development,producer,R11,2027-02-18,2027-04-06,344422625.1802254,51226000.0,True
+VAL-048,Valhall,Valhall,development,producer,R11,2027-05-03,2027-06-22,440566633.3156889,50246000.0,True
+VAL-181,Valhall,Hod,development,producer,R11,2027-07-16,2027-09-14,291480299.1912387,60248000.0,True
+VAL-158,Valhall,Hod,development,producer,R11,2027-09-16,2027-11-08,256007216.29948503,53517000.0,True
+VAL-100,Valhall,Valhall,development,producer,R11,2027-11-16,2028-01-17,327850474.3525203,66038000.0,True
+ALV-165,Alvheim,Tyrving,development,producer,R12,2026-12-18,2027-02-14,160228721.4567434,77075000.0,True
+ALV-103,Alvheim,Vilje,development,producer,R12,2027-02-18,2027-04-12,440684131.36772573,75220000.0,True
+YGG-168,Yggdrasil,Frøy,development,producer,R12,2027-07-01,2027-08-18,451372763.54233116,69125000.0,True
+EDG-059,Edvard Grieg,Solveig,development,water_injector,R12,2027-08-22,2027-10-04,-545220.7302073687,77948000.0,True
+ALV-092,Alvheim,Bøyla,development,producer,R13,2026-12-12,2027-02-06,305971481.4092321,99590000.0,True
+ALV-086,Alvheim,Bøyla,development,producer,R13,2027-02-10,2027-03-25,414645002.3324752,49117000.0,True
+EDG-097,Edvard Grieg,Solveig,development,producer,R13,2027-03-29,2027-05-10,349345192.593441,67209000.0,True
+YGG-079,Yggdrasil,Fulla,development,water_injector,R13,2027-07-01,2027-08-17,5586414.64823629,61270000.0,True
+YGG-179,Yggdrasil,Frøy,development,producer,R13,2027-08-21,2027-10-13,413935444.2126755,100236000.0,True
+YGG-170,Yggdrasil,Frøy,development,producer,R13,2027-10-15,2027-11-30,334392180.8451777,68878000.0,True
+ALV-071,Alvheim,Bøyla,development,gas_injector,R13,2027-12-04,2028-01-20,-11222940.155664265,59154000.0,True
+SKA-092,Skarv,Idun,development,water_injector,R14,2026-12-15,2027-02-08,4930402.500668958,103268000.0,True
+ALV-026,Alvheim,Alvheim,development,producer,R14,2027-02-14,2027-03-31,416348151.5315679,107652000.0,True
+ALV-095,Alvheim,Bøyla,development,producer,R14,2027-04-04,2027-06-04,458792189.3804612,92726000.0,True
+ALV-120,Alvheim,Vilje,development,producer,R14,2027-06-08,2027-07-30,381615728.6395976,64753000.0,True
+ALV-039,Alvheim,Volund,development,producer,R14,2027-08-03,2027-09-11,300205362.76699495,73322000.0,True
+ALV-112,Alvheim,Vilje,development,water_injector,R14,2027-09-15,2027-11-12,49077986.868984856,65799000.0,True
+EDG-033,Edvard Grieg,Solveig,development,producer,R15,2026-12-21,2027-02-07,83441893.56765088,63843000.0,True
+ALV-050,Alvheim,Volund,development,producer,R15,2027-02-11,2027-04-01,464002600.79563934,62680000.0,True
+YGG-252,Yggdrasil,Frøy,development,producer,R15,2027-07-01,2027-08-04,426069881.45168334,56367000.0,True
+YGG-075,Yggdrasil,Fulla,development,producer,R15,2027-08-17,2027-09-30,362722062.2140446,68709000.0,True
+ALV-067,Alvheim,Bøyla,development,producer,R15,2027-10-04,2027-12-01,278038747.39779985,98391000.0,True
+ALV-130,Alvheim,Skogul,development,producer,R16,2026-12-19,2027-01-28,462886575.6132736,92687000.0,True
+ALV-121,Alvheim,Vilje,development,water_injector,R16,2027-02-01,2027-03-20,-5901987.377142057,60373000.0,True
+ALV-176,Alvheim,Tyrving,development,producer,R16,2027-04-23,2027-06-10,426838088.64696765,71120000.0,True
+ALV-031,Alvheim,Alvheim,development,producer,R16,2027-06-14,2027-07-27,333392477.81886286,65583000.0,True
+YGG-133,Yggdrasil,Fulla,development,water_injector,R16,2027-08-08,2027-09-19,13697985.882352553,62371000.0,True
+ALV-109,Alvheim,Vilje,development,producer,R16,2027-09-23,2027-11-10,322964559.73341334,60015000.0,True
+VAL-045,Valhall,Valhall,development,observation,R17,2026-12-22,2027-01-30,20347899.518130578,38810000.0,True
+VAL-108,Valhall,Valhall,development,producer,R17,2027-02-05,2027-04-06,471346661.293727,72569000.0,True
+FEN-015,Fenris,Fenris,development,producer,R17,2027-04-12,2027-06-09,349202093.7303559,74746000.0,True
+FEN-049,Fenris,Fenris,development,producer,R17,2027-06-11,2027-08-11,351506248.47994095,83019000.0,True
+VAL-066,Valhall,Valhall,development,producer,R17,2027-08-17,2027-10-22,313219432.092261,81336000.0,True
+FEN-024,Fenris,Fenris,development,producer,R17,2027-10-28,2028-01-09,97486847.55224639,95424000.0,True
+EDG-023,Edvard Grieg,Edvard Grieg,development,producer,R18,2027-01-23,2027-03-01,464339992.81312525,42926000.0,True
+IVA-021,Ivar Aasen,Ivar Aasen,development,producer,R18,2027-03-17,2027-04-29,404116750.24216586,51282000.0,True
+IVA-017,Ivar Aasen,Ivar Aasen,development,producer,R18,2027-05-01,2027-06-07,281450337.27571523,39084000.0,True
+VAL-056,Valhall,Valhall,development,water_injector,R18,2027-06-22,2027-08-10,145139085.90943718,65914000.0,True
+EDG-004,Edvard Grieg,Edvard Grieg,development,producer,R18,2027-08-18,2027-09-27,230765069.38873398,49619000.0,True
+EDG-003,Edvard Grieg,Edvard Grieg,development,producer,R18,2027-09-29,2027-11-12,231212241.96804434,48106000.0,True
+VAL-139,Valhall,Valhall,development,producer,R18,2027-11-20,2028-01-23,272280286.54676807,76050000.0,True
+VAL-088,Valhall,Valhall,development,water_injector,R19,2027-02-15,2027-04-01,9798727.420420036,50780000.0,True
+VAL-119,Valhall,Valhall,development,producer,R19,2027-04-07,2027-06-01,367076445.158513,62267000.0,True
+YGG-033,Yggdrasil,Hugin,development,gas_injector,R19,2027-07-01,2027-08-11,13425470.787596472,56412000.0,True
+IVA-068,Ivar Aasen,Ivar Aasen,development,producer,R19,2027-09-11,2027-10-26,266156498.0911749,45833000.0,True
+IVA-072,Ivar Aasen,Ivar Aasen,development,water_injector,R19,2027-10-28,2027-12-04,41719324.49668105,51050000.0,True
+YGG-018,Yggdrasil,Hugin,development,water_injector,R19,2027-12-22,2028-02-04,-16357445.02942333,46761000.0,True
+ALV-077,Alvheim,Bøyla,development,producer,R20,2026-12-20,2027-02-10,220252288.29126343,84659000.0,True
+ALV-162,Alvheim,Tyrving,development,water_injector,R20,2027-02-14,2027-04-11,-65943113.920913905,94260000.0,True
+YGG-110,Yggdrasil,Fulla,development,water_injector,R20,2027-07-01,2027-08-08,150369117.34309134,48174000.0,True
+YGG-059,Yggdrasil,Fulla,development,producer,R20,2028-01-01,2028-02-20,317334809.1972345,63552000.0,False
+VAL-126,Valhall,Valhall,development,producer,R10,2028-01-23,2028-05-08,415514624.4426444,104488000.0,False
+EDG-072,Edvard Grieg,Solveig,development,producer,R12,2028-01-01,2028-02-24,291689224.7085535,80033000.0,False
+YGG-068,Yggdrasil,Fulla,development,producer,R04,2028-01-01,2028-02-15,210324023.97989514,65327000.0,False
+SKA-097,Skarv,Idun,development,producer,R16,2028-01-01,2028-02-23,267710294.21337003,80424000.0,False
+YGG-177,Yggdrasil,Frøy,development,producer,R14,2028-01-01,2028-02-28,326527268.4655621,108918000.0,False
+SKA-084,Skarv,Idun,development,producer,R15,2028-01-01,2028-03-01,233970288.51610878,84974000.0,False
+FEN-043,Fenris,Fenris,development,producer,R09,2028-01-09,2028-03-16,280662007.44282293,82974000.0,False
+VAL-194,Valhall,Hod,development,water_injector,R03,2028-01-01,2028-02-25,79148110.03562489,64173000.0,False
+SKA-077,Skarv,Ærfugl,development,producer,R07,2028-01-07,2028-02-27,244666762.04736388,62224000.0,False
+YGG-025,Yggdrasil,Hugin,development,producer,R17,2028-02-05,2028-03-24,404909068.03366303,46676000.0,False
+VAL-093,Valhall,Valhall,development,producer,R11,2028-01-19,2028-03-17,266524528.85656196,58990000.0,False
+SKA-039,Skarv,Skarv,development,producer,R13,2028-01-26,2028-03-24,264259762.18063504,135207000.0,False
+VAL-019,Valhall,Valhall,development,producer,R01,2028-01-23,2028-03-19,353939511.6530129,59192000.0,False
+EXP-047,Exploration,Exploration,exploration,n/a,R18,2028-02-02,2028-03-26,242756654.8475995,69505000.0,False
+YGG-157,Yggdrasil,Frøy,development,producer,R08,2028-02-03,2028-03-25,364085257.69258106,76976000.0,False
+IVA-037,Ivar Aasen,Ivar Aasen,development,producer,R19,2028-02-12,2028-03-26,184327942.69427204,52523000.0,False
+IVA-078,Ivar Aasen,Ivar Aasen,development,producer,R02,2028-03-30,2028-05-12,162755908.15364614,44618000.0,False
+ALV-025,Alvheim,Alvheim,development,producer,R05,2028-02-10,2028-04-08,356867722.57125497,115190000.0,False
+YGG-218,Yggdrasil,Frøy,development,producer,R06,2028-02-14,2028-04-12,433923120.4803923,79941000.0,False
+EDG-096,Edvard Grieg,Solveig,development,producer,R04,2028-02-19,2028-03-31,261153745.3972847,55645000.0,False
+ALV-091,Alvheim,Bøyla,development,producer,R20,2028-02-24,2028-04-24,365963504.23961675,92223000.0,False
+SKA-030,Skarv,Skarv,development,producer,R16,2028-02-27,2028-04-21,280708339.03458244,122526000.0,False
+ALV-006,Alvheim,Alvheim,development,producer,R12,2028-02-28,2028-05-13,429989419.3646139,153973000.0,False
+VAL-026,Valhall,Valhall,development,producer,R03,2028-03-19,2028-05-15,245562001.6250063,58840000.0,False
+YGG-102,Yggdrasil,Fulla,development,producer,R07,2028-03-04,2028-04-26,360188839.14127046,75237000.0,False
+YGG-065,Yggdrasil,Fulla,development,producer,R14,2028-03-03,2028-04-30,327637863.43885744,101243000.0,False
+YGG-182,Yggdrasil,Frøy,development,producer,R15,2028-03-07,2028-04-22,267535339.1957298,63607000.0,False
+EDG-024,Edvard Grieg,Edvard Grieg,development,producer,R09,2028-03-24,2028-05-17,201862385.59104168,67590000.0,False
+VAL-099,Valhall,Valhall,development,producer,R11,2028-03-19,2028-05-13,240209475.36517015,70756000.0,False
+FEN-004,Fenris,Fenris,development,producer,R01,2028-03-25,2028-05-25,241208505.46718985,74109000.0,False
+ALV-079,Alvheim,Bøyla,development,producer,R13,2028-03-30,2028-05-22,240353084.6046033,85199000.0,False
+YGG-030,Yggdrasil,Hugin,development,producer,R17,2028-03-26,2028-05-22,255197984.7599499,69659000.0,False
+ALV-151,Alvheim,Skogul,development,producer,R08,2028-03-29,2028-05-18,265510240.4318018,81957000.0,False
+EXP-017,Exploration,Exploration,appraisal,n/a,R18,2028-04-01,2028-05-13,143406724.1979074,58927000.0,False
+VAL-142,Valhall,Valhall,development,producer,R19,2028-05-08,2028-06-26,142034106.1479864,54115000.0,False
+ALV-034,Alvheim,Volund,development,producer,R04,2028-04-04,2028-05-15,246800726.34917083,73148000.0,False
+YGG-231,Yggdrasil,Frøy,development,gas_injector,R05,2028-04-12,2028-05-28,45611530.42924327,77540000.0,False
+ALV-174,Alvheim,Tyrving,development,water_injector,R06,2028-04-16,2028-05-28,47306952.25800161,78850000.0,False
+ALV-019,Alvheim,Alvheim,development,producer,R16,2028-04-27,2028-07-07,321797535.1795954,112864000.0,False
+EDG-053,Edvard Grieg,Solveig,development,producer,R15,2028-04-26,2028-06-06,226482181.9271833,65925000.0,False
+EXP-025,Exploration,Exploration,exploration,n/a,R20,2028-05-02,2028-06-26,233529989.45126122,60383000.0,False
+ALV-073,Alvheim,Bøyla,development,producer,R07,2028-04-30,2028-06-22,395385837.96416557,80849000.0,False
+SKA-048,Skarv,Ærfugl,development,producer,R14,2028-05-05,2028-06-13,217702607.70917106,72528000.0,False
+VAL-103,Valhall,Valhall,development,producer,R10,2028-05-14,2028-06-29,137736523.3883029,51356000.0,False
+EXP-031,Exploration,Exploration,exploration,n/a,R02,2028-10-01,2028-11-22,-34847408.4687006,58120000.0,False
+VAL-049,Valhall,Valhall,development,producer,R11,2028-05-19,2028-07-08,280678762.66966605,49717000.0,False
+ALV-004,Alvheim,Alvheim,development,producer,R12,2028-05-15,2028-06-22,511108391.6989206,68504000.0,False
+VAL-167,Valhall,Hod,development,producer,R18,2028-05-21,2028-07-27,250226632.30355358,74615000.0,False
+IVA-061,Ivar Aasen,Ivar Aasen,development,producer,R03,2028-05-23,2028-06-30,11233500.35306663,45605000.0,False
+ALV-021,Alvheim,Alvheim,development,producer,R04,2028-05-19,2028-07-10,277941894.0242252,66221000.0,False
+EDG-008,Edvard Grieg,Edvard Grieg,development,producer,R09,2028-05-19,2028-06-29,157787798.8076864,44497000.0,False
+ALV-160,Alvheim,Tyrving,development,producer,R08,2028-05-22,2028-07-21,285027868.87388605,94515000.0,False
+YGG-204,Yggdrasil,Frøy,development,producer,R13,2028-05-28,2028-07-10,337304606.51704687,103012000.0,False
+FEN-011,Fenris,Fenris,development,producer,R17,2028-05-30,2028-08-17,276708756.74724424,95308000.0,False
+IVA-058,Ivar Aasen,Ivar Aasen,development,producer,R01,2028-07-06,2028-08-24,154073174.72200334,52722000.0,False
+SKA-110,Skarv,Idun,development,producer,R05,2028-06-03,2028-07-13,239721769.1566329,53563000.0,False
+YGG-100,Yggdrasil,Fulla,development,producer,R06,2028-06-01,2028-07-22,321655552.9356947,72852000.0,False
+ALV-003,Alvheim,Alvheim,development,producer,R15,2028-06-22,2028-07-30,387529542.6691926,64810000.0,False
+SKA-073,Skarv,Ærfugl,development,producer,R14,2028-06-17,2028-07-28,228622004.98633355,53610000.0,False
+ALV-062,Alvheim,Volund,development,producer,R07,2028-06-26,2028-08-18,334303953.82883865,98189000.0,False
+EDG-090,Edvard Grieg,Solveig,development,producer,R12,2028-06-26,2028-08-04,142932036.57480755,65761000.0,False
+VAL-071,Valhall,Valhall,development,producer,R19,2028-07-02,2028-08-27,190964239.11498135,69262000.0,False
+EXP-121,Exploration,Exploration,exploration,n/a,R20,2028-06-30,2028-08-19,178498307.99625027,68537000.0,False
+FEN-010,Fenris,Fenris,development,producer,R09,2028-08-17,2028-10-25,279250929.1952581,76620000.0,False
+EDG-010,Edvard Grieg,Edvard Grieg,development,producer,R10,2028-07-07,2028-08-24,154209453.98400444,44793000.0,False
+VAL-044,Valhall,Valhall,development,producer,R03,2028-07-08,2028-08-25,226333532.3414844,57840000.0,False
+ALV-020,Alvheim,Alvheim,development,producer,R16,2028-07-11,2028-08-23,401357590.7434871,80447000.0,False
+VAL-101,Valhall,Valhall,development,producer,R11,2028-07-14,2028-09-15,216183941.14171243,74888000.0,False
+EXP-033,Exploration,Exploration,exploration,n/a,R04,2028-07-16,2028-09-03,473673710.43078446,77208000.0,False
+YGG-248,Yggdrasil,Frøy,development,producer,R13,2028-07-12,2028-08-29,352491010.5001384,86178000.0,False
+YGG-162,Yggdrasil,Frøy,development,producer,R05,2028-07-18,2028-09-21,300842194.42608064,90768000.0,False
+YGG-176,Yggdrasil,Frøy,development,producer,R08,2028-07-25,2028-09-24,338566748.7302276,82987000.0,False
+ALV-069,Alvheim,Bøyla,development,producer,R06,2028-07-26,2028-09-27,291208731.31732064,105958000.0,False
+VAL-133,Valhall,Valhall,development,producer,R18,2028-08-02,2028-09-29,197664386.2005017,76020000.0,False
+YGG-083,Yggdrasil,Fulla,development,producer,R14,2028-08-02,2028-09-14,295020036.938337,72142000.0,False
+YGG-149,Yggdrasil,Frøy,development,producer,R15,2028-08-03,2028-09-18,312308845.8951404,80913000.0,False
+ALV-149,Alvheim,Skogul,development,water_injector,R12,2028-08-08,2028-10-12,621690.0902724117,128969000.0,False
+IVA-018,Ivar Aasen,Ivar Aasen,development,producer,R17,2028-08-24,2028-10-07,104174223.69094695,47469000.0,False
+ALV-017,Alvheim,Alvheim,development,water_injector,R07,2028-08-22,2028-10-22,3121004.9645784944,75657000.0,False
+EXP-058,Exploration,Exploration,exploration,n/a,R20,2028-08-23,2028-09-30,2183330.8992060423,45537000.0,False
+SKA-107,Skarv,Idun,development,producer,R16,2028-08-29,2028-10-14,4333015.729239762,113096000.0,False
+VAL-022,Valhall,Valhall,development,producer,R01,2028-09-01,2028-10-28,282311958.7923342,76082000.0,False
+EXP-028,Exploration,Exploration,appraisal,n/a,R10,2029-04-01,2029-05-10,162669238.90998855,43126000.0,False
+VAL-170,Valhall,Hod,development,producer,R03,2028-08-31,2028-11-09,217872724.5029713,76883000.0,False
+VAL-152,Valhall,Valhall,development,water_injector,R19,2028-09-29,2028-11-16,49009903.8064786,60157000.0,False
+YGG-206,Yggdrasil,Frøy,development,producer,R13,2028-08-31,2028-10-22,369304251.3877076,77869000.0,False
+EXP-088,Exploration,Exploration,exploration,n/a,R04,2028-09-10,2028-10-26,88343515.98546681,62533000.0,False
+SKA-099,Skarv,Idun,development,producer,R14,2028-10-14,2028-11-27,253856583.40502617,67467000.0,False
+VAL-079,Valhall,Valhall,development,producer,R11,2028-09-21,2028-12-03,246026671.6830751,75752000.0,False
+ALV-045,Alvheim,Volund,development,producer,R15,2028-09-22,2028-11-04,201495985.67336535,58623000.0,False
+EDG-064,Edvard Grieg,Solveig,development,producer,R05,2028-09-25,2028-11-14,233310823.7258371,74063000.0,False
+ALV-164,Alvheim,Tyrving,development,producer,R08,2028-09-28,2028-11-09,379446397.2066608,73556000.0,False
+ALV-059,Alvheim,Volund,development,producer,R06,2028-10-01,2028-11-18,254740562.77608475,80166000.0,False
+IVA-006,Ivar Aasen,Ivar Aasen,development,producer,R18,2028-10-07,2028-11-24,181697651.58319888,54430000.0,False
+EXP-083,Exploration,Exploration,appraisal,n/a,R20,2028-10-08,2028-11-29,184105578.54079622,66768000.0,False
+VAL-004,Valhall,Valhall,development,water_injector,R17,2028-10-28,2028-12-15,86512216.67163354,52341000.0,False
+EDG-035,Edvard Grieg,Solveig,development,producer,R12,2028-10-16,2028-11-27,98665884.3714509,52917000.0,False
+YGG-156,Yggdrasil,Frøy,development,producer,R16,2028-10-20,2028-12-07,387117055.6268702,66361000.0,False
+SKA-082,Skarv,Idun,development,producer,R07,2028-10-28,2028-12-20,175391044.62577075,107439000.0,False
+YGG-247,Yggdrasil,Frøy,development,producer,R13,2028-10-24,2028-12-03,283672192.5450348,60010000.0,False
+FEN-016,Fenris,Fenris,development,producer,R09,2028-10-27,2029-01-04,264040788.56936413,100408000.0,False
+SKA-091,Skarv,Idun,development,producer,R04,2028-11-27,2029-01-24,252819805.70280337,84820000.0,False
+IVA-019,Ivar Aasen,Ivar Aasen,development,producer,R01,2028-11-24,2029-01-10,182347209.34954223,41056000.0,False
+ALV-178,Alvheim,Tyrving,development,producer,R15,2028-11-08,2028-12-24,194994355.79426295,105143000.0,False
+VAL-135,Valhall,Valhall,development,producer,R03,2028-11-16,2029-01-25,220017135.71566665,83144000.0,False
+EDG-052,Edvard Grieg,Solveig,development,producer,R08,2028-11-14,2029-01-13,290221814.46466005,104612000.0,False
+ALV-123,Alvheim,Vilje,development,producer,R05,2028-11-18,2029-01-12,178874410.1349485,83382000.0,False
+VAL-054,Valhall,Valhall,development,producer,R19,2029-01-18,2029-03-06,171638356.74530256,47938000.0,False
+ALV-056,Alvheim,Volund,development,producer,R06,2029-01-12,2029-02-26,119982187.90714094,93956000.0,False
+YGG-049,Yggdrasil,Munin,development,water_injector,R02,2029-01-01,2029-02-25,19537834.87542373,68442000.0,False
+IVA-023,Ivar Aasen,Ivar Aasen,development,water_injector,R18,2029-01-10,2029-02-28,-21190602.647120487,46333000.0,False
+YGG-190,Yggdrasil,Frøy,development,water_injector,R12,2028-12-03,2029-02-18,-29357454.370010056,80700000.0,False
+YGG-117,Yggdrasil,Fulla,development,producer,R14,2028-12-03,2029-02-02,272900952.3466614,84482000.0,False
+YGG-084,Yggdrasil,Fulla,development,water_injector,R20,2028-12-03,2029-01-26,-45771613.035500884,71155000.0,False
+IVA-057,Ivar Aasen,Ivar Aasen,development,producer,R11,2029-02-28,2029-04-19,239452048.38165545,52643000.0,False
+YGG-171,Yggdrasil,Frøy,development,producer,R13,2028-12-07,2029-01-27,240325346.7263716,112039000.0,False
+YGG-238,Yggdrasil,Frøy,development,producer,R16,2029-02-18,2029-03-31,287138685.4693408,60928000.0,False
+VAL-153,Valhall,Hod,development,producer,R17,2028-12-21,2029-02-19,185554456.94751275,78532000.0,False
+ALV-015,Alvheim,Alvheim,development,producer,R07,2029-01-02,2029-03-02,386820596.68863803,79048000.0,False
+EDG-030,Edvard Grieg,Solveig,development,producer,R15,2028-12-28,2029-02-20,201506655.7744589,66636000.0,False
+FEN-023,Fenris,Fenris,development,producer,R09,2029-01-06,2029-03-17,227010561.01908565,91151000.0,False
+YGG-011,Yggdrasil,Hugin,development,water_injector,R01,2029-02-01,2029-03-23,-6818648.606916159,59425000.0,False
+YGG-099,Yggdrasil,Fulla,development,producer,R05,2029-04-01,2029-05-21,294384147.50235236,73021000.0,False
+YGG-060,Yggdrasil,Fulla,development,producer,R08,2029-01-17,2029-03-20,249834852.66444176,89508000.0,False
+YGG-184,Yggdrasil,Frøy,development,producer,R04,2029-01-30,2029-03-31,246893385.19698095,93862000.0,False
+VAL-186,Valhall,Hod,development,water_injector,R03,2029-02-19,2029-04-24,-40228164.0018464,91823000.0,False
+SKA-095,Skarv,Idun,development,producer,R20,2029-02-01,2029-03-27,251433937.62443775,93731000.0,False
+YGG-113,Yggdrasil,Fulla,development,water_injector,R13,2029-02-02,2029-03-29,36964466.43067296,86863000.0,False
+ALV-114,Alvheim,Vilje,development,producer,R14,2029-02-06,2029-05-09,214972165.03769022,112497000.0,False
+ALV-058,Alvheim,Volund,development,producer,R12,2029-02-26,2029-05-29,362273176.96191156,136109000.0,False
+VAL-134,Valhall,Valhall,development,producer,R17,2029-02-25,2029-04-08,118261071.44118617,47076000.0,False
+ALV-074,Alvheim,Bøyla,development,producer,R15,2029-02-24,2029-04-10,147570884.11890236,63593000.0,False
+VAL-033,Valhall,Valhall,development,producer,R02,2029-03-07,2029-04-27,187405522.62839758,58662000.0,False
+ALV-166,Alvheim,Tyrving,development,producer,R06,2029-03-02,2029-04-17,211094842.0596036,99693000.0,False
+VAL-074,Valhall,Valhall,development,producer,R18,2029-03-08,2029-04-30,155396761.52071217,57437000.0,False
+YGG-085,Yggdrasil,Fulla,development,water_injector,R07,2029-03-06,2029-04-23,-14546308.184722394,99637000.0,False
+EDG-026,Edvard Grieg,Edvard Grieg,development,producer,R19,2029-03-14,2029-04-27,70213122.22372681,50036000.0,False
+IVA-027,Ivar Aasen,Ivar Aasen,development,producer,R09,2029-04-19,2029-05-26,233947662.0304094,44349000.0,False
+ALV-159,Alvheim,Tyrving,development,producer,R08,2029-03-24,2029-06-08,81844366.91290689,110254000.0,False
+YGG-040,Yggdrasil,Munin,development,producer,R01,2029-03-29,2029-05-03,219518927.1455187,43157000.0,False
+EXP-072,Exploration,Exploration,exploration,n/a,R20,2029-03-31,2029-05-18,282499954.66660666,65428000.0,False
+ALV-138,Alvheim,Skogul,development,producer,R13,2029-05-30,2029-07-10,132959769.28515278,109566000.0,False
+EDG-046,Edvard Grieg,Solveig,development,producer,R04,2029-04-04,2029-05-17,191723508.6881028,76960000.0,False
+YGG-259,Yggdrasil,Frøy,development,water_injector,R16,2029-04-02,2029-05-18,-8888132.52402521,74140000.0,False
+FEN-028,Fenris,Fenris,development,producer,R17,2029-04-14,2029-06-22,203201075.65936962,97794000.0,False
+YGG-118,Yggdrasil,Fulla,development,producer,R15,2029-04-14,2029-05-23,224388858.5623614,56911000.0,False
+YGG-086,Yggdrasil,Fulla,development,producer,R06,2029-04-23,2029-06-11,327292505.49944913,75844000.0,False
+VAL-053,Valhall,Valhall,development,producer,R11,2029-04-27,2029-07-18,224603908.449454,109154000.0,False
+SKA-094,Skarv,Idun,development,gas_injector,R07,2029-04-29,2029-06-20,-1349347.1469376683,119999000.0,False
+IVA-056,Ivar Aasen,Ivar Aasen,development,producer,R03,2029-05-26,2029-07-07,120141872.68044598,52660000.0,False
+VAL-098,Valhall,Valhall,development,producer,R02,2029-05-03,2029-06-19,81374293.30732474,57540000.0,False
+YGG-013,Yggdrasil,Hugin,development,producer,R19,2029-05-04,2029-06-15,261167043.9572504,47007000.0,False
+VAL-146,Valhall,Valhall,development,water_injector,R18,2029-05-06,2029-07-02,1386181.0038141012,75022000.0,False
+VAL-090,Valhall,Valhall,development,producer,R01,2029-05-11,2029-07-04,131959655.15691596,55219000.0,False
+YGG-214,Yggdrasil,Frøy,development,water_injector,R14,2029-05-18,2029-07-06,-7528535.374971576,63688000.0,False
+VAL-190,Valhall,Hod,development,producer,R10,2029-05-18,2029-08-24,256724487.57586163,121859000.0,False
+YGG-132,Yggdrasil,Fulla,development,producer,R04,2029-05-23,2029-07-08,250712944.4359093,62716000.0,False
+YGG-089,Yggdrasil,Fulla,development,producer,R16,2029-05-22,2029-07-01,186614845.57074454,69172000.0,False
+EXP-011,Exploration,Exploration,appraisal,n/a,R20,2029-05-24,2029-07-10,386067280.73182416,85227000.0,False
+YGG-264,Yggdrasil,Frøy,development,producer,R05,2029-07-06,2029-08-19,295081946.9038982,74438000.0,False
+ALV-013,Alvheim,Alvheim,development,producer,R15,2029-05-27,2029-08-01,218448275.6859293,97993000.0,False
+YGG-032,Yggdrasil,Hugin,development,producer,R09,2029-06-20,2029-07-26,293614423.296518,47993000.0,False
+EXP-013,Exploration,Exploration,exploration,n/a,R12,2029-06-04,2029-07-15,218060757.36168858,71014000.0,False
+YGG-152,Yggdrasil,Frøy,development,producer,R08,2029-06-12,2029-07-17,157587363.1091519,79096000.0,False
+ALV-098,Alvheim,Vilje,development,producer,R06,2029-06-15,2029-07-28,175429082.49893492,110488000.0,False
+IVA-059,Ivar Aasen,Ivar Aasen,development,producer,R19,2029-07-07,2029-08-17,152482906.12641296,44444000.0,False
+YGG-045,Yggdrasil,Munin,development,producer,R02,2029-06-28,2029-08-10,278699824.5135942,49426000.0,False
+EDG-041,Edvard Grieg,Solveig,development,producer,R07,2029-06-26,2029-08-10,124461523.77596983,110885000.0,False
+FEN-003,Fenris,Fenris,development,producer,R17,2029-06-24,2029-09-02,193885584.92123586,94589000.0,False
+ALV-111,Alvheim,Vilje,development,producer,R16,2029-07-05,2029-09-03,255389419.5754991,81457000.0,False
+YGG-017,Yggdrasil,Hugin,development,producer,R18,2029-07-26,2029-09-17,228969335.66203797,65649000.0,False
+IVA-034,Ivar Aasen,Ivar Aasen,development,producer,R01,2029-08-17,2029-10-08,182998288.829066,63373000.0,False
+YGG-236,Yggdrasil,Frøy,development,producer,R14,2029-08-25,2029-10-26,358382243.9438457,84729000.0,False
+YGG-034,Yggdrasil,Hugin,development,producer,R03,2029-09-17,2029-10-29,118635514.55153081,52138000.0,False
+SKA-063,Skarv,Ærfugl,development,producer,R04,2029-07-14,2029-09-06,207599137.6059916,101763000.0,False
+SKA-109,Skarv,Idun,development,producer,R13,2029-07-16,2029-08-27,185163062.4054327,72896000.0,False
+EXP-099,Exploration,Exploration,appraisal,n/a,R20,2029-07-16,2029-08-15,146380651.84461707,49373000.0,False
+YGG-158,Yggdrasil,Frøy,development,producer,R12,2029-07-21,2029-09-12,340817682.4390386,100392000.0,False
+ALV-072,Alvheim,Bøyla,development,producer,R08,2029-07-21,2029-09-30,112440880.91848703,112709000.0,False
+VAL-013,Valhall,Valhall,development,water_injector,R11,2029-07-20,2029-10-05,33739691.630534105,75895000.0,False
+IVA-071,Ivar Aasen,Ivar Aasen,development,producer,R09,2029-10-08,2029-11-23,186480623.23161122,54464000.0,False
+SKA-022,Skarv,Skarv,development,water_injector,R06,2029-08-02,2029-09-27,3708235.7535589784,92839000.0,False
+SKA-118,Skarv,Idun,development,producer,R15,2029-11-07,2030-01-03,177931828.64154467,79148000.0,False
+YGG-048,Yggdrasil,Munin,development,producer,R02,2029-08-12,2029-09-29,171323108.5830695,46015000.0,False
+ALV-144,Alvheim,Skogul,development,water_injector,R07,2029-08-14,2029-10-09,35056199.33409366,99094000.0,False
+YGG-151,Yggdrasil,Frøy,development,producer,R20,2029-08-20,2029-10-23,235011574.86242813,95808000.0,False
+VAL-110,Valhall,Valhall,development,water_injector,R19,2029-08-25,2029-10-22,14864016.880633593,63502000.0,False
+ALV-147,Alvheim,Skogul,development,water_injector,R05,2029-08-23,2029-11-05,17718710.80049397,110915000.0,False
+EDG-009,Edvard Grieg,Edvard Grieg,development,producer,R10,2029-09-01,2029-10-12,121939678.87250414,51745000.0,False
+EDG-080,Edvard Grieg,Solveig,development,producer,R13,2029-09-02,2029-10-13,148828121.93413997,63983000.0,False
+FEN-042,Fenris,Fenris,development,producer,R17,2029-09-04,2029-11-22,206394113.55717826,97946000.0,False
+EDG-095,Edvard Grieg,Solveig,development,water_injector,R16,2029-09-07,2029-11-03,22860005.588552386,95966000.0,False
+YGG-105,Yggdrasil,Fulla,development,producer,R04,2029-09-12,2029-10-29,204146010.32706547,67677000.0,False
+ALV-060,Alvheim,Volund,development,water_injector,R12,2029-09-16,2029-10-23,107265185.4922422,70256000.0,False
+YGG-035,Yggdrasil,Munin,development,water_injector,R18,2030-02-01,2030-10-16,42383412.3034396,78597000.0,False
+YGG-036,Yggdrasil,Munin,development,producer,R18,2030-02-10,2030-07-15,222765857.65314278,52294000.0,False
+YGG-037,Yggdrasil,Munin,development,producer,R18,2030-02-21,2030-04-23,366481009.4765,39292000.0,False
+YGG-038,Yggdrasil,Munin,development,producer,R18,2030-03-07,2030-08-23,156314496.53038192,57130000.0,False
+YGG-039,Yggdrasil,Munin,development,producer,R18,2030-03-19,2030-06-02,192478217.5248804,50636000.0,False
+SKA-104,Skarv,Idun,development,producer,R06,2029-10-01,2029-11-20,276289469.37483776,71421000.0,False
+VAL-041,Valhall,Valhall,development,water_injector,R02,2029-10-08,2029-12-14,-20833393.676795132,73267000.0,False
+YGG-078,Yggdrasil,Fulla,development,producer,R08,2029-10-04,2029-11-23,195923236.98866975,115916000.0,False
+VAL-173,Valhall,Hod,development,producer,R11,2029-10-11,2029-11-29,112415677.83920783,50546000.0,False
+VAL-065,Valhall,Valhall,development,water_injector,R01,2029-10-16,2029-12-13,61896244.07437417,73973000.0,False
+YGG-166,Yggdrasil,Frøy,development,producer,R07,2029-10-13,2029-11-28,236756541.79079148,102906000.0,False
+VAL-116,Valhall,Valhall,development,producer,R10,2029-10-22,2029-12-11,120599687.55733725,65017000.0,False
+YGG-195,Yggdrasil,Frøy,development,producer,R13,2029-10-26,2029-12-12,247372483.34022182,75972000.0,False
+VAL-137,Valhall,Valhall,development,water_injector,R19,2029-10-28,2029-12-24,133759747.0412812,59030000.0,False
+YGG-219,Yggdrasil,Frøy,development,producer,R12,2029-12-12,2030-01-28,242327836.72991043,61371000.0,False
+ALV-140,Alvheim,Skogul,development,water_injector,R20,2029-10-27,2029-12-14,-16623573.192807361,67061000.0,False
+YGG-057,Yggdrasil,Fulla,development,producer,R14,2029-10-30,2030-01-11,280120926.9915633,70395000.0,False
+YGG-016,Yggdrasil,Hugin,development,producer,R03,2029-10-31,2029-12-17,122867609.00598541,60719000.0,False
+YGG-122,Yggdrasil,Fulla,development,producer,R04,2029-10-31,2030-01-02,238848744.12917483,78806000.0,False
+EDG-060,Edvard Grieg,Solveig,development,producer,R16,2030-01-02,2030-02-21,155163057.83063576,66231000.0,False
+SKA-004,Skarv,Skarv,development,gas_injector,R05,2029-11-11,2030-01-04,-15536607.757779181,81535000.0,False
+YGG-103,Yggdrasil,Fulla,development,water_injector,R06,2030-01-02,2030-02-19,-13345328.88588,70316000.0,False
+VAL-055,Valhall,Valhall,development,producer,R17,2030-02-22,2030-04-05,219074373.8320104,39625000.0,False
+YGG-069,Yggdrasil,Fulla,development,water_injector,R08,2030-03-20,2030-05-10,1620820.1811408997,69561000.0,False
+IVA-051,Ivar Aasen,Ivar Aasen,development,water_injector,R09,2029-11-25,2029-12-31,51447997.70095988,47207000.0,False
+YGG-055,Yggdrasil,Fulla,development,water_injector,R07,2030-02-01,2030-03-29,-30789373.32068733,110705000.0,False
+VAL-012,Valhall,Valhall,development,producer,R11,2029-12-14,2030-01-27,136675215.30604494,52469000.0,False
+EXP-026,Exploration,Exploration,exploration,n/a,R10,2029-12-20,2030-02-13,-3208735.793507904,75068000.0,False
+SKA-055,Skarv,Ærfugl,development,producer,R13,2029-12-18,2030-02-07,101088572.28073215,65014000.0,False
+YGG-031,Yggdrasil,Hugin,development,producer,R01,2030-03-01,2030-04-29,330397460.0873387,75037000.0,False
+IVA-080,Ivar Aasen,Ivar Aasen,development,producer,R02,2029-12-31,2030-02-13,149520789.5840845,51497000.0,False
+YGG-249,Yggdrasil,Frøy,development,producer,R20,2030-01-28,2030-03-30,321984194.8015835,101140000.0,False
+YGG-027,Yggdrasil,Hugin,development,producer,R03,2029-12-19,2030-01-27,87070540.99951315,45697000.0,False
+VAL-164,Valhall,Hod,development,producer,R19,2030-01-01,2030-02-17,369864970.4833585,52029000.0,False
+FEN-012,Fenris,Fenris,development,producer,R09,2030-01-08,2030-03-15,169433252.5985404,87596000.0,False
+ALV-137,Alvheim,Skogul,development,water_injector,R04,2030-03-04,2030-04-21,10800917.741132878,61143000.0,False
+EDG-087,Edvard Grieg,Solveig,development,producer,R15,2030-01-10,2030-02-18,68750075.71354541,50118000.0,False
+YGG-104,Yggdrasil,Fulla,development,producer,R05,2030-02-19,2030-04-03,267910415.5399931,72306000.0,False
+ALV-094,Alvheim,Bøyla,development,gas_injector,R14,2030-01-15,2030-03-15,-21136863.995800853,115539000.0,False
+YGG-001,Yggdrasil,Hugin,development,producer,R03,2030-04-29,2031-03-01,170192924.121727,62315000.0,False
+YGG-002,Yggdrasil,Hugin,development,producer,R03,2030-05-07,2030-09-09,290465527.44803405,72453000.0,False
+YGG-003,Yggdrasil,Hugin,development,water_injector,R03,2030-05-19,2031-11-18,-42701934.59867728,111645000.0,False
+YGG-004,Yggdrasil,Hugin,development,producer,R03,2030-06-02,2030-12-02,191135816.61205244,63112000.0,False
+YGG-005,Yggdrasil,Hugin,development,producer,R03,2030-06-13,2030-10-21,216037663.83430356,49567000.0,False
+YGG-006,Yggdrasil,Hugin,development,water_injector,R03,2030-06-26,2031-05-24,31619071.925255135,47822000.0,False
+YGG-007,Yggdrasil,Hugin,development,water_injector,R03,2030-07-04,2031-04-09,41132631.628818646,53620000.0,False
+YGG-008,Yggdrasil,Hugin,development,water_injector,R03,2030-07-15,2031-01-07,117419205.09986608,43754000.0,False
+IVA-044,Ivar Aasen,Ivar Aasen,development,producer,R11,2030-02-13,2030-03-25,131836038.76680973,46662000.0,False
+SKA-090,Skarv,Idun,development,producer,R12,2030-02-03,2030-03-31,184209907.78446576,90879000.0,False
+YGG-146,Yggdrasil,Frøy,development,producer,R13,2030-03-01,2030-04-15,262012873.18378985,67286000.0,False
+VAL-113,Valhall,Valhall,development,producer,R02,2030-02-22,2030-05-02,130785619.7371042,70369000.0,False
+VAL-089,Valhall,Valhall,development,producer,R10,2030-02-22,2030-04-24,138233840.3678292,62639000.0,False
+VAL-046,Valhall,Valhall,development,producer,R19,2030-04-05,2030-07-08,124265257.01207085,103136000.0,False
+YGG-112,Yggdrasil,Fulla,development,producer,R15,2030-04-03,2030-05-24,168029739.46878502,81459000.0,False
+ALV-136,Alvheim,Skogul,development,producer,R06,2030-04-21,2030-06-08,344542496.36611384,80108000.0,False
+YGG-232,Yggdrasil,Frøy,development,producer,R16,2030-03-30,2030-05-18,278792908.48090065,71838000.0,False
+IVA-025,Ivar Aasen,Ivar Aasen,development,producer,R09,2030-03-25,2030-05-31,155549036.2109359,91758000.0,False
+ALV-007,Alvheim,Alvheim,development,producer,R14,2030-03-19,2030-06-07,180350436.13025317,127171000.0,False
+VAL-130,Valhall,Valhall,development,producer,R11,2030-04-02,2030-05-30,108565607.26409402,64033000.0,False
+SKA-025,Skarv,Skarv,development,producer,R07,2030-04-04,2030-05-24,185306796.36234894,83416000.0,False
+YGG-071,Yggdrasil,Fulla,development,producer,R20,2030-05-10,2030-06-23,179526928.9872633,65729000.0,False
+EDG-063,Edvard Grieg,Solveig,development,producer,R12,2030-04-06,2030-05-16,141235261.16761592,53369000.0,False
+SKA-016,Skarv,Skarv,development,producer,R05,2030-04-08,2030-06-06,177180861.70034873,82460000.0,False
+FEN-021,Fenris,Fenris,development,producer,R17,2030-04-11,2030-06-18,185225737.40463156,104500000.0,False
+ALV-161,Alvheim,Tyrving,development,producer,R13,2030-04-19,2030-06-30,236608653.50698656,110854000.0,False
+EXP-027,Exploration,Exploration,exploration,n/a,R04,2030-04-27,2030-05-28,104202344.6458354,39379000.0,False
+EXP-146,Exploration,Exploration,exploration,n/a,R10,2030-06-01,2030-07-14,210331561.4113172,40446000.0,False
+IVA-055,Ivar Aasen,Ivar Aasen,development,producer,R01,2030-05-31,2030-07-02,84934970.72178404,45345000.0,False
+VAL-166,Valhall,Hod,development,producer,R02,2030-05-08,2030-07-07,118136207.25638509,84874000.0,False
+YGG-088,Yggdrasil,Fulla,development,producer,R08,2030-06-01,2030-07-19,155153441.10520214,82206000.0,False
+EXP-045,Exploration,Exploration,exploration,n/a,R12,2030-06-01,2030-07-08,152939517.74381796,49057000.0,False
+ALV-145,Alvheim,Skogul,development,producer,R16,2030-07-05,2030-09-17,358786977.8296087,121726000.0,False
+SKA-049,Skarv,Ærfugl,development,producer,R07,2030-05-28,2030-08-12,247545441.01910323,122273000.0,False
+YGG-260,Yggdrasil,Frøy,development,producer,R15,2030-05-28,2030-07-06,200140364.75683045,61561000.0,False
+EXP-056,Exploration,Exploration,exploration,n/a,R04,2030-06-01,2030-07-15,38370010.247011684,69939000.0,False
+VAL-187,Valhall,Hod,development,producer,R11,2030-07-07,2030-09-11,127687946.04150096,82637000.0,False
+FEN-017,Fenris,Fenris,development,producer,R09,2030-06-18,2030-08-27,179166399.39421567,89926000.0,False
+YGG-136,Yggdrasil,Fulla,development,producer,R05,2030-06-11,2030-07-26,120626441.75566778,107958000.0,False
+YGG-058,Yggdrasil,Fulla,development,producer,R14,2030-06-11,2030-07-21,330754931.7572397,62672000.0,False
+YGG-076,Yggdrasil,Fulla,development,producer,R06,2030-06-23,2030-08-01,214945178.64505088,73260000.0,False
+VAL-070,Valhall,Valhall,development,producer,R17,2030-06-24,2030-08-27,133570622.95130861,69590000.0,False
+EXP-129,Exploration,Exploration,exploration,n/a,R20,2030-06-28,2030-07-28,144721930.83634937,40021000.0,False
+SKA-003,Skarv,Skarv,development,producer,R13,2030-07-06,2030-09-07,191617586.4463174,97047000.0,False
+IVA-067,Ivar Aasen,Ivar Aasen,development,producer,R01,2030-07-04,2030-08-16,117649781.56328371,51775000.0,False
+YGG-245,Yggdrasil,Frøy,development,producer,R15,2030-07-08,2030-08-23,221409909.29890883,112253000.0,False
+EXP-108,Exploration,Exploration,exploration,n/a,R02,2030-07-15,2030-08-13,107311390.32574701,46718000.0,False
+YGG-140,Yggdrasil,Frøy,development,producer,R20,2030-09-27,2031-07-25,130325962.23878473,81876000.0,False
+YGG-141,Yggdrasil,Frøy,development,producer,R15,2030-10-11,2031-06-02,151243481.15584773,119068000.0,False
+YGG-142,Yggdrasil,Frøy,development,water_injector,R12,2030-10-25,2031-09-22,71196561.56328416,61804000.0,False
+YGG-143,Yggdrasil,Frøy,development,producer,R12,2030-11-03,2031-01-28,254949407.77089453,100126000.0,False
+YGG-144,Yggdrasil,Frøy,development,producer,R12,2030-11-16,2031-03-24,235212122.495123,80633000.0,False
+YGG-145,Yggdrasil,Frøy,development,water_injector,R12,2030-11-27,2031-11-02,-13239888.464678466,103743000.0,False
+VAL-122,Valhall,Valhall,development,producer,R19,2030-07-14,2030-09-15,104693796.21774355,74293000.0,False
+VAL-001,Valhall,Valhall,development,water_injector,R10,2030-07-22,2030-09-23,-8722750.039246708,68842000.0,False
+EXP-048,Exploration,Exploration,exploration,n/a,R04,2030-07-19,2030-08-24,-6401565.129602052,56014000.0,False
+EDG-031,Edvard Grieg,Solveig,development,producer,R08,2030-07-23,2030-09-11,70309538.18539959,77882000.0,False
+ALV-097,Alvheim,Bøyla,development,producer,R14,2030-07-25,2030-10-09,312702133.0120996,98795000.0,False
+YGG-090,Yggdrasil,Fulla,development,producer,R05,2030-07-30,2030-09-22,231661810.54926184,87294000.0,False
+EXP-089,Exploration,Exploration,exploration,n/a,R20,2030-08-01,2030-09-20,65216799.39286978,71825000.0,False
+ALV-154,Alvheim,Skogul,development,water_injector,R06,2030-08-05,2030-10-09,-16023633.037079722,102588000.0,False
+YGG-139,Yggdrasil,Fulla,development,producer,R07,2030-08-18,2030-10-04,144226344.31754947,92625000.0,False
+VAL-188,Valhall,Hod,development,water_injector,R02,2030-09-11,2030-12-28,48143750.75231208,133686000.0,False
+IVA-016,Ivar Aasen,Ivar Aasen,development,producer,R01,2030-08-18,2030-09-25,95996462.43147099,37390000.0,False
+YGG-244,Yggdrasil,Frøy,development,producer,R15,2030-08-25,2030-10-07,200941737.0719713,63589000.0,False
+EXP-075,Exploration,Exploration,appraisal,n/a,R04,2030-08-30,2030-09-30,140302186.0843475,40883000.0,False
+FEN-050,Fenris,Fenris,development,producer,R09,2030-08-29,2030-10-29,144140840.20238197,84624000.0,False
+VAL-081,Valhall,Valhall,development,producer,R17,2030-08-29,2030-10-29,96720434.18459482,71889000.0,False
+YGG-234,Yggdrasil,Frøy,development,producer,R13,2030-10-07,2030-12-01,225759434.67346695,88712000.0,False
+YGG-067,Yggdrasil,Fulla,development,producer,R08,2030-09-15,2030-10-31,114720356.10632534,75859000.0,False
+VAL-051,Valhall,Valhall,development,producer,R11,2030-09-23,2030-12-02,163480336.4975168,85224000.0,False
+IVA-022,Ivar Aasen,Ivar Aasen,development,producer,R19,2030-09-25,2030-11-02,124992128.31386529,42930000.0,False
+YGG-091,Yggdrasil,Fulla,development,water_injector,R16,2030-10-01,2030-11-13,54714206.10992006,78219000.0,False
+EXP-124,Exploration,Exploration,appraisal,n/a,R20,2030-10-01,2030-10-31,311673716.7636011,45782000.0,False
+YGG-180,Yggdrasil,Frøy,development,producer,R05,2030-09-26,2030-11-11,168698995.8324043,71221000.0,False
+EXP-138,Exploration,Exploration,exploration,n/a,R10,2030-10-02,2030-11-19,87838768.58216292,51496000.0,False
+IVA-042,Ivar Aasen,Ivar Aasen,development,water_injector,R01,2030-11-02,2030-12-18,-10651464.393281072,46604000.0,False
+EXP-081,Exploration,Exploration,appraisal,n/a,R04,2030-11-01,2031-01-08,248897514.87131083,61061000.0,False
+ALV-053,Alvheim,Volund,development,producer,R07,2030-10-08,2030-11-25,138871627.26375118,60494000.0,False
+YGG-066,Yggdrasil,Fulla,development,producer,R15,2030-10-31,2030-12-25,138129289.99768132,107931000.0,False
+ALV-010,Alvheim,Alvheim,development,water_injector,R06,2030-10-13,2030-12-25,6122205.007318705,129347000.0,False
+YGG-126,Yggdrasil,Fulla,development,producer,R14,2030-10-13,2030-12-27,148003935.67698896,101006000.0,False
+VAL-020,Valhall,Valhall,development,producer,R18,2030-12-03,2031-01-25,224709797.53970152,73593000.0,False
+FEN-032,Fenris,Fenris,development,producer,R09,2030-10-31,2030-12-31,150582905.0454442,97834000.0,False
+YGG-047,Yggdrasil,Munin,development,water_injector,R17,2030-11-07,2030-12-14,124245425.80375516,47436000.0,False
+EDG-067,Edvard Grieg,Solveig,development,producer,R08,2030-11-04,2030-12-31,104689269.37037152,72327000.0,False
+SKA-066,Skarv,Ærfugl,development,producer,R20,2030-11-06,2030-12-26,122069772.12676674,80343000.0,False
+VAL-121,Valhall,Valhall,development,producer,R19,2030-11-11,2031-01-31,80570542.40281872,91141000.0,False
+YGG-207,Yggdrasil,Frøy,development,producer,R05,2030-12-01,2031-01-17,242614482.58146232,111134000.0,False
+SKA-046,Skarv,Skarv,development,producer,R16,2030-11-19,2031-01-09,83931071.69247964,82080000.0,False
+EXP-092,Exploration,Exploration,exploration,n/a,R10,2030-12-01,2031-01-01,238757313.00568706,33180000.0,False
+YGG-175,Yggdrasil,Frøy,development,producer,R07,2030-11-29,2031-01-29,144825852.76930735,89159000.0,False
+YGG-080,Yggdrasil,Fulla,development,producer,R13,2031-01-18,2031-02-26,284757351.59865934,52805000.0,False
+IVA-003,Ivar Aasen,Ivar Aasen,development,producer,R11,2030-12-18,2031-02-06,137953289.94744593,61690000.0,False
+IVA-005,Ivar Aasen,Ivar Aasen,development,producer,R17,2031-02-06,2031-03-16,107255840.64823401,42650000.0,False
+FEN-026,Fenris,Fenris,development,producer,R01,2030-12-31,2031-03-07,145770122.20975184,100898000.0,False
+YGG-095,Yggdrasil,Fulla,development,water_injector,R06,2030-12-29,2031-02-26,-2904502.8688938916,86609000.0,False
+YGG-154,Yggdrasil,Frøy,development,producer,R15,2030-12-29,2031-02-16,92243040.07196757,63261000.0,False
+EXP-029,Exploration,Exploration,exploration,n/a,R20,2031-01-01,2031-02-26,77331806.54533306,54460000.0,False
+ALV-030,Alvheim,Alvheim,development,producer,R14,2031-06-01,2031-08-03,184156560.84505153,106912000.0,False
+VAL-161,Valhall,Hod,development,gas_injector,R02,2030-12-30,2031-03-08,-9201566.451333076,65886000.0,False
+SKA-083,Skarv,Idun,development,producer,R08,2031-01-06,2031-03-10,113871362.90187334,116917000.0,False
+IVA-065,Ivar Aasen,Ivar Aasen,development,producer,R09,2031-03-16,2031-04-24,79183260.71103388,53405000.0,False
+VAL-032,Valhall,Valhall,development,producer,R10,2031-01-25,2031-04-01,174901595.84987426,77462000.0,False
+EXP-080,Exploration,Exploration,exploration,n/a,R04,2031-01-15,2031-03-06,79811525.22315395,60171000.0,False
+YGG-225,Yggdrasil,Frøy,development,producer,R16,2031-01-17,2031-03-22,239369992.72854656,102383000.0,False
+EDG-068,Edvard Grieg,Solveig,development,producer,R05,2031-01-21,2031-03-08,101183866.62523004,71886000.0,False
+YGG-044,Yggdrasil,Munin,development,producer,R18,2031-02-12,2031-04-03,275092832.0157062,56885000.0,False
+YGG-235,Yggdrasil,Frøy,development,producer,R07,2031-03-22,2031-05-11,286656831.98898184,98106000.0,False
+VAL-115,Valhall,Valhall,development,producer,R19,2031-05-01,2031-07-17,160889487.11171848,98104000.0,False
+VAL-015,Valhall,Valhall,development,producer,R11,2031-04-01,2031-05-19,141544898.5667243,58376000.0,False
+ALV-124,Alvheim,Skogul,development,producer,R15,2031-02-20,2031-04-17,91231688.72273755,82097000.0,False
+ALV-032,Alvheim,Alvheim,development,producer,R06,2031-03-02,2031-04-23,145924262.87707287,115580000.0,False
+EDG-069,Edvard Grieg,Solveig,development,producer,R13,2031-03-08,2031-04-26,130579191.78768075,74134000.0,False
+EXP-109,Exploration,Exploration,appraisal,n/a,R20,2031-03-02,2031-04-13,115437523.00517875,61306000.0,False
+EXP-023,Exploration,Exploration,exploration,n/a,R04,2031-03-10,2031-05-03,161932465.5621125,69314000.0,False
+FEN-027,Fenris,Fenris,development,producer,R01,2031-03-09,2031-05-08,136311814.2157936,73590000.0,False
+EXP-118,Exploration,Exploration,appraisal,n/a,R02,2031-03-17,2031-04-15,5160521.886968292,30470000.0,False
+ALV-022,Alvheim,Alvheim,development,producer,R05,2031-03-12,2031-05-05,214233678.59146583,81179000.0,False
+ALV-009,Alvheim,Alvheim,development,producer,R08,2031-03-16,2031-06-23,330300691.12029064,124090000.0,False
+IVA-004,Ivar Aasen,Ivar Aasen,development,producer,R17,2031-04-24,2031-06-07,99998414.67647901,58107000.0,False
+YGG-138,Yggdrasil,Fulla,development,producer,R16,2031-04-11,2031-05-25,235575841.8928407,66857000.0,False
+YGG-096,Yggdrasil,Fulla,development,producer,R12,2031-03-28,2031-06-02,142562385.64967215,98542000.0,False
+VAL-125,Valhall,Valhall,development,producer,R10,2031-04-07,2031-06-09,76792854.47864205,66973000.0,False
+VAL-087,Valhall,Valhall,development,producer,R18,2031-04-11,2031-05-28,171304027.04510766,63524000.0,False
+ALV-134,Alvheim,Skogul,development,water_injector,R20,2031-05-01,2031-06-15,12717220.211379483,96973000.0,False
+VAL-092,Valhall,Valhall,development,producer,R02,2031-05-28,2031-08-01,98157079.59966296,70904000.0,False
+ALV-129,Alvheim,Skogul,development,producer,R06,2031-04-27,2031-06-23,84287717.44612873,98441000.0,False
+YGG-043,Yggdrasil,Munin,development,producer,R09,2031-05-01,2031-06-18,123232210.8294836,51695000.0,False
+ALV-101,Alvheim,Vilje,development,water_injector,R13,2031-04-30,2031-06-28,-38305559.928714216,98261000.0,False
+SKA-064,Skarv,Ærfugl,development,producer,R04,2031-05-07,2031-07-14,196787686.83994913,93919000.0,False
+SKA-093,Skarv,Idun,development,producer,R05,2031-05-11,2031-07-06,115942000.41671054,99053000.0,False
+FEN-046,Fenris,Fenris,development,producer,R01,2031-05-10,2031-07-22,146818737.25096083,88939000.0,False
+YGG-198,Yggdrasil,Frøy,development,producer,R07,2031-05-13,2031-07-04,225738872.43053037,94711000.0,False
+VAL-010,Valhall,Valhall,development,producer,R11,2031-05-21,2031-07-08,114957037.90197566,46924000.0,False
+YGG-012,Yggdrasil,Hugin,development,water_injector,R03,2031-05-26,2031-07-08,88695922.87506735,50490000.0,False
+ALV-102,Alvheim,Vilje,development,producer,R16,2031-05-29,2031-07-23,314541840.27291775,73181000.0,False
+IVA-049,Ivar Aasen,Ivar Aasen,development,producer,R18,2031-06-07,2031-07-28,105544714.4352495,70429000.0,False
+SKA-120,Skarv,Idun,development,producer,R12,2031-06-08,2031-08-16,100664212.92013007,122103000.0,False
+ALV-110,Alvheim,Vilje,development,producer,R15,2031-08-01,2031-10-21,275923872.82699347,100604000.0,False
+VAL-016,Valhall,Valhall,development,producer,R17,2031-07-08,2031-08-31,113845471.93995681,52897000.0,False
+YGG-046,Yggdrasil,Munin,development,producer,R10,2031-08-03,2031-09-20,142554918.46492693,51146000.0,False
+FEN-020,Fenris,Fenris,development,producer,R09,2031-07-22,2031-09-21,122778829.88732034,75329000.0,False
+YGG-159,Yggdrasil,Frøy,development,water_injector,R06,2031-06-27,2031-08-04,14521479.75628864,51335000.0,False
+ALV-125,Alvheim,Skogul,development,producer,R08,2031-08-11,2031-10-10,246771917.1901985,139713000.0,False
+YGG-233,Yggdrasil,Frøy,development,producer,R13,2031-07-04,2031-09-02,240401872.83708704,137083000.0,False
+ALV-044,Alvheim,Volund,development,producer,R07,2031-07-08,2031-09-09,163693006.34523445,94676000.0,False
+YGG-073,Yggdrasil,Fulla,development,producer,R05,2031-07-11,2031-09-08,106615327.46299285,92661000.0,False
+YGG-024,Yggdrasil,Hugin,development,producer,R03,2031-07-10,2031-08-25,93188852.18500479,50007000.0,False
+VAL-196,Valhall,Hod,development,producer,R11,2031-07-14,2031-09-10,101476656.81832682,60503000.0,False
+EXP-030,Exploration,Exploration,exploration,n/a,R04,2031-07-18,2031-08-28,131394746.78495976,61602000.0,False
+IVA-046,Ivar Aasen,Ivar Aasen,development,producer,R19,2031-07-28,2031-09-14,107998555.40016031,59564000.0,False
+EDG-017,Edvard Grieg,Edvard Grieg,development,producer,R01,2031-07-29,2031-09-12,77379580.7299048,46828000.0,False
+ALV-027,Alvheim,Alvheim,development,producer,R16,2031-08-03,2031-10-05,168310703.7639268,139286000.0,False
+EXP-148,Exploration,Exploration,exploration,n/a,R20,2031-07-30,2031-09-05,101211942.15437478,58333000.0,False
+VAL-150,Valhall,Valhall,development,producer,R18,2031-08-05,2031-10-11,95008192.81972842,85767000.0,False
+EXP-016,Exploration,Exploration,exploration,n/a,R02,2031-09-01,2031-10-16,163666618.70870224,44203000.0,False
+ALV-118,Alvheim,Vilje,development,producer,R14,2031-08-07,2031-09-21,275602463.0024666,82448000.0,False
+YGG-050,Yggdrasil,Fulla,development,producer,R06,2031-08-08,2032-02-06,125547801.85502474,109413000.0,False
+YGG-051,Yggdrasil,Fulla,development,producer,R06,2031-08-19,2031-12-28,214910062.18068612,111327000.0,False
+YGG-052,Yggdrasil,Fulla,development,producer,R05,2031-08-28,2032-04-27,118896457.36218275,143889000.0,False
+YGG-053,Yggdrasil,Fulla,development,water_injector,R06,2031-09-10,2033-01-15,-23996325.297438085,109276000.0,False
+YGG-054,Yggdrasil,Fulla,development,producer,R06,2031-09-18,2031-11-05,235605710.57773548,60794000.0,False
+YGG-209,Yggdrasil,Frøy,development,producer,R04,2031-09-03,2031-11-09,235437158.21587992,84295000.0,False
+VAL-047,Valhall,Valhall,development,producer,R17,2031-09-02,2031-10-26,56978947.27130708,65416000.0,False
+YGG-189,Yggdrasil,Frøy,development,water_injector,R13,2031-09-06,2031-12-03,-54874653.83717466,134272000.0,False
+EXP-113,Exploration,Exploration,exploration,n/a,R20,2031-10-01,2031-12-27,103857736.6396134,99770000.0,False
+ALV-163,Alvheim,Tyrving,development,producer,R05,2031-09-12,2031-11-10,169955326.26064187,104619000.0,False
+SKA-035,Skarv,Skarv,development,water_injector,R07,2031-09-15,2031-10-26,-51755175.99837652,97718000.0,False
+EDG-007,Edvard Grieg,Edvard Grieg,development,water_injector,R11,2031-09-18,2031-11-07,23165465.058030896,50407000.0,False
+FEN-048,Fenris,Fenris,development,producer,R01,2031-09-21,2031-11-26,120089013.00178766,97344000.0,False
+IVA-039,Ivar Aasen,Ivar Aasen,development,producer,R19,2031-09-16,2031-10-22,70994741.41523081,45569000.0,False
+VAL-050,Valhall,Valhall,development,producer,R10,2031-10-26,2032-01-01,113172328.62306347,83169000.0,False
+VAL-127,Valhall,Valhall,development,producer,R09,2031-10-11,2031-12-06,86105095.51845907,56524000.0,False
+YGG-161,Yggdrasil,Frøy,development,producer,R14,2031-09-25,2031-11-16,178999058.34090713,95440000.0,False
+ALV-087,Alvheim,Bøyla,development,producer,R16,2031-10-09,2031-12-20,134211327.87003182,102750000.0,False
+YGG-251,Yggdrasil,Frøy,development,producer,R08,2031-11-09,2031-12-30,175231801.95315656,88048000.0,False
+VAL-083,Valhall,Valhall,development,water_injector,R18,2031-10-17,2031-12-27,-10715869.370636947,85574000.0,False
+YGG-014,Yggdrasil,Hugin,development,producer,R02,2031-11-18,2032-01-09,68325261.8247436,63573000.0,False
+ALV-008,Alvheim,Alvheim,development,producer,R15,2031-10-25,2032-01-16,185571340.0507748,124456000.0,False
+IVA-020,Ivar Aasen,Ivar Aasen,development,producer,R19,2031-10-24,2031-12-04,65561204.14634997,38608000.0,False
+YGG-187,Yggdrasil,Frøy,development,producer,R07,2031-12-09,2032-01-31,140536471.6235611,65781000.0,False
+VAL-195,Valhall,Hod,development,producer,R17,2031-11-01,2031-12-19,59652177.643793866,56134000.0,False
+YGG-131,Yggdrasil,Fulla,development,water_injector,R12,2031-11-06,2031-12-21,82098714.65476663,57335000.0,False
+IVA-060,Ivar Aasen,Ivar Aasen,development,producer,R11,2031-12-04,2032-01-24,60681949.546676606,55446000.0,False
+SKA-078,Skarv,Ærfugl,development,water_injector,R04,2031-11-15,2032-01-11,25724741.813121185,79813000.0,False
+ALV-148,Alvheim,Skogul,development,producer,R05,2031-11-14,2032-01-10,89756318.57919101,109704000.0,False
+SKA-013,Skarv,Skarv,development,producer,R14,2031-11-22,2032-01-14,165199738.19391966,69715000.0,False
+IVA-064,Ivar Aasen,Ivar Aasen,development,water_injector,R03,2032-01-24,2032-03-11,-35997715.88695167,61516000.0,False
+FEN-040,Fenris,Fenris,development,producer,R01,2031-11-28,2032-02-12,135609506.69871897,109593000.0,False
+YGG-221,Yggdrasil,Frøy,development,producer,R13,2031-12-30,2032-02-26,114378500.44931877,110673000.0,False
+VAL-091,Valhall,Valhall,development,producer,R19,2031-12-27,2032-03-24,108029641.38262777,116349000.0,False
+VAL-035,Valhall,Valhall,development,producer,R09,2032-01-01,2032-03-20,117618117.56055123,101332000.0,False
+VAL-162,Valhall,Hod,development,water_injector,R17,2032-02-01,2032-04-06,10020067.801272355,67293000.0,False
+SKA-024,Skarv,Skarv,development,producer,R16,2031-12-27,2032-02-14,101993141.9414554,59742000.0,False
+EXP-020,Exploration,Exploration,exploration,n/a,R12,2031-12-25,2032-01-27,31357324.251670644,34559000.0,False
+VAL-138,Valhall,Valhall,development,producer,R18,2032-01-02,2032-04-02,109355532.66794918,95746000.0,False
+YGG-119,Yggdrasil,Fulla,development,producer,R20,2032-01-01,2032-02-17,76448874.75658059,63665000.0,False
+ALV-135,Alvheim,Skogul,development,producer,R08,2032-01-03,2032-02-25,292515475.6253798,88236000.0,False
+YGG-015,Yggdrasil,Hugin,development,producer,R10,2032-01-11,2032-03-05,54961829.14936959,64722000.0,False
+YGG-022,Yggdrasil,Hugin,development,producer,R02,2032-03-05,2032-04-27,48010417.858739376,67942000.0,False
+YGG-229,Yggdrasil,Frøy,development,producer,R04,2032-02-26,2032-04-13,168246275.73955852,63325000.0,False
+ALV-088,Alvheim,Bøyla,development,water_injector,R14,2032-01-20,2032-03-01,68688710.8449207,67984000.0,False
+EDG-045,Edvard Grieg,Solveig,development,producer,R15,2032-05-01,2032-06-15,111347233.04544833,78878000.0,False
+IVA-007,Ivar Aasen,Ivar Aasen,development,producer,R11,2032-03-11,2032-05-09,91264978.36982399,81428000.0,False
+SKA-026,Skarv,Skarv,development,water_injector,R12,2032-02-02,2032-03-25,2046379.0382939652,97692000.0,False
+YGG-120,Yggdrasil,Fulla,development,gas_injector,R07,2032-02-17,2032-04-16,25118969.752253637,83958000.0,False
+SKA-010,Skarv,Skarv,development,producer,R06,2032-02-12,2032-03-29,81492666.05157286,59510000.0,False
+FEN-008,Fenris,Fenris,development,producer,R01,2032-02-14,2032-04-26,120174751.29033881,95349000.0,False
+YGG-147,Yggdrasil,Frøy,development,water_injector,R16,2032-02-20,2032-05-02,7168411.966549233,112586000.0,False
+EDG-098,Edvard Grieg,Solveig,development,producer,R20,2032-02-21,2032-04-24,144830280.2080607,79894000.0,False
+ALV-001,Alvheim,Alvheim,development,water_injector,R08,2032-02-29,2032-04-23,20047055.790551305,107723000.0,False
+ALV-168,Alvheim,Tyrving,development,producer,R13,2032-03-01,2032-04-28,139991030.6009778,73480000.0,False
+ALV-068,Alvheim,Bøyla,development,producer,R14,2032-03-05,2032-06-02,161273730.44168013,130896000.0,False
+VAL-078,Valhall,Valhall,development,producer,R10,2032-03-24,2032-05-28,66253065.82595822,82896000.0,False
+VAL-025,Valhall,Valhall,development,producer,R03,2032-03-20,2032-05-25,70186172.61342409,88472000.0,False
+FEN-044,Fenris,Fenris,development,producer,R09,2032-04-26,2032-07-01,177423744.83344585,88510000.0,False
+VAL-156,Valhall,Hod,development,producer,R19,2032-05-25,2032-07-13,245558260.60632902,49361000.0,False
+YGG-223,Yggdrasil,Frøy,development,producer,R12,2032-04-13,2032-05-30,151966216.33081543,82122000.0,False
+ALV-157,Alvheim,Tyrving,development,producer,R06,2032-04-04,2032-06-11,148117219.1519596,113750000.0,False
+YGG-010,Yggdrasil,Hugin,development,producer,R18,2032-04-27,2032-06-13,43333089.9843497,56974000.0,False
+EDG-013,Edvard Grieg,Edvard Grieg,development,producer,R17,2032-04-14,2032-05-24,44178470.279078566,48031000.0,False
+SKA-020,Skarv,Skarv,development,producer,R04,2032-04-19,2032-06-13,120104025.57243215,107619000.0,False
+ALV-005,Alvheim,Alvheim,development,producer,R07,2032-04-20,2032-06-30,157322969.7108338,103594000.0,False
+ALV-064,Alvheim,Volund,development,gas_injector,R20,2032-04-28,2032-07-31,-74069426.53444919,167875000.0,False
+VAL-076,Valhall,Valhall,development,water_injector,R01,2032-05-28,2032-07-13,18904454.739369832,60501000.0,False
+EXP-046,Exploration,Exploration,exploration,n/a,R02,2032-05-04,2032-06-04,45363559.201250404,39691000.0,False
+SKA-072,Skarv,Ærfugl,development,producer,R05,2032-05-02,2032-06-27,131978996.22339705,78247000.0,False
+ALV-133,Alvheim,Skogul,development,producer,R13,2032-05-02,2032-06-18,137746462.8809095,71727000.0,False
+IVA-009,Ivar Aasen,Ivar Aasen,development,producer,R11,2032-05-15,2032-06-21,160434615.82367194,38852000.0,False
+FEN-039,Fenris,Fenris,development,producer,R17,2032-07-01,2032-09-05,110487242.19650558,91110000.0,False
+VAL-123,Valhall,Valhall,development,producer,R03,2032-07-01,2032-08-19,278288218.6827795,47254000.0,False
+EDG-005,Edvard Grieg,Edvard Grieg,development,water_injector,R10,2032-06-05,2032-07-19,25239760.011217877,52178000.0,False
+EXP-144,Exploration,Exploration,exploration,n/a,R12,2032-06-07,2032-07-12,114171892.37634999,63015000.0,False
+YGG-197,Yggdrasil,Frøy,development,producer,R14,2032-06-06,2032-07-22,233353907.13915187,104115000.0,False
+EDG-016,Edvard Grieg,Edvard Grieg,development,water_injector,R02,2032-07-19,2032-09-05,19507072.682217933,58301000.0,False
+ALV-143,Alvheim,Skogul,development,producer,R06,2032-06-15,2032-09-15,156618474.69706824,146215000.0,False
+ALV-085,Alvheim,Bøyla,development,producer,R04,2032-06-19,2032-09-11,171731158.77061015,140963000.0,False
+EXP-085,Exploration,Exploration,appraisal,n/a,R18,2032-07-01,2032-08-11,28262858.888207734,61416000.0,False
+ALV-119,Alvheim,Vilje,development,producer,R15,2032-06-19,2032-09-13,100563220.71924064,147468000.0,False
+YGG-169,Yggdrasil,Frøy,development,producer,R13,2032-06-22,2032-08-18,105325551.47566949,96830000.0,False
+IVA-048,Ivar Aasen,Ivar Aasen,development,producer,R11,2032-06-23,2032-08-13,57058126.75070534,56080000.0,False
+SKA-044,Skarv,Skarv,development,producer,R05,2032-07-01,2032-09-17,112092941.47242199,117479000.0,False
+ALV-099,Alvheim,Vilje,development,producer,R07,2032-07-04,2032-09-13,16837720.369840905,128121000.0,False
+IVA-036,Ivar Aasen,Ivar Aasen,development,producer,R09,2032-08-13,2032-09-22,108572163.2002851,50230000.0,False
+YGG-153,Yggdrasil,Frøy,development,producer,R12,2032-07-20,2032-09-15,82416368.14410847,93787000.0,False
+FEN-022,Fenris,Fenris,development,producer,R01,2032-09-05,2032-11-12,105745550.14378862,100608000.0,False
+VAL-165,Valhall,Hod,development,water_injector,R19,2032-07-15,2032-09-21,-24551057.951688536,91713000.0,False
+VAL-084,Valhall,Valhall,development,producer,R10,2032-07-27,2032-09-29,51980638.3964428,79870000.0,False
+SKA-116,Skarv,Idun,development,producer,R14,2032-07-27,2032-09-17,96023901.4889965,117023000.0,False
+EXP-123,Exploration,Exploration,exploration,n/a,R20,2032-08-08,2032-09-08,235292863.50794694,39196000.0,False
+VAL-129,Valhall,Valhall,development,producer,R18,2032-08-19,2032-10-23,94903316.32872924,82185000.0,False
+VAL-199,Valhall,Hod,development,water_injector,R11,2032-09-21,2032-11-30,-35309578.47018742,73713000.0,False
+YGG-188,Yggdrasil,Frøy,development,producer,R13,2032-08-20,2032-10-29,131855473.26704702,103936000.0,False
+VAL-027,Valhall,Valhall,development,producer,R03,2032-08-25,2032-10-19,54596202.56291693,61093000.0,False
+VAL-038,Valhall,Valhall,development,water_injector,R02,2033-08-01,2033-09-21,83078231.07864961,60533000.0,False
+VAL-128,Valhall,Valhall,development,producer,R17,2032-10-23,2033-02-16,132297335.80303586,126497000.0,False
+EXP-120,Exploration,Exploration,appraisal,n/a,R20,2032-09-16,2032-10-24,126690797.25918299,53143000.0,False
+YGG-128,Yggdrasil,Fulla,development,water_injector,R04,2032-09-15,2032-11-20,3340034.2700235844,113317000.0,False
+YGG-268,Yggdrasil,Frøy,development,producer,R07,2032-09-17,2032-11-07,149110976.86029893,83144000.0,False
+EDG-088,Edvard Grieg,Solveig,development,producer,R15,2032-09-17,2032-11-03,92077377.7265991,53163000.0,False
+ALV-018,Alvheim,Alvheim,development,producer,R06,2032-09-19,2032-11-24,108685786.05481365,107988000.0,False
+EXP-111,Exploration,Exploration,exploration,n/a,R12,2032-09-20,2032-10-26,-10981945.354641445,54212000.0,False
+SKA-060,Skarv,Ærfugl,development,water_injector,R05,2032-09-21,2032-11-04,47530939.507925935,68003000.0,False
+EDG-048,Edvard Grieg,Solveig,development,producer,R14,2032-09-23,2032-11-01,57709870.158544555,58880000.0,False
+VAL-172,Valhall,Hod,development,producer,R19,2032-12-02,2033-01-23,188695309.4777866,54561000.0,False
+FEN-031,Fenris,Fenris,development,producer,R09,2032-11-12,2033-01-27,114629371.5240142,88397000.0,False
+VAL-086,Valhall,Valhall,development,producer,R10,2032-10-01,2032-11-15,24595903.65523392,56265000.0,False
+IVA-053,Ivar Aasen,Ivar Aasen,development,water_injector,R03,2032-10-27,2032-12-11,50717179.946363635,44277000.0,False
+VAL-192,Valhall,Hod,development,gas_injector,R18,2033-01-23,2033-03-26,-15885497.840371538,77630000.0,False
+EDG-050,Edvard Grieg,Solveig,development,producer,R20,2032-11-01,2032-12-19,76034434.74076855,74967000.0,False
+YGG-200,Yggdrasil,Frøy,development,producer,R12,2032-11-07,2032-12-31,111839490.63667193,85224000.0,False
+YGG-164,Yggdrasil,Frøy,development,producer,R13,2032-11-02,2032-12-24,81061903.67522648,87144000.0,False
+SKA-101,Skarv,Idun,development,producer,R14,2032-11-07,2033-01-01,44576960.89525265,88520000.0,False
+EDG-032,Edvard Grieg,Solveig,development,producer,R15,2032-11-07,2032-12-27,61188698.52237159,65189000.0,False
+YGG-254,Yggdrasil,Frøy,development,producer,R05,2032-12-31,2033-02-27,135201741.111656,117544000.0,False
+ALV-037,Alvheim,Volund,development,producer,R07,2032-11-11,2033-01-05,249530683.16659403,69513000.0,False
+FEN-005,Fenris,Fenris,development,producer,R01,2033-01-27,2033-03-28,99175186.27869552,80598000.0,False
+VAL-021,Valhall,Valhall,development,producer,R10,2032-11-21,2033-01-10,34655235.00493193,60695000.0,False
+EXP-036,Exploration,Exploration,exploration,n/a,R04,2033-02-01,2033-03-11,105525642.56335491,46288000.0,False
+IVA-077,Ivar Aasen,Ivar Aasen,development,water_injector,R11,2032-12-11,2033-01-20,2808703.8347559795,36564000.0,False
+IVA-033,Ivar Aasen,Ivar Aasen,development,gas_injector,R03,2033-01-20,2033-03-08,-17428207.5265935,59014000.0,False
+YGG-269,Yggdrasil,Frøy,development,producer,R20,2033-02-27,2033-04-23,161809776.46767592,99154000.0,False
+YGG-185,Yggdrasil,Frøy,development,producer,R13,2032-12-28,2033-02-10,81651540.42700809,91874000.0,False
+YGG-183,Yggdrasil,Frøy,development,gas_injector,R15,2033-02-10,2033-03-26,46352758.88886443,61879000.0,False
+SKA-100,Skarv,Idun,development,producer,R12,2033-01-06,2033-02-28,34028863.923578,73804000.0,False
+YGG-186,Yggdrasil,Frøy,development,producer,R14,2033-03-26,2033-06-11,142986190.49176824,159544000.0,False
+YGG-160,Yggdrasil,Frøy,development,producer,R07,2033-03-30,2033-06-20,89285172.87233883,115751000.0,False
+EDG-020,Edvard Grieg,Edvard Grieg,development,producer,R10,2033-01-19,2033-03-25,43733128.1731842,77847000.0,False
+YGG-125,Yggdrasil,Fulla,development,producer,R06,2033-01-19,2033-03-07,49903470.01503674,62914000.0,False
+IVA-063,Ivar Aasen,Ivar Aasen,development,producer,R11,2033-03-08,2033-05-10,199287842.16031772,83774000.0,False
+VAL-107,Valhall,Valhall,development,water_injector,R19,2033-01-29,2033-03-19,12485325.589018654,51598000.0,False
+IVA-041,Ivar Aasen,Ivar Aasen,development,producer,R09,2033-05-10,2033-06-22,108157936.21758333,53133000.0,False
+EDG-079,Edvard Grieg,Solveig,development,producer,R13,2033-02-14,2033-04-05,41260422.469299555,66145000.0,False
+VAL-147,Valhall,Valhall,development,water_injector,R17,2033-02-18,2033-04-20,16028272.633919962,61155000.0,False
+YGG-064,Yggdrasil,Fulla,development,producer,R05,2033-03-03,2033-05-10,175582849.53109246,82337000.0,False
+SKA-059,Skarv,Ærfugl,development,gas_injector,R12,2033-03-04,2033-05-18,20814160.39451451,98450000.0,False
+EDG-100,Edvard Grieg,Solveig,development,producer,R06,2033-03-11,2033-04-16,45085186.01132159,57742000.0,False
+VAL-198,Valhall,Hod,development,producer,R03,2033-03-26,2033-05-10,151010571.7309833,47809000.0,False
+EDG-099,Edvard Grieg,Solveig,development,producer,R04,2033-04-16,2033-06-07,57772899.74534909,80385000.0,False
+IVA-035,Ivar Aasen,Ivar Aasen,development,producer,R19,2033-06-22,2033-08-19,55411771.80630355,72230000.0,False
+VAL-180,Valhall,Hod,development,producer,R10,2033-05-10,2033-07-25,106147183.27623096,101819000.0,False
+ALV-063,Alvheim,Volund,development,producer,R15,2033-03-30,2033-06-04,103673390.79554829,83977000.0,False
+EXP-127,Exploration,Exploration,exploration,n/a,R18,2033-04-03,2033-04-30,54192366.59130539,42217000.0,False
+FEN-045,Fenris,Fenris,development,producer,R01,2033-03-30,2033-06-06,90487884.85607481,85961000.0,False
+ALV-152,Alvheim,Skogul,development,producer,R13,2033-04-09,2033-07-31,193907004.4884373,173464000.0,False
+YGG-239,Yggdrasil,Frøy,development,producer,R06,2033-04-23,2033-07-23,251190348.81545776,123141000.0,False
+FEN-035,Fenris,Fenris,development,producer,R17,2033-06-06,2033-08-09,84001626.44787863,84843000.0,False
+EXP-128,Exploration,Exploration,exploration,n/a,R20,2033-04-29,2033-06-04,49612344.979251005,55376000.0,False
+YGG-023,Yggdrasil,Hugin,development,water_injector,R18,2033-05-06,2033-06-26,42497764.21858872,53056000.0,False
+IVA-008,Ivar Aasen,Ivar Aasen,development,producer,R03,2033-08-19,2033-09-23,112747309.96248484,44290000.0,False
+YGG-124,Yggdrasil,Fulla,development,producer,R05,2033-05-14,2033-07-09,52092858.52586259,126126000.0,False
+VAL-077,Valhall,Valhall,development,producer,R11,2033-05-23,2033-08-16,28032021.473612383,106639000.0,False
+EXP-134,Exploration,Exploration,exploration,n/a,R12,2033-09-01,2033-10-14,5538382.600571305,71042000.0,False
+ALV-132,Alvheim,Skogul,development,producer,R15,2033-06-08,2033-08-05,85436164.87685095,86219000.0,False
+SKA-112,Skarv,Idun,development,producer,R20,2033-07-01,2033-09-14,126277105.75087394,101863000.0,False
+YGG-028,Yggdrasil,Hugin,development,producer,R01,2033-06-26,2033-09-12,49828810.955712296,93883000.0,False
+YGG-172,Yggdrasil,Frøy,development,producer,R04,2033-06-11,2033-08-28,92500845.77132684,126427000.0,False
+YGG-082,Yggdrasil,Fulla,development,producer,R14,2033-06-15,2033-08-18,89689485.46810411,105381000.0,False
+YGG-193,Yggdrasil,Frøy,development,producer,R07,2033-07-23,2033-09-14,127831498.849107,78849000.0,False
+FEN-030,Fenris,Fenris,development,producer,R09,2033-08-09,2033-10-10,82093809.48679781,83914000.0,False
+VAL-163,Valhall,Hod,development,producer,R18,2033-07-25,2033-09-06,128341342.07449523,46608000.0,False
+SKA-069,Skarv,Ærfugl,development,producer,R05,2033-07-14,2033-09-02,44162402.276900105,89365000.0,False
+ALV-150,Alvheim,Skogul,development,gas_injector,R06,2033-07-31,2033-09-11,57369552.162853286,64226000.0,False
+VAL-168,Valhall,Hod,development,producer,R10,2033-09-06,2033-10-27,59759426.961003624,56732000.0,False
+YGG-191,Yggdrasil,Frøy,development,producer,R13,2033-09-14,2033-11-11,149317907.91602117,105421000.0,False
+YGG-108,Yggdrasil,Fulla,development,water_injector,R15,2033-08-09,2033-10-02,-11642014.451837592,80110000.0,False
+VAL-075,Valhall,Valhall,development,producer,R17,2033-08-16,2033-10-23,48145714.26508536,70648000.0,False
+VAL-144,Valhall,Valhall,development,producer,R11,2033-08-22,2033-12-14,83148519.37832502,111276000.0,False
+ALV-142,Alvheim,Skogul,development,producer,R14,2034-02-01,2034-03-23,95868291.0161857,83316000.0,False
+IVA-075,Ivar Aasen,Ivar Aasen,development,producer,R19,2033-09-23,2033-11-04,86116318.68378446,42498000.0,False
+ALV-036,Alvheim,Volund,development,producer,R04,2033-09-01,2033-10-18,100430938.14565389,91283000.0,False
+EXP-102,Exploration,Exploration,exploration,n/a,R18,2033-09-12,2033-10-12,6366300.568990283,34972000.0,False
+SKA-028,Skarv,Skarv,development,producer,R06,2033-09-16,2033-11-09,44846064.5611588,97980000.0,False
+VAL-176,Valhall,Hod,development,producer,R01,2033-10-27,2034-01-31,103438735.60007441,115803000.0,False
+SKA-051,Skarv,Ærfugl,development,producer,R07,2034-03-01,2034-04-16,60743398.65850712,70135000.0,False
+EDG-034,Edvard Grieg,Solveig,development,producer,R20,2033-09-20,2033-10-30,32813980.714150496,53407000.0,False
+IVA-013,Ivar Aasen,Ivar Aasen,development,producer,R02,2033-11-04,2033-12-17,35197189.76380074,52788000.0,False
+YGG-019,Yggdrasil,Hugin,development,water_injector,R03,2033-09-29,2033-11-14,35584793.684539504,49924000.0,False
+YGG-217,Yggdrasil,Frøy,development,producer,R15,2033-11-11,2034-01-03,96824943.0030596,70258000.0,False
+FEN-037,Fenris,Fenris,development,producer,R09,2033-10-12,2033-12-25,203141763.86068898,116171000.0,False
+VAL-028,Valhall,Valhall,development,producer,R18,2033-10-18,2033-12-11,22508853.986820713,66672000.0,False
+ALV-024,Alvheim,Alvheim,development,producer,R12,2034-01-01,2034-05-02,224257282.4099016,166246000.0,False
+EDG-092,Edvard Grieg,Solveig,development,producer,R04,2033-10-22,2033-12-20,82643038.64575115,73105000.0,False
+FEN-029,Fenris,Fenris,development,producer,R17,2033-12-25,2034-03-07,82184384.21247472,77365000.0,False
+EDG-011,Edvard Grieg,Edvard Grieg,development,producer,R10,2033-11-04,2033-12-28,27617008.59734086,72198000.0,False
+SKA-080,Skarv,Ærfugl,development,producer,R20,2033-11-05,2033-12-27,113602992.29763168,105885000.0,False
+VAL-043,Valhall,Valhall,development,producer,R19,2033-12-20,2034-02-07,127444584.76683332,67907000.0,False
+ALV-084,Alvheim,Bøyla,development,water_injector,R06,2033-11-15,2034-01-09,10942184.357620068,79091000.0,False
+YGG-135,Yggdrasil,Fulla,development,water_injector,R13,2033-11-15,2034-01-14,7830493.72952465,74506000.0,False
+YGG-070,Yggdrasil,Fulla,development,producer,R05,2034-03-21,2034-05-07,65214689.35369495,65283000.0,False
+IVA-014,Ivar Aasen,Ivar Aasen,development,producer,R03,2033-12-17,2034-01-28,17700120.517728917,46595000.0,False
+EXP-063,Exploration,Exploration,exploration,n/a,R18,2034-01-01,2034-02-27,84331729.0113941,42425000.0,False
+VAL-118,Valhall,Valhall,development,producer,R11,2033-12-20,2034-02-18,165897630.16578937,76134000.0,False
+VAL-145,Valhall,Valhall,development,producer,R02,2034-06-01,2034-08-20,222885100.54044783,98824000.0,False
+EXP-135,Exploration,Exploration,exploration,n/a,R04,2033-12-24,2034-01-24,34264282.16004718,48849000.0,False
+FEN-041,Fenris,Fenris,development,producer,R09,2034-03-07,2034-05-11,74028988.1750246,101778000.0,False
+YGG-203,Yggdrasil,Frøy,development,producer,R20,2034-01-03,2034-03-02,82050225.83380452,96949000.0,False
+IVA-028,Ivar Aasen,Ivar Aasen,development,gas_injector,R10,2034-01-28,2034-03-16,49379744.17319018,50204000.0,False
+SKA-057,Skarv,Ærfugl,development,producer,R15,2034-01-09,2034-02-23,44756632.03666184,52114000.0,False
+SKA-076,Skarv,Ærfugl,development,water_injector,R06,2034-01-15,2034-03-11,-10175914.087743491,77931000.0,False
+YGG-127,Yggdrasil,Fulla,development,producer,R13,2034-01-16,2034-03-15,141154205.6082853,91830000.0,False
+EXP-052,Exploration,Exploration,appraisal,n/a,R04,2034-01-28,2034-03-05,4734890.9530877955,45226000.0,False
+IVA-070,Ivar Aasen,Ivar Aasen,development,producer,R03,2034-03-16,2034-04-30,35943626.635235265,58711000.0,False
+VAL-159,Valhall,Hod,development,producer,R01,2034-02-02,2034-03-31,55705026.16755362,59380000.0,False
+VAL-175,Valhall,Hod,development,producer,R19,2034-03-31,2034-06-03,34311820.994942226,70884000.0,False
+VAL-014,Valhall,Valhall,development,water_injector,R11,2034-02-24,2034-06-02,10903492.569702595,111804000.0,False
+YGG-215,Yggdrasil,Frøy,development,producer,R15,2034-03-02,2034-04-25,98670301.18610333,129713000.0,False
+YGG-042,Yggdrasil,Munin,development,water_injector,R18,2034-03-06,2034-04-26,16472632.002101779,63942000.0,False
+EXP-098,Exploration,Exploration,exploration,n/a,R20,2034-03-06,2034-04-12,19777117.61658009,51271000.0,False
+ALV-177,Alvheim,Tyrving,development,producer,R04,2034-03-09,2034-05-26,66346337.90796623,136529000.0,False
+EDG-012,Edvard Grieg,Edvard Grieg,development,producer,R17,2034-03-14,2034-05-07,21130195.309375316,71211000.0,False
+ALV-061,Alvheim,Volund,development,producer,R06,2034-09-01,2034-10-13,122956961.7256152,69998000.0,False
+YGG-109,Yggdrasil,Fulla,development,producer,R13,2034-03-17,2034-04-30,57233233.5016658,62052000.0,False
+IVA-010,Ivar Aasen,Ivar Aasen,development,producer,R10,2034-04-30,2034-06-19,38391169.132200435,55436000.0,False
+SKA-103,Skarv,Idun,development,water_injector,R14,2034-03-29,2034-05-26,-41406525.693677425,102307000.0,False
+FEN-006,Fenris,Fenris,development,producer,R01,2034-05-11,2034-07-10,60627580.491027385,79555000.0,False
+EXP-006,Exploration,Exploration,appraisal,n/a,R20,2034-04-18,2034-06-03,130737596.62814265,73201000.0,False
+ALV-089,Alvheim,Bøyla,development,producer,R07,2034-04-22,2034-06-17,134524295.79018563,96616000.0,False
+ALV-070,Alvheim,Bøyla,development,producer,R15,2034-04-29,2034-06-21,70576746.88593099,106261000.0,False
+YGG-026,Yggdrasil,Hugin,development,water_injector,R18,2034-05-02,2034-06-24,13272986.25131321,61679000.0,False
+VAL-114,Valhall,Valhall,development,water_injector,R03,2034-05-08,2034-07-21,4553183.595364943,74010000.0,False
+YGG-174,Yggdrasil,Frøy,development,water_injector,R13,2034-05-04,2034-06-27,33044514.043344744,84909000.0,False
+SKA-011,Skarv,Skarv,development,producer,R12,2034-05-08,2034-07-15,113109765.91242686,107780000.0,False
+SKA-056,Skarv,Ærfugl,development,producer,R05,2034-05-12,2034-07-02,46956896.56669058,78966000.0,False
+VAL-155,Valhall,Hod,development,producer,R17,2034-06-03,2034-07-23,55536315.50124744,62581000.0,False
+FEN-009,Fenris,Fenris,development,producer,R09,2034-07-10,2034-09-22,71134659.73567572,112190000.0,False
+SKA-067,Skarv,Ærfugl,development,producer,R04,2034-06-01,2034-08-01,86650264.54388301,78111000.0,False
+SKA-015,Skarv,Skarv,development,producer,R14,2034-07-15,2034-09-25,78451418.71183905,106658000.0,False
+IVA-073,Ivar Aasen,Ivar Aasen,development,producer,R11,2034-06-19,2034-07-24,103275540.78376661,39748000.0,False
+IVA-001,Ivar Aasen,Ivar Aasen,development,producer,R19,2034-07-24,2034-10-05,42171072.499043256,76929000.0,False
+EXP-117,Exploration,Exploration,appraisal,n/a,R20,2034-06-07,2034-07-24,-3075283.9364288077,66484000.0,False
+ALV-131,Alvheim,Skogul,development,water_injector,R07,2034-06-21,2034-09-14,-15494754.273085572,111148000.0,False
+VAL-157,Valhall,Hod,development,water_injector,R10,2034-07-23,2034-09-05,45798497.18216058,48350000.0,False
+YGG-265,Yggdrasil,Frøy,development,producer,R15,2034-06-25,2034-09-21,139715120.6450258,169125000.0,False
+EDG-018,Edvard Grieg,Edvard Grieg,development,gas_injector,R18,2034-06-30,2034-08-15,5690131.160332169,48510000.0,False
+YGG-267,Yggdrasil,Frøy,development,producer,R13,2034-09-21,2034-11-04,51714522.246744275,98926000.0,False
+FEN-038,Fenris,Fenris,development,producer,R01,2034-09-22,2034-12-04,72322064.07220314,94754000.0,False
+ALV-083,Alvheim,Bøyla,development,producer,R12,2034-09-01,2034-12-01,228839887.10370016,128028000.0,False
+VAL-169,Valhall,Hod,development,water_injector,R03,2034-09-21,2034-11-22,50866294.60359649,75578000.0,False
+VAL-200,Valhall,Hod,development,producer,R17,2034-12-01,2035-01-26,164699968.74043447,59202000.0,False
+VAL-171,Valhall,Hod,development,producer,R11,2035-01-26,2035-04-15,35727851.07383816,82329000.0,False
+SKA-087,Skarv,Idun,development,producer,R20,2034-07-28,2034-09-07,77154633.80618477,71245000.0,False
+ALV-155,Alvheim,Skogul,development,producer,R04,2034-09-18,2034-12-05,66470446.37210858,100888000.0,False
+VAL-143,Valhall,Valhall,development,producer,R18,2035-07-01,2035-08-15,85499235.19210371,53925000.0,False
+VAL-154,Valhall,Hod,development,producer,R02,2035-04-15,2035-08-06,81923789.11477801,128810000.0,False
+VAL-132,Valhall,Valhall,development,water_injector,R10,2035-08-15,2035-10-16,-26921520.437786933,75648000.0,False
+YGG-255,Yggdrasil,Frøy,development,producer,R20,2034-12-29,2035-02-22,57761132.27210952,110306000.0,False
+YGG-129,Yggdrasil,Fulla,development,water_injector,R07,2034-09-18,2034-11-14,52051525.32710534,100307000.0,False
+EDG-039,Edvard Grieg,Solveig,development,producer,R15,2034-09-25,2034-12-09,72175568.9810878,99556000.0,False
+IVA-032,Ivar Aasen,Ivar Aasen,development,producer,R09,2034-10-05,2034-11-16,23636060.247827344,52360000.0,False
+YGG-210,Yggdrasil,Frøy,development,producer,R14,2034-11-04,2034-12-23,69100116.33474585,85463000.0,False
+ALV-126,Alvheim,Skogul,development,producer,R06,2034-10-17,2034-11-23,87927227.59977514,46084000.0,False
+SKA-096,Skarv,Idun,development,producer,R13,2034-11-10,2035-01-04,25180695.538148634,80000000.0,False
+SKA-088,Skarv,Idun,development,producer,R07,2034-11-20,2035-01-23,51062593.543203175,89374000.0,False
+FEN-018,Fenris,Fenris,development,producer,R09,2034-12-04,2035-02-18,53695925.20174992,112059000.0,False
+ALV-158,Alvheim,Tyrving,development,water_injector,R06,2034-12-01,2035-02-22,10273869.660932027,87520000.0,False
+YGG-106,Yggdrasil,Fulla,development,water_injector,R12,2034-12-05,2035-02-08,-18574761.647119254,112038000.0,False
+YGG-077,Yggdrasil,Fulla,development,producer,R05,2035-02-22,2035-04-07,90087228.88942924,64618000.0,False
+IVA-066,Ivar Aasen,Ivar Aasen,development,producer,R01,2034-12-12,2035-01-21,20175077.30038095,53283000.0,False
+EXP-140,Exploration,Exploration,appraisal,n/a,R04,2035-03-01,2035-04-10,86441407.57286474,42973000.0,False
+SKA-007,Skarv,Skarv,development,producer,R15,2034-12-16,2035-02-02,38721751.92073834,56301000.0,False
+ALV-172,Alvheim,Tyrving,development,producer,R14,2034-12-27,2035-02-26,46080025.28346896,93382000.0,False
+SKA-071,Skarv,Ærfugl,development,producer,R13,2035-01-08,2035-03-04,18335935.47079345,69767000.0,False
+FEN-007,Fenris,Fenris,development,producer,R01,2035-02-18,2035-04-27,58564507.7542212,88851000.0,False
+EDG-073,Edvard Grieg,Solveig,development,water_injector,R07,2035-01-30,2035-04-03,-21790699.693817873,87509000.0,False
+IVA-011,Ivar Aasen,Ivar Aasen,development,producer,R17,2035-02-04,2035-03-21,13037520.30012105,45765000.0,False
+YGG-211,Yggdrasil,Frøy,development,producer,R15,2035-02-22,2035-05-18,94809731.8403755,117127000.0,False
+EXP-105,Exploration,Exploration,exploration,n/a,R12,2035-02-13,2035-04-09,128702400.62547006,49205000.0,False
+IVA-047,Ivar Aasen,Ivar Aasen,development,producer,R09,2035-03-21,2035-04-25,7655022.440516677,47891000.0,False
+ALV-179,Alvheim,Tyrving,development,producer,R06,2035-03-16,2035-04-30,165316684.7837133,74778000.0,False
+EXP-019,Exploration,Exploration,exploration,n/a,R20,2035-02-28,2035-04-11,188247628.889457,49898000.0,False
+YGG-056,Yggdrasil,Fulla,development,producer,R14,2035-03-02,2035-04-09,33840795.79536772,85744000.0,False
+ALV-023,Alvheim,Alvheim,development,producer,R13,2035-03-10,2035-05-26,39643701.43958131,116582000.0,False
+FEN-036,Fenris,Fenris,development,producer,R17,2035-04-27,2035-07-01,159254021.90259802,104912000.0,False
+ALV-066,Alvheim,Volund,development,water_injector,R07,2035-04-07,2035-05-30,31430592.45749399,121770000.0,False
+YGG-098,Yggdrasil,Fulla,development,producer,R05,2035-04-11,2035-05-29,41083382.41303983,107524000.0,False
+YGG-246,Yggdrasil,Frøy,development,producer,R12,2035-05-18,2035-06-25,35884439.38727683,63364000.0,False
+EDG-094,Edvard Grieg,Solveig,development,producer,R14,2035-04-13,2035-05-24,43565756.94252656,95826000.0,False
+YGG-240,Yggdrasil,Frøy,development,producer,R04,2035-06-25,2035-08-12,51913252.15371191,82128000.0,False
+SKA-115,Skarv,Idun,development,producer,R20,2035-04-15,2035-07-07,99836293.84124836,184399000.0,False
+VAL-082,Valhall,Valhall,development,water_injector,R11,2035-07-01,2035-09-09,22846640.963229924,75078000.0,False
+VAL-067,Valhall,Valhall,development,producer,R19,2035-10-05,2035-12-04,100535774.10809448,74772000.0,False
+VAL-034,Valhall,Valhall,development,producer,R03,2035-12-08,2036-02-06,142244132.13933277,62953000.0,False
+IVA-012,Ivar Aasen,Ivar Aasen,development,producer,R09,2035-04-27,2035-06-08,10382775.561009072,52746000.0,False
+VAL-068,Valhall,Valhall,development,water_injector,R01,2035-05-03,2035-06-20,2400831.32242826,50744000.0,False
+YGG-130,Yggdrasil,Fulla,development,producer,R06,2035-05-04,2035-07-26,64216019.116822034,147032000.0,False
+EDG-086,Edvard Grieg,Solveig,development,gas_injector,R15,2035-05-24,2035-07-29,-22276052.841192603,152250000.0,False
+ALV-127,Alvheim,Skogul,development,producer,R14,2035-05-28,2035-08-29,68690811.96005803,132579000.0,False
+SKA-102,Skarv,Idun,development,producer,R13,2035-06-01,2035-08-06,104157627.64298117,93607000.0,False
+ALV-170,Alvheim,Tyrving,development,gas_injector,R05,2035-06-02,2035-07-24,41265017.8392801,69786000.0,False
+YGG-093,Yggdrasil,Fulla,development,producer,R07,2035-06-03,2035-08-03,69493312.2598207,124251000.0,False
+FEN-013,Fenris,Fenris,development,producer,R09,2035-07-01,2035-09-02,111721021.03018028,73368000.0,False
+FEN-034,Fenris,Fenris,development,producer,R01,2035-09-02,2035-11-09,39808869.35895464,90609000.0,False
+EXP-065,Exploration,Exploration,exploration,n/a,R12,2035-07-03,2035-08-14,39458815.207240894,73855000.0,False
+FEN-001,Fenris,Fenris,development,producer,R17,2035-11-09,2036-01-20,28744697.732840024,96808000.0,False
+SKA-031,Skarv,Skarv,development,producer,R20,2035-07-11,2035-10-14,82119135.68377842,171999000.0,False
+EDG-049,Edvard Grieg,Solveig,development,producer,R05,2035-07-28,2035-09-06,27185690.48657112,75449000.0,False
+YGG-063,Yggdrasil,Fulla,development,water_injector,R06,2035-07-30,2035-09-11,32397688.071539525,61189000.0,False
+EDG-093,Edvard Grieg,Solveig,development,producer,R15,2035-07-31,2035-09-15,89594317.94929834,114915000.0,False
+YGG-097,Yggdrasil,Fulla,development,producer,R07,2035-08-05,2035-09-28,42123516.98340571,68632000.0,False
+VAL-111,Valhall,Valhall,development,producer,R02,2035-10-01,2035-11-17,122585386.24159677,52971000.0,False
+YGG-261,Yggdrasil,Frøy,development,producer,R13,2035-08-12,2035-10-04,69527352.87559775,85741000.0,False
+EXP-032,Exploration,Exploration,exploration,n/a,R04,2035-08-21,2035-09-24,-10152092.565535758,53389000.0,False
+EXP-142,Exploration,Exploration,exploration,n/a,R12,2035-08-22,2035-10-08,37400580.22748838,85831000.0,False
+VAL-177,Valhall,Hod,development,observation,R18,2035-08-21,2035-09-30,2971169.503349904,47835000.0,False
+SKA-014,Skarv,Skarv,development,gas_injector,R14,2035-09-03,2035-10-22,-7564498.527867876,107435000.0,False
+FEN-047,Fenris,Fenris,development,producer,R09,2036-01-20,2036-03-19,22052771.472617336,75461000.0,False
+ALV-082,Alvheim,Bøyla,development,producer,R05,2036-09-01,2036-10-23,125868647.1961749,65999000.0,False
+IVA-069,Ivar Aasen,Ivar Aasen,development,producer,R11,2035-09-17,2035-10-29,2225043.6150793396,47142000.0,False
+ALV-108,Alvheim,Vilje,development,gas_injector,R06,2036-12-01,2037-01-15,39927249.2827693,102680000.0,False
+EDG-055,Edvard Grieg,Solveig,development,water_injector,R15,2035-09-19,2035-11-04,-33906646.623348035,86213000.0,False
+YGG-237,Yggdrasil,Frøy,development,producer,R04,2035-10-04,2035-11-28,50302368.869008385,115772000.0,False
+ALV-115,Alvheim,Vilje,development,producer,R07,2035-10-02,2035-11-24,44967488.01117584,78375000.0,False
+VAL-174,Valhall,Hod,development,water_injector,R18,2035-11-01,2036-01-30,31279382.66864509,103541000.0,False
+EDG-058,Edvard Grieg,Solveig,development,producer,R13,2035-11-04,2035-12-17,100117494.7928138,71407000.0,False
+YGG-165,Yggdrasil,Frøy,development,water_injector,R12,2035-10-12,2035-12-05,30317031.20043972,74918000.0,False
+EDG-036,Edvard Grieg,Solveig,development,producer,R20,2035-10-20,2035-12-11,101679644.72242898,81926000.0,False
+VAL-085,Valhall,Valhall,development,producer,R10,2035-12-04,2036-01-17,84314538.00702411,45344000.0,False
+SKA-029,Skarv,Skarv,development,water_injector,R14,2036-12-01,2037-01-23,-30015776.374135565,101650000.0,False
+IVA-074,Ivar Aasen,Ivar Aasen,development,producer,R11,2035-11-01,2035-12-18,85810013.87501627,48988000.0,False
+ALV-171,Alvheim,Tyrving,development,producer,R15,2035-11-08,2035-12-29,90434855.07598737,105495000.0,False
+FEN-033,Fenris,Fenris,development,producer,R01,2036-03-19,2036-05-20,28089815.726030655,85248000.0,False
+EXP-053,Exploration,Exploration,exploration,n/a,R02,2036-07-01,2036-08-10,9959151.707885418,42343000.0,False
+YGG-114,Yggdrasil,Fulla,development,gas_injector,R07,2035-11-28,2036-01-27,14021906.774984308,91521000.0,False
+ALV-048,Alvheim,Volund,development,water_injector,R04,2035-12-02,2036-02-01,23197203.073451817,85203000.0,False
+VAL-069,Valhall,Valhall,development,producer,R19,2037-05-01,2037-06-21,15681493.425291844,58354000.0,False
+EXP-084,Exploration,Exploration,appraisal,n/a,R12,2036-02-14,2036-03-30,33787226.460300066,63137000.0,False
+YGG-216,Yggdrasil,Frøy,development,producer,R20,2035-12-15,2036-02-14,64385664.47603102,87140000.0,False
+YGG-072,Yggdrasil,Fulla,development,producer,R13,2035-12-21,2036-02-22,14918514.8239154,106194000.0,False
+VAL-042,Valhall,Valhall,development,water_injector,R11,2036-12-01,2037-02-21,18028329.64122276,94740000.0,False
+EDG-054,Edvard Grieg,Solveig,development,producer,R15,2036-01-24,2036-03-17,109188716.98444612,122640000.0,False
+VAL-039,Valhall,Valhall,development,producer,R10,2037-03-01,2037-04-20,43599841.14849731,63506000.0,False
+IVA-015,Ivar Aasen,Ivar Aasen,development,producer,R18,2036-02-08,2036-03-25,10650627.15320078,45088000.0,False
+EXP-044,Exploration,Exploration,exploration,n/a,R04,2036-04-26,2036-06-01,25239379.187946368,54532000.0,False
+VAL-124,Valhall,Valhall,development,producer,R03,2036-11-01,2037-01-23,25994123.971262038,96572000.0,False
+EXP-136,Exploration,Exploration,exploration,n/a,R20,2036-02-18,2036-04-04,37554257.22511242,70669000.0,False
+ALV-035,Alvheim,Volund,development,producer,R13,2036-03-25,2036-05-29,28956670.34600497,134183000.0,False
+YGG-134,Yggdrasil,Fulla,development,water_injector,R15,2036-03-21,2036-06-16,-5646878.181700595,114519000.0,False
+FEN-002,Fenris,Fenris,development,producer,R09,2036-05-20,2036-07-24,21341889.96728553,95925000.0,False
+IVA-029,Ivar Aasen,Ivar Aasen,development,water_injector,R18,2036-03-27,2036-05-03,6464156.906248651,38947000.0,False
+YGG-241,Yggdrasil,Frøy,development,producer,R12,2036-04-03,2036-06-09,65236407.23804813,122393000.0,False
+YGG-250,Yggdrasil,Frøy,development,producer,R20,2036-06-09,2036-08-08,54681067.01547799,75405000.0,False
+EXP-074,Exploration,Exploration,appraisal,n/a,R18,2036-05-09,2036-06-29,2039080.959050607,53987000.0,False
+IVA-040,Ivar Aasen,Ivar Aasen,development,water_injector,R01,2036-05-27,2036-07-07,3408623.0535314158,46608000.0,False
+ALV-104,Alvheim,Vilje,development,producer,R13,2037-06-01,2037-07-08,134682780.75450224,97234000.0,False
+SKA-119,Skarv,Idun,development,producer,R04,2036-06-05,2036-08-19,79774020.72069934,138909000.0,False
+EXP-003,Exploration,Exploration,appraisal,n/a,R12,2036-06-14,2036-07-31,26019528.841506183,80939000.0,False
+ALV-042,Alvheim,Volund,development,producer,R15,2036-06-20,2036-08-23,40072812.38328855,127542000.0,False
+EXP-137,Exploration,Exploration,exploration,n/a,R18,2038-12-01,2039-01-08,13195490.062722523,53503000.0,False
+VAL-183,Valhall,Hod,development,water_injector,R01,2036-07-15,2036-09-16,-11425663.126717132,87205000.0,False
+SKA-002,Skarv,Skarv,development,producer,R12,2036-08-04,2036-09-24,34946735.853803396,74474000.0,False
+ALV-122,Alvheim,Vilje,development,producer,R20,2037-03-13,2037-04-25,129208117.22935557,59456000.0,False
+VAL-197,Valhall,Hod,development,producer,R02,2036-11-16,2037-01-27,30136728.036321223,81142000.0,False
+YGG-253,Yggdrasil,Frøy,development,producer,R04,2036-08-25,2036-10-17,51035101.9508539,69441000.0,False
+ALV-041,Alvheim,Volund,development,producer,R15,2036-10-01,2036-11-14,170032970.7936347,73650000.0,False
+FEN-019,Fenris,Fenris,development,producer,R01,2037-07-01,2037-09-05,48491171.607233524,98680000.0,False
+EXP-073,Exploration,Exploration,exploration,n/a,R12,2037-08-01,2037-09-15,35897213.518126674,77692000.0,False
+YGG-228,Yggdrasil,Frøy,development,producer,R04,2036-10-19,2036-12-15,55828561.40812639,86110000.0,False
+YGG-266,Yggdrasil,Frøy,development,water_injector,R05,2036-12-15,2037-02-08,40392575.73187236,75692000.0,False
+SKA-041,Skarv,Skarv,development,producer,R15,2037-04-19,2037-06-11,84365536.04290414,82232000.0,False
+EXP-078,Exploration,Exploration,appraisal,n/a,R04,2037-04-01,2037-05-21,119510262.19874951,77570000.0,False
+EDG-047,Edvard Grieg,Solveig,development,water_injector,R06,2037-01-19,2037-03-08,-12899817.252972547,69434000.0,False
+VAL-185,Valhall,Hod,development,producer,R03,2038-05-01,2038-06-30,192101627.4637992,73483000.0,False
+YGG-222,Yggdrasil,Frøy,development,producer,R14,2037-02-08,2037-03-22,52704636.8647667,84272000.0,False
+EXP-060,Exploration,Exploration,exploration,n/a,R02,2037-06-01,2037-06-28,21856338.942342184,30647000.0,False
+SKA-017,Skarv,Skarv,development,producer,R05,2037-03-28,2037-05-11,75532620.72929913,94594000.0,False
+VAL-189,Valhall,Hod,development,producer,R11,2037-11-01,2037-12-23,109970264.63292259,55613000.0,False
+EDG-037,Edvard Grieg,Solveig,development,producer,R06,2037-03-12,2037-04-26,869904.7396880612,104880000.0,False
+ALV-175,Alvheim,Tyrving,development,producer,R14,2037-03-26,2037-06-05,110160302.02730517,101765000.0,False
+IVA-026,Ivar Aasen,Ivar Aasen,development,producer,R10,2037-08-01,2037-09-08,18908607.627373002,49353000.0,False
+ALV-057,Alvheim,Volund,development,producer,R20,2037-04-29,2037-07-20,25494165.670037173,115429000.0,False
+EDG-061,Edvard Grieg,Solveig,development,producer,R06,2037-05-14,2037-07-03,59129023.749943845,72655000.0,False
+ALV-116,Alvheim,Vilje,development,producer,R05,2037-05-16,2037-07-11,62509645.73832526,75114000.0,False
+EXP-014,Exploration,Exploration,exploration,n/a,R04,2037-05-25,2037-07-04,22333107.568009622,49669000.0,False
+EDG-082,Edvard Grieg,Solveig,development,producer,R14,2037-07-03,2037-08-23,53532405.834640495,126589000.0,False
+YGG-178,Yggdrasil,Frøy,development,gas_injector,R15,2037-06-17,2037-08-01,495205.5776071772,64606000.0,False
+YGG-199,Yggdrasil,Frøy,development,producer,R07,2037-10-24,2037-12-13,31324023.686640963,118918000.0,False
+VAL-057,Valhall,Valhall,development,producer,R19,2038-02-01,2039-01-31,34876759.8650441,87841000.0,False
+VAL-058,Valhall,Valhall,development,producer,R19,2038-02-15,2039-04-03,27446309.928286724,77920000.0,False
+VAL-059,Valhall,Valhall,development,producer,R19,2038-02-28,2038-11-28,17838893.043764286,64081000.0,False
+VAL-060,Valhall,Valhall,development,water_injector,R19,2038-03-13,2038-08-19,30916074.228754416,56350000.0,False
+VAL-061,Valhall,Valhall,development,producer,R19,2038-03-21,2038-07-09,105728415.48390195,63248000.0,False
+VAL-062,Valhall,Valhall,development,producer,R19,2038-04-03,2038-10-13,81816504.71097358,61071000.0,False
+VAL-063,Valhall,Valhall,development,water_injector,R19,2038-04-15,2039-07-11,-2979090.7635730878,106417000.0,False
+VAL-064,Valhall,Valhall,development,producer,R01,2038-04-23,2038-06-03,122758128.04093453,42970000.0,False
+EXP-010,Exploration,Exploration,exploration,n/a,R02,2037-10-01,2037-10-30,38189159.68121731,26547000.0,False
+ALV-038,Alvheim,Volund,development,producer,R06,2037-07-07,2037-09-24,44663155.75874014,154446000.0,False
+EXP-132,Exploration,Exploration,exploration,n/a,R04,2037-09-01,2037-10-25,16393677.770745695,77357000.0,False
+SKA-065,Skarv,Ærfugl,development,producer,R13,2039-04-01,2039-05-17,22241742.963352453,68825000.0,False
+SKA-068,Skarv,Ærfugl,development,producer,R05,2037-07-16,2037-09-04,24975507.258844852,96943000.0,False
+EXP-091,Exploration,Exploration,exploration,n/a,R20,2037-07-25,2037-08-29,19448358.61139142,63419000.0,False
+YGG-258,Yggdrasil,Frøy,development,producer,R15,2037-08-05,2037-10-04,33742214.06933816,109059000.0,False
+YGG-094,Yggdrasil,Fulla,development,gas_injector,R14,2037-08-27,2037-10-12,20922880.358097576,65602000.0,False
+EXP-100,Exploration,Exploration,appraisal,n/a,R20,2037-09-02,2037-10-05,131333842.28077853,53730000.0,False
+YGG-213,Yggdrasil,Frøy,development,observation,R05,2037-12-13,2038-01-18,2948951.396367006,47139000.0,False
+FEN-025,Fenris,Fenris,development,producer,R01,2038-02-01,2038-04-06,42158594.127462916,98754000.0,False
+EDG-057,Edvard Grieg,Solveig,development,producer,R12,2037-09-21,2037-11-18,5674993.648737207,128866000.0,False
+ALV-173,Alvheim,Tyrving,development,producer,R06,2037-09-28,2037-12-08,5884138.631573893,108236000.0,False
+EDG-085,Edvard Grieg,Solveig,development,water_injector,R15,2038-04-01,2038-05-15,25471921.61520586,96557000.0,False
+EXP-115,Exploration,Exploration,exploration,n/a,R20,2037-12-01,2038-01-14,14992807.039456934,54923000.0,False
+YGG-194,Yggdrasil,Frøy,development,producer,R14,2038-01-18,2038-03-18,47923549.19584281,95588000.0,False
+ALV-113,Alvheim,Vilje,development,producer,R04,2038-07-01,2038-08-06,172977185.50035888,52042000.0,False
+EXP-069,Exploration,Exploration,exploration,n/a,R02,2038-04-01,2038-05-17,33533451.45479111,60153000.0,False
+EXP-012,Exploration,Exploration,appraisal,n/a,R12,2037-11-22,2038-01-11,24947046.198534433,59350000.0,False
+EDG-074,Edvard Grieg,Solveig,development,producer,R06,2037-12-12,2038-01-31,14240568.888709322,91536000.0,False
+ALV-107,Alvheim,Vilje,development,producer,R07,2037-12-17,2038-03-10,30278772.96573749,167298000.0,False
+VAL-097,Valhall,Valhall,development,water_injector,R11,2037-12-29,2038-03-28,-20317424.066819433,112578000.0,False
+EXP-021,Exploration,Exploration,exploration,n/a,R12,2038-01-15,2038-03-06,19507554.812522944,59221000.0,False
+EDG-070,Edvard Grieg,Solveig,development,producer,R20,2038-03-01,2038-04-15,87604638.24112862,68404000.0,False
+ALV-033,Alvheim,Volund,development,producer,R05,2039-05-01,2039-06-24,84973733.40946648,80351000.0,False
+YGG-107,Yggdrasil,Fulla,development,water_injector,R06,2038-02-04,2038-03-26,19238867.911993004,75421000.0,False
+ALV-128,Alvheim,Skogul,development,observation,R12,2038-03-10,2038-04-18,2048560.2038262784,56629000.0,False
+YGG-061,Yggdrasil,Fulla,development,observation,R07,2038-03-14,2038-04-16,1498524.345457051,54376000.0,False
+SKA-058,Skarv,Ærfugl,development,producer,R14,2038-03-24,2038-05-14,8896529.32972714,75408000.0,False
+SKA-005,Skarv,Skarv,development,water_injector,R06,2038-04-01,2038-05-19,-24097967.869546086,115953000.0,False
+VAL-096,Valhall,Valhall,development,producer,R11,2038-08-01,2038-09-24,112579026.05993374,58720000.0,False
+ALV-076,Alvheim,Bøyla,development,observation,R20,2038-04-19,2038-05-23,5617290.775690965,49261000.0,False
+SKA-114,Skarv,Idun,development,producer,R07,2038-04-22,2038-06-10,18655918.66591339,65844000.0,False
+EXP-070,Exploration,Exploration,exploration,n/a,R12,2038-04-23,2038-06-06,26816510.183202885,62306000.0,False
+YGG-173,Yggdrasil,Frøy,development,water_injector,R14,2038-05-19,2038-07-16,21176401.245618463,123456000.0,False
+ALV-065,Alvheim,Volund,development,producer,R15,2038-05-19,2038-07-19,136501706.45402494,120313000.0,False
+VAL-140,Valhall,Valhall,development,producer,R02,2038-06-20,2038-08-15,39821692.96458492,68266000.0,False
+SKA-008,Skarv,Skarv,development,water_injector,R06,2038-05-23,2038-07-28,17277519.00335508,116617000.0,False
+YGG-256,Yggdrasil,Frøy,development,gas_injector,R20,2038-05-27,2038-08-14,29955634.599691987,99790000.0,False
+VAL-106,Valhall,Valhall,development,producer,R01,2039-04-01,2039-06-04,30410121.407908026,70350000.0,False
+EXP-149,Exploration,Exploration,exploration,n/a,R12,2038-06-13,2038-07-30,20734648.180311874,66593000.0,False
+SKA-040,Skarv,Skarv,development,producer,R07,2038-06-14,2038-09-08,27042738.49929878,138228000.0,False
+VAL-052,Valhall,Valhall,development,producer,R03,2039-04-01,2039-05-28,98208543.63860866,75451000.0,False
+YGG-101,Yggdrasil,Fulla,development,gas_injector,R14,2038-07-20,2038-09-28,-20636536.641079284,120703000.0,False
+YGG-262,Yggdrasil,Frøy,development,water_injector,R15,2038-08-14,2038-09-25,9148847.562760685,69749000.0,False
+YGG-167,Yggdrasil,Frøy,development,producer,R06,2038-08-02,2038-10-01,11919112.390640318,134682000.0,False
+YGG-111,Yggdrasil,Fulla,development,gas_injector,R12,2038-09-28,2038-12-04,5290597.834837265,85972000.0,False
+EXP-119,Exploration,Exploration,appraisal,n/a,R04,2038-08-11,2038-10-06,26132744.294931635,83683000.0,False
+EXP-015,Exploration,Exploration,exploration,n/a,R20,2039-07-01,2039-08-09,29699822.91575687,53614000.0,False
+VAL-018,Valhall,Valhall,development,producer,R02,2039-05-28,2039-07-19,35961235.36343753,66301000.0,False
+SKA-043,Skarv,Skarv,development,producer,R07,2038-09-12,2038-11-01,6201322.25029543,90415000.0,False
+YGG-123,Yggdrasil,Fulla,development,water_injector,R15,2038-12-04,2039-02-06,17684145.378761657,78874000.0,False
+YGG-115,Yggdrasil,Fulla,development,producer,R14,2039-02-06,2039-05-02,67897149.54085639,102636000.0,False
+ALV-106,Alvheim,Vilje,development,producer,R06,2039-04-01,2039-06-09,109184151.02510813,135663000.0,False
+SKA-108,Skarv,Idun,development,producer,R04,2038-12-01,2039-01-31,106440809.96656597,114847000.0,False
+ALV-016,Alvheim,Alvheim,development,water_injector,R07,2038-11-07,2039-01-21,11289834.696580447,101936000.0,False
+EXP-050,Exploration,Exploration,exploration,n/a,R12,2039-01-01,2039-02-01,13918265.997826152,39482000.0,False
+EXP-116,Exploration,Exploration,exploration,n/a,R18,2039-08-01,2039-09-16,12905301.09121126,50105000.0,False
+ALV-141,Alvheim,Skogul,development,observation,R07,2039-01-25,2039-03-07,1387697.3778941855,62240000.0,False
+EXP-131,Exploration,Exploration,exploration,n/a,R04,2039-02-06,2039-03-29,6078019.668215092,59642000.0,False
+EXP-093,Exploration,Exploration,exploration,n/a,R12,2039-06-01,2039-07-21,7699395.403461147,64080000.0,False
+YGG-227,Yggdrasil,Frøy,development,gas_injector,R15,2039-02-10,2039-03-29,15897153.799888723,70043000.0,False
+SKA-033,Skarv,Skarv,development,producer,R07,2039-03-13,2039-05-11,14521592.031997927,103100000.0,False
+EXP-150,Exploration,Exploration,exploration,n/a,R04,2039-04-07,2039-05-21,11274613.556199618,64256000.0,False
+SKA-009,Skarv,Skarv,development,producer,R15,2039-04-04,2039-05-15,3610649.406426724,74922000.0,False
+ALV-014,Alvheim,Alvheim,development,producer,R14,2039-05-06,2039-07-29,26623011.464518964,128833000.0,False
+ALV-002,Alvheim,Alvheim,development,producer,R07,2039-05-17,2039-08-26,98607669.06818938,172807000.0,False
+ALV-100,Alvheim,Vilje,development,producer,R15,2039-05-21,2039-08-05,18757621.418578178,120722000.0,False
+SKA-075,Skarv,Ærfugl,development,producer,R13,2039-05-21,2039-07-15,16217088.252238374,71768000.0,False
+EXP-090,Exploration,Exploration,exploration,n/a,R04,2039-05-27,2039-07-03,4099189.5379990414,60784000.0,False
+VAL-148,Valhall,Valhall,development,producer,R03,2039-08-01,2039-10-28,37765514.644352004,93647000.0,False
+FEN-014,Fenris,Fenris,development,producer,R01,2039-10-01,2039-12-07,42672970.939568475,84032000.0,False
+ALV-040,Alvheim,Volund,development,producer,R06,2039-06-24,2039-09-18,97155694.24237281,167518000.0,False
+SKA-079,Skarv,Ærfugl,development,producer,R05,2039-07-15,2039-09-20,21542923.121069998,116722000.0,False
+EXP-095,Exploration,Exploration,exploration,n/a,R04,2039-07-10,2039-08-15,25665041.27663306,56520000.0,False
+SKA-021,Skarv,Skarv,development,producer,R13,2039-07-19,2039-09-27,13564336.361955151,146168000.0,False
+EXP-126,Exploration,Exploration,exploration,n/a,R02,2039-10-01,2039-11-17,12446507.642830897,45940000.0,False
+EXP-035,Exploration,Exploration,exploration,n/a,R12,2039-07-25,2039-09-05,11162739.71990737,65323000.0,False
+SKA-054,Skarv,Ærfugl,development,producer,R14,2039-08-04,2039-09-25,3709911.6602317914,122439000.0,False
+YGG-270,Yggdrasil,Frøy,development,producer,R15,2039-08-09,2039-10-14,20372534.444733895,132806000.0,False
+EXP-103,Exploration,Exploration,exploration,n/a,R20,2040-06-01,2040-07-02,48096349.98010523,54725000.0,False
+ALV-029,Alvheim,Alvheim,development,producer,R04,2039-08-24,2039-11-07,9305419.08400628,134983000.0,False
+YGG-243,Yggdrasil,Frøy,development,water_injector,R12,2039-10-14,2039-12-22,7522555.04675778,97142000.0,False
+EXP-076,Exploration,Exploration,exploration,n/a,R18,2040-07-01,2040-08-10,30515776.57375018,54039000.0,False
+SKA-045,Skarv,Skarv,development,producer,R06,2039-09-24,2039-11-22,18351039.66134674,71729000.0,False
+EDG-044,Edvard Grieg,Solveig,development,producer,R05,2039-09-26,2039-11-08,72168806.13373035,69508000.0,False
+YGG-201,Yggdrasil,Frøy,development,observation,R14,2039-12-22,2040-01-27,2429155.309693847,53542000.0,False
+YGG-208,Yggdrasil,Frøy,development,water_injector,R13,2040-01-27,2040-03-15,3858452.3663738966,56700000.0,False
+EXP-067,Exploration,Exploration,exploration,n/a,R04,2040-07-01,2040-08-05,132747762.22166482,49809000.0,False
+EXP-097,Exploration,Exploration,exploration,n/a,R02,2039-12-01,2040-01-04,11984039.457542144,37499000.0,False
+ALV-139,Alvheim,Skogul,development,water_injector,R06,2039-11-28,2040-01-20,2270919.1967393123,80556000.0,False
+EXP-077,Exploration,Exploration,appraisal,n/a,R12,2040-02-01,2040-03-22,93730572.77875994,74208000.0,False
+SKA-106,Skarv,Idun,development,gas_injector,R06,2040-01-26,2040-03-28,5086222.117861532,73409000.0,False
+EDG-091,Edvard Grieg,Solveig,development,water_injector,R14,2040-01-31,2040-03-20,2922640.783568274,69065000.0,False
+YGG-226,Yggdrasil,Frøy,development,water_injector,R13,2040-03-17,2040-05-19,13293624.11614763,110531000.0,False
+ALV-156,Alvheim,Tyrving,development,producer,R14,2040-03-24,2040-05-21,11179525.612952948,112535000.0,False
+EXP-071,Exploration,Exploration,exploration,n/a,R12,2040-03-26,2040-04-24,-52261.983816143125,45611000.0,False
+ALV-078,Alvheim,Bøyla,development,producer,R06,2040-04-03,2040-06-23,22182832.477621615,113286000.0,False
+YGG-121,Yggdrasil,Fulla,development,producer,R13,2040-05-23,2040-08-13,9175088.7978675,118150000.0,False
+ALV-093,Alvheim,Bøyla,development,producer,R14,2040-05-25,2040-08-31,13246830.376124777,164141000.0,False
+ALV-081,Alvheim,Bøyla,development,water_injector,R06,2040-06-27,2040-09-24,11227944.529081188,119932000.0,False
+EXP-122,Exploration,Exploration,exploration,n/a,R20,2040-07-06,2040-08-19,72979142.59670876,69938000.0,False
+EXP-141,Exploration,Exploration,appraisal,n/a,R04,2040-08-09,2040-09-23,6777800.980439719,63493000.0,False
+EXP-110,Exploration,Exploration,exploration,n/a,R20,2040-08-25,2040-09-30,13291442.856877238,60664000.0,False
+EXP-082,Exploration,Exploration,exploration,n/a,R04,2040-11-01,2040-12-24,183023649.7958355,50019000.0,False
+YGG-074,Yggdrasil,Fulla,development,gas_injector,R20,2040-10-05,2040-11-14,5963153.429779559,53941000.0,False
+SKA-047,Skarv,Ærfugl,development,producer,R20,2040-11-20,2041-01-23,5374084.30040022,114949000.0,False
+EDG-065,Edvard Grieg,Solveig,development,producer,R04,2040-12-30,2041-02-21,1914852.242766399,93853000.0,False
+EDG-084,Edvard Grieg,Solveig,development,producer,R20,2041-01-29,2041-03-27,3968845.007377781,109946000.0,False
+YGG-263,Yggdrasil,Frøy,development,water_injector,R04,2041-02-25,2041-04-20,4087667.2477332726,112640000.0,False
+EXP-066,Exploration,Exploration,exploration,n/a,R20,2041-04-02,2041-05-04,7487967.393387554,45221000.0,False
+EXP-094,Exploration,Exploration,exploration,n/a,R04,2041-04-25,2041-06-16,979250.8024647646,92787000.0,False
+EXP-064,Exploration,Exploration,exploration,n/a,R20,2041-05-08,2041-06-27,2772468.7623632103,77022000.0,False
+EXP-037,Exploration,Exploration,exploration,n/a,R04,2041-06-23,2041-07-27,1317070.6589451395,58773000.0,False
+EXP-040,Exploration,Exploration,appraisal,n/a,R20,2041-07-01,2041-08-01,15242984.208513968,45548000.0,False
+EXP-018,Exploration,Exploration,exploration,n/a,R04,2041-07-31,2041-09-24,4996064.786547247,78061000.0,False

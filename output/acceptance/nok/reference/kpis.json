@@ -1,0 +1,22 @@
+{
+  "name": "reference",
+  "unit_set": "NOK_Sm3",
+  "money_unit": "NOK",
+  "portfolio_value": 341334316823.2385,
+  "objective": 297697611708.0,
+  "winter_penalty": 2555728119.0,
+  "batch_penalty": -24570000.0,
+  "wells_scheduled": 242,
+  "wells_frozen": 43,
+  "wells_unscheduled": 58,
+  "sail_days": 1005,
+  "idle_days": 4764,
+  "exploration_target_deviation": 13,
+  "missing_mandatory": 0,
+  "changed_vs_reference": 0,
+  "optimization_freedom": "free",
+  "frozen_months": 12,
+  "plan_start": "2027-01-01",
+  "freeze_end": "2028-01-01",
+  "horizon_end": "2037-01-01"
+}

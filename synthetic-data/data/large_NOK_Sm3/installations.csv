@@ -1,0 +1,65 @@
+installation_id,field_id,asset_id,name,type,lat,lon,water_depth_m
+F-VAL-VAL-P1,F-VAL-VAL,VAL,Valhall Field Centre,platform,56.28,3.39,72.7
+F-VAL-VAL-P2,F-VAL-VAL,VAL,Valhall Flank North,platform,56.30383,3.33717,72.0
+F-VAL-VAL-P3,F-VAL-VAL,VAL,Valhall Flank South,platform,56.302,3.38388,72.6
+F-VAL-VAL-P4,F-VAL-VAL,VAL,Valhall West Flank,platform,56.31703,3.45937,69.5
+F-VAL-HOD-P1,F-VAL-HOD,VAL,Hod,platform,56.18,3.45,68.7
+F-FEN-FEN-P1,F-FEN-FEN,FEN,Fenris,platform,56.6,2.95,74.3
+F-ALV-ALV-T1,F-ALV-ALV,ALV,Kameleon,subsea_template,59.5919,1.9021,126.7
+F-ALV-ALV-T2,F-ALV-ALV,ALV,Kneler,subsea_template,59.54802,1.9745,121.0
+F-ALV-ALV-T3,F-ALV-ALV,ALV,Boa,subsea_template,59.52857,1.90105,131.4
+F-ALV-ALV-T4,F-ALV-ALV,ALV,Alvheim T-D,subsea_template,59.60084,1.97866,133.4
+F-ALV-ALV-T5,F-ALV-ALV,ALV,Alvheim T-E,subsea_template,59.5898,2.09783,127.0
+F-ALV-ALV-T6,F-ALV-ALV,ALV,Alvheim T-F,subsea_template,59.57666,2.00916,130.2
+F-ALV-VOL-T1,F-ALV-VOL,ALV,Volund T-A,subsea_template,59.50481,1.92767,119.9
+F-ALV-VOL-T2,F-ALV-VOL,ALV,Volund T-B,subsea_template,59.41822,1.96211,117.8
+F-ALV-VOL-T3,F-ALV-VOL,ALV,Volund T-C,subsea_template,59.433,1.95515,118.4
+F-ALV-VOL-T4,F-ALV-VOL,ALV,Volund T-D,subsea_template,59.40269,1.98879,127.5
+F-ALV-BOY-T1,F-ALV-BOY,ALV,Bøyla T-A,subsea_template,59.32969,1.99639,123.3
+F-ALV-BOY-T2,F-ALV-BOY,ALV,Bøyla T-B,subsea_template,59.30456,1.97614,117.9
+F-ALV-BOY-T3,F-ALV-BOY,ALV,Bøyla T-C,subsea_template,59.38324,1.97857,117.0
+F-ALV-BOY-T4,F-ALV-BOY,ALV,Bøyla T-D,subsea_template,59.35218,1.88192,121.6
+F-ALV-VIL-T1,F-ALV-VIL,ALV,Vilje T-A,subsea_template,59.69026,2.09603,119.6
+F-ALV-VIL-T2,F-ALV-VIL,ALV,Vilje T-B,subsea_template,59.70865,2.26842,116.1
+F-ALV-VIL-T3,F-ALV-VIL,ALV,Vilje T-C,subsea_template,59.62968,2.2183,120.7
+F-ALV-VIL-T4,F-ALV-VIL,ALV,Vilje T-D,subsea_template,59.64206,2.11506,120.5
+F-ALV-SKO-T1,F-ALV-SKO,ALV,Skogul T-A,subsea_template,59.78528,2.18301,110.3
+F-ALV-SKO-T2,F-ALV-SKO,ALV,Skogul T-B,subsea_template,59.80807,2.17087,114.1
+F-ALV-SKO-T3,F-ALV-SKO,ALV,Skogul T-C,subsea_template,59.80633,2.22426,110.6
+F-ALV-SKO-T4,F-ALV-SKO,ALV,Skogul T-D,subsea_template,59.79276,2.1512,116.6
+F-ALV-TYR-T1,F-ALV-TYR,ALV,Tyrving T-A,subsea_template,59.62933,2.1647,121.6
+F-ALV-TYR-T2,F-ALV-TYR,ALV,Tyrving T-B,subsea_template,59.63356,2.18698,116.7
+F-ALV-TYR-T3,F-ALV-TYR,ALV,Tyrving T-C,subsea_template,59.62881,2.26107,122.2
+F-ALV-TYR-T4,F-ALV-TYR,ALV,Tyrving T-D,subsea_template,59.64018,2.31399,120.0
+F-IVA-IVA-P1,F-IVA-IVA,IVA,Ivar Aasen,platform,58.92,2.2,106.5
+F-EDG-EDV-P1,F-EDG-EDV,EDG,Edvard Grieg,platform,58.84,2.25,109.9
+F-EDG-SOL-T1,F-EDG-SOL,EDG,Solveig T-A,subsea_template,58.72276,2.39868,108.0
+F-EDG-SOL-T2,F-EDG-SOL,EDG,Solveig T-B,subsea_template,58.7185,2.42173,105.9
+F-EDG-SOL-T3,F-EDG-SOL,EDG,Solveig T-C,subsea_template,58.76598,2.34248,114.1
+F-EDG-SOL-T4,F-EDG-SOL,EDG,Solveig T-D,subsea_template,58.74471,2.45191,114.7
+F-SKA-SKA-T1,F-SKA-SKA,SKA,Skarv T-A,subsea_template,65.688,7.46181,394.9
+F-SKA-SKA-T2,F-SKA-SKA,SKA,Skarv T-B,subsea_template,65.72152,7.63621,440.3
+F-SKA-SKA-T3,F-SKA-SKA,SKA,Skarv T-C,subsea_template,65.71113,7.68766,380.6
+F-SKA-SKA-T4,F-SKA-SKA,SKA,Skarv T-D,subsea_template,65.72022,7.69915,435.7
+F-SKA-SKA-T5,F-SKA-SKA,SKA,Skarv T-E,subsea_template,65.68916,7.4644,393.2
+F-SKA-SKA-T6,F-SKA-SKA,SKA,Skarv T-F,subsea_template,65.65806,7.5405,415.0
+F-SKA-AERF-T1,F-SKA-AERF,SKA,Ærfugl T-A,subsea_template,65.78762,7.41765,352.9
+F-SKA-AERF-T2,F-SKA-AERF,SKA,Ærfugl T-B,subsea_template,65.78068,7.4859,360.1
+F-SKA-AERF-T3,F-SKA-AERF,SKA,Ærfugl T-C,subsea_template,65.78677,7.38018,361.9
+F-SKA-AERF-T4,F-SKA-AERF,SKA,Ærfugl T-D,subsea_template,65.7412,7.31989,374.3
+F-SKA-AERF-T5,F-SKA-AERF,SKA,Ærfugl T-E,subsea_template,65.8458,7.41612,417.1
+F-SKA-AERF-T6,F-SKA-AERF,SKA,Ærfugl T-F,subsea_template,65.80805,7.30585,355.8
+F-SKA-IDU-T1,F-SKA-IDU,SKA,Idun T-A,subsea_template,65.86037,7.55567,445.0
+F-SKA-IDU-T2,F-SKA-IDU,SKA,Idun T-B,subsea_template,65.85556,7.5683,391.4
+F-SKA-IDU-T3,F-SKA-IDU,SKA,Idun T-C,subsea_template,65.87033,7.54051,405.1
+F-SKA-IDU-T4,F-SKA-IDU,SKA,Idun T-D,subsea_template,65.90478,7.52746,441.7
+F-YGG-HUG-P1,F-YGG-HUG,YGG,Hugin A,platform,59.95,2.4,112.1
+F-YGG-MUN-P1,F-YGG-MUN,YGG,Munin,platform,60.05,2.45,123.3
+F-YGG-FUL-T1,F-YGG-FUL,YGG,Fulla T-A,subsea_template,59.84256,2.32212,114.2
+F-YGG-FUL-T2,F-YGG-FUL,YGG,Fulla T-B,subsea_template,59.84271,2.25032,121.5
+F-YGG-FUL-T3,F-YGG-FUL,YGG,Fulla T-C,subsea_template,59.86365,2.33416,113.5
+F-YGG-FUL-T4,F-YGG-FUL,YGG,Fulla T-D,subsea_template,59.8393,2.34235,115.6
+F-YGG-FRO-T1,F-YGG-FRO,YGG,Frøy T-A,subsea_template,59.77195,2.43631,114.8
+F-YGG-FRO-T2,F-YGG-FRO,YGG,Frøy T-B,subsea_template,59.73243,2.68266,117.7
+F-YGG-FRO-T3,F-YGG-FRO,YGG,Frøy T-C,subsea_template,59.77315,2.53047,112.5
+F-YGG-FRO-T4,F-YGG-FRO,YGG,Frøy T-D,subsea_template,59.73913,2.55932,124.9

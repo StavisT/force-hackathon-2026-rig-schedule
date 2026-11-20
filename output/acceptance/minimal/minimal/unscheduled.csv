@@ -1,0 +1,59 @@
+well_id,asset,category,purpose,mandatory,reason,detail,ideal_value,compatible_rigs,test_tag
+VAL-003,Valhall,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-11144728.801913545,R01;R02;R03,
+VAL-004,Valhall,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-62560327.69867438,R01;R02;R03,negative_value
+VAL-005,Valhall,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-75056061.38732158,R01;R02;R03,negative_value
+VAL-006,Valhall,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-59756691.29473313,R01;R02;R03,negative_value
+VAL-007,Valhall,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-59205040.07408974,R01;R02;R03,negative_value
+VAL-008,Valhall,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-54102857.01752844,R01;R02;R03,negative_value
+VAL-012,Valhall,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,53680632.560935564,R01;R02;R03,
+VAL-013,Valhall,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-18620929.76350756,R01;R02;R03,
+VAL-022,Valhall,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-27351855.036535025,R01;R02;R03,
+VAL-028,Valhall,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-32630353.591541342,R01;R02;R03,
+VAL-031,Valhall,development,gas_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-13153223.454578586,R01;R02;R03,
+VAL-033,Valhall,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-29419168.991459757,R01;R03,
+VAL-035,Valhall,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-31033061.670612276,R01;R03,
+VAL-038,Valhall,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-44181694.89155617,R01;R02;R03,
+VAL-047,Valhall,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-366228.44145934284,R01;R02;R03,
+ALV-021,Alvheim,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-25238108.120703474,R04;R05;R06;R07;R08,
+ALV-022,Alvheim,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,10542351.277021423,R04;R05;R06;R07;R08,
+ALV-030,Alvheim,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-44085505.79840495,R04;R05;R06;R07;R08,
+ALV-032,Alvheim,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-32195641.911267295,R04;R05;R06;R07;R08,
+ALV-041,Alvheim,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-19729419.23944357,R04;R05;R06;R07;R08,
+IVA-005,Ivar Aasen,development,observation,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-23181213.55661336,R01;R02;R03,
+IVA-008,Ivar Aasen,development,observation,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-26584366.626595397,R01;R02;R03,
+IVA-011,Ivar Aasen,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-6339911.644900665,R01;R02;R03,
+IVA-016,Ivar Aasen,development,observation,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-20264705.40074153,R01;R02;R03,
+IVA-017,Ivar Aasen,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-44792687.21069768,R01;R02;R03,
+EDG-011,Edvard Grieg,development,gas_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-24994369.151526287,R04;R05;R06;R07;R08,
+EDG-012,Edvard Grieg,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-7666141.704174094,R04;R05;R06;R07;R08,
+EDG-018,Edvard Grieg,development,observation,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-21672643.90379487,R04;R05;R06;R07;R08,
+EDG-022,Edvard Grieg,development,observation,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-43001124.372053295,R04;R05;R06;R07;R08,
+EDG-025,Edvard Grieg,development,observation,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-19372739.4134072,R04;R05;R06;R07;R08,
+SKA-001,Skarv,development,producer,False,no_compatible_rig,"water depth 399 m outside rig range: R01, R02, R03; missing MPD: R04, R05, R06, R07, R08",26757083.8078605,,no_compatible_rig
+SKA-006,Skarv,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-18297062.86936253,R04;R05;R06;R07;R08,
+SKA-014,Skarv,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-25113614.073037714,R04;R05;R06;R07;R08,
+SKA-026,Skarv,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,78081159.00452268,R04;R05;R06;R07;R08,
+SKA-030,Skarv,development,observation,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-60634957.645620376,R04;R05,hpht_bottleneck
+YGG-041,Yggdrasil,development,observation,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-51186037.720504,R04;R05;R06;R07;R08,
+YGG-047,Yggdrasil,development,gas_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-50487576.33834243,R04;R05;R06;R07;R08,
+YGG-056,Yggdrasil,development,gas_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-66708071.25034458,R04;R05;R06;R07;R08,
+YGG-065,Yggdrasil,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-42527257.15386245,R04;R05;R06;R07;R08,
+EXP-001,Exploration,exploration,n/a,False,no_compatible_rig,"water depth 1800 m outside rig range: R01, R02, R03, R04, R05, R06, R07, R08",-11938372.301168323,,no_compatible_rig
+EXP-003,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-61114749.25354913,R04,negative_value
+EXP-004,Exploration,appraisal,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-33433313.344681792,R02;R04,negative_value
+EXP-005,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-53869034.31920959,R04,negative_value
+EXP-006,Exploration,appraisal,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-27462259.83016436,R02;R04,negative_value
+EXP-007,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-44764300.79237299,R04,negative_value
+EXP-018,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-11524003.35335406,R02;R04,
+EXP-019,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-6086876.4764167,R02;R04,
+EXP-021,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-17909188.78641362,R02;R04,
+EXP-022,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-24803969.599336687,R02;R04,
+EXP-024,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-1940998.1557742916,R02;R04,
+EXP-026,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-14645497.746459741,R02;R04,
+EXP-027,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-22995398.92303344,R02,
+EXP-029,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-36403086.843023695,R04,test_rig_bottleneck
+EXP-031,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-11337300.956174899,R02;R04,
+EXP-038,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-1641812.1071714386,R04,test_rig_bottleneck
+EXP-040,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-41222050.91988629,R02,
+EXP-048,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-21461951.38868667,R04,test_rig_bottleneck
+EXP-049,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-23639928.795948245,R02;R04,

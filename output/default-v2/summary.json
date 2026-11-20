@@ -1,0 +1,361 @@
+{
+  "meta": {
+    "dataset": "default",
+    "generated": "2026-11-20 09:52",
+    "rigs": [
+      {
+        "rig_id": "R01",
+        "name": "Boreal Fulmar",
+        "rig_type": "jackup",
+        "capabilities": [
+          "HARSH_ENV",
+          "HPHT"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2029-05-18",
+            "end": "2029-06-22",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R02",
+        "name": "Boreal Gannet",
+        "rig_type": "jackup",
+        "capabilities": [
+          "FORMATION_TEST",
+          "HARSH_ENV",
+          "WELL_TEST"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2028-02-05",
+            "end": "2028-03-20",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R03",
+        "name": "Boreal Kittiwake",
+        "rig_type": "jackup",
+        "capabilities": [
+          "HARSH_ENV"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2029-12-14",
+            "end": "2030-01-23",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R04",
+        "name": "Polar Cormorant",
+        "rig_type": "semisub",
+        "capabilities": [
+          "FORMATION_TEST",
+          "HARSH_ENV",
+          "HPHT",
+          "WELL_TEST",
+          "WINTERIZED"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2028-05-08",
+            "end": "2028-06-09",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R05",
+        "name": "Polar Eider",
+        "rig_type": "semisub",
+        "capabilities": [
+          "HARSH_ENV",
+          "HPHT",
+          "WINTERIZED"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2030-01-13",
+            "end": "2030-02-26",
+            "reason": "class survey"
+          },
+          {
+            "start": "2033-08-17",
+            "end": "2033-09-20",
+            "reason": "yard stay"
+          }
+        ]
+      },
+      {
+        "rig_id": "R06",
+        "name": "Polar Shearwater",
+        "rig_type": "semisub",
+        "capabilities": [
+          "HARSH_ENV",
+          "WINTERIZED"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2031-04-08",
+            "end": "2031-05-22",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R07",
+        "name": "Polar Razorbill",
+        "rig_type": "semisub",
+        "capabilities": [
+          "HARSH_ENV"
+        ],
+        "contract_start": "2028-01-01",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2030-03-15",
+            "end": "2030-04-26",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R08",
+        "name": "Polar Petrel",
+        "rig_type": "semisub",
+        "capabilities": [
+          "HARSH_ENV"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2032-07-01",
+        "unavailability": [
+          {
+            "start": "2029-02-01",
+            "end": "2029-03-02",
+            "reason": "class survey"
+          }
+        ]
+      }
+    ],
+    "winter_months": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "rig_speed_knots": 7.0
+  },
+  "variants": [
+    {
+      "name": "optimized-full",
+      "unit_set": "USD_bbl_MMBtu",
+      "money_unit": "USD",
+      "portfolio_value": 33144426607.71545,
+      "objective": 32932775148.0,
+      "winter_penalty": 189123460.0,
+      "batch_penalty": 9040000.0,
+      "wells_scheduled": 244,
+      "wells_frozen": 43,
+      "wells_unscheduled": 56,
+      "sail_days": 948,
+      "idle_days": 4008,
+      "exploration_target_deviation": 0,
+      "missing_mandatory": 0,
+      "changed_vs_reference": 185,
+      "optimization_freedom": "free",
+      "frozen_months": 12,
+      "plan_start": "2027-01-01",
+      "label": "Optimized \u2013 full re-plan",
+      "description": "The optimizer may move any well after the frozen period to any compatible rig and date, and add or drop wells.",
+      "rig_speed_knots": 7.0,
+      "wow_cost": 819065660.0,
+      "n_exploration": 32,
+      "n_strategic": 9,
+      "n_strategic_in_window": 9,
+      "target_years": 9,
+      "target_years_met": 9,
+      "unscheduled_reasons": {
+        "negative_value": 51,
+        "no_capacity_in_horizon": 1,
+        "no_compatible_rig": 2,
+        "precedence_blocked": 2
+      },
+      "freeze_end": "2028-01-01",
+      "horizon_end": "2037-01-01",
+      "runtime_s": 62.5,
+      "seed": 42,
+      "kind": "optimized"
+    },
+    {
+      "name": "optimized-medium",
+      "unit_set": "USD_bbl_MMBtu",
+      "money_unit": "USD",
+      "portfolio_value": 32679904155.78484,
+      "objective": 32449374442.0,
+      "winter_penalty": 217153714.0,
+      "batch_penalty": -1280000.0,
+      "wells_scheduled": 248,
+      "wells_frozen": 43,
+      "wells_unscheduled": 52,
+      "sail_days": 986,
+      "idle_days": 4796,
+      "exploration_target_deviation": 0,
+      "missing_mandatory": 0,
+      "changed_vs_reference": 180,
+      "optimization_freedom": "moderate",
+      "frozen_months": 12,
+      "plan_start": "2027-01-01",
+      "label": "Optimized \u2013 medium changes",
+      "description": "Each well in the last approved plan may move up to \u00b1120 days and change rig; wells may be added or dropped.",
+      "rig_speed_knots": 7.0,
+      "wow_cost": 872042000.0,
+      "n_exploration": 36,
+      "n_strategic": 9,
+      "n_strategic_in_window": 9,
+      "target_years": 9,
+      "target_years_met": 9,
+      "unscheduled_reasons": {
+        "negative_value": 48,
+        "no_compatible_rig": 2,
+        "precedence_blocked": 2
+      },
+      "freeze_end": "2028-01-01",
+      "horizon_end": "2037-01-01",
+      "runtime_s": 63.6,
+      "seed": 42,
+      "kind": "optimized"
+    },
+    {
+      "name": "optimized-small",
+      "unit_set": "USD_bbl_MMBtu",
+      "money_unit": "USD",
+      "portfolio_value": 32510103111.11412,
+      "objective": 28354655753.0,
+      "winter_penalty": 243334358.0,
+      "batch_penalty": -2340000.0,
+      "wells_scheduled": 242,
+      "wells_frozen": 43,
+      "wells_unscheduled": 58,
+      "sail_days": 965,
+      "idle_days": 4803,
+      "exploration_target_deviation": 13,
+      "missing_mandatory": 0,
+      "changed_vs_reference": 0,
+      "optimization_freedom": "minimal",
+      "frozen_months": 12,
+      "plan_start": "2027-01-01",
+      "label": "Optimized \u2013 small adjustments",
+      "description": "Each well may move at most \u00b130 days and keeps its rig; no wells added or dropped; at most 15 wells changed.",
+      "rig_speed_knots": 7.0,
+      "wow_cost": 908542540.0,
+      "n_exploration": 31,
+      "n_strategic": 9,
+      "n_strategic_in_window": 9,
+      "target_years": 9,
+      "target_years_met": 3,
+      "unscheduled_reasons": {
+        "freedom_limit": 56,
+        "no_compatible_rig": 2
+      },
+      "freeze_end": "2028-01-01",
+      "horizon_end": "2037-01-01",
+      "runtime_s": 30.2,
+      "seed": 42,
+      "kind": "optimized"
+    },
+    {
+      "name": "last-approved",
+      "unit_set": "USD_bbl_MMBtu",
+      "money_unit": "USD",
+      "portfolio_value": 32510103111.11412,
+      "objective": 28354655753.0,
+      "winter_penalty": 243334358.0,
+      "batch_penalty": -2340000.0,
+      "wells_scheduled": 242,
+      "wells_frozen": 43,
+      "wells_unscheduled": 58,
+      "sail_days": 965,
+      "idle_days": 4803,
+      "exploration_target_deviation": 13,
+      "missing_mandatory": 0,
+      "changed_vs_reference": 0,
+      "optimization_freedom": "free",
+      "frozen_months": 12,
+      "plan_start": "2027-01-01",
+      "label": "Last approved plan",
+      "description": "The supplied last approved schedule (a greedy plan), re-timed with the current sailing rules. It does not try to meet exploration targets.",
+      "rig_speed_knots": 7.0,
+      "wow_cost": 908542540.0,
+      "n_exploration": 31,
+      "n_strategic": 9,
+      "n_strategic_in_window": 9,
+      "target_years": 9,
+      "target_years_met": 3,
+      "unscheduled_reasons": {
+        "negative_value": 53,
+        "no_capacity_in_horizon": 1,
+        "no_compatible_rig": 2,
+        "precedence_blocked": 2
+      },
+      "freeze_end": "2028-01-01",
+      "horizon_end": "2037-01-01",
+      "kind": "last_approved"
+    },
+    {
+      "name": "baseline-fcfs",
+      "unit_set": "USD_bbl_MMBtu",
+      "money_unit": "USD",
+      "portfolio_value": 29878666261.451904,
+      "objective": 24138628608.0,
+      "winter_penalty": 302797653.0,
+      "batch_penalty": 23320000.0,
+      "wells_scheduled": 237,
+      "wells_frozen": 43,
+      "wells_unscheduled": 63,
+      "sail_days": 782,
+      "idle_days": 6100,
+      "exploration_target_deviation": 18,
+      "missing_mandatory": 0,
+      "changed_vs_reference": 193,
+      "optimization_freedom": "free",
+      "frozen_months": 12,
+      "plan_start": "2027-01-01",
+      "label": "Manual-style baseline",
+      "description": "How a schedule is typically built by hand: when a rig is free it takes the next ready well (first come, first served by earliest start), staying field by field, with some random whitespace. Not optimized.",
+      "rig_speed_knots": 7.0,
+      "wow_cost": 996744490.0,
+      "n_exploration": 31,
+      "n_strategic": 9,
+      "n_strategic_in_window": 9,
+      "target_years": 9,
+      "target_years_met": 2,
+      "unscheduled_reasons": {
+        "negative_value": 53,
+        "no_capacity_in_horizon": 6,
+        "no_compatible_rig": 2,
+        "precedence_blocked": 2
+      },
+      "freeze_end": "2028-01-01",
+      "horizon_end": "2037-01-01",
+      "kind": "baseline"
+    }
+  ]
+}

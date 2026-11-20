@@ -1,0 +1,9 @@
+rig_id,name,rig_type,min_water_depth_m,max_water_depth_m,max_drilling_depth_m,capabilities,transit_speed_knots,mob_demob_days,move_sensitivity,contract_start,contract_end,extension_option,initial_well_id,initial_lat,initial_lon,performance_factor,day_rate_nok
+R01,Noble Integrator,jackup,0,150,9000,HARSH_ENV;HPHT,3.1,5,0.99,2025-01-01,2038-01-01,,VAL-009,56.28,3.39,1.04,3906000.0
+R02,Noble Invincible,jackup,0,150,7100,FORMATION_TEST;HARSH_ENV;WELL_TEST,3.3,5,0.99,2025-01-01,2038-01-01,,VAL-049,56.18,3.45,1.04,3801000.0
+R03,Noble Interceptor,jackup,0,120,8600,HARSH_ENV,3.3,5,0.82,2025-01-01,2038-01-01,,IVA-001,58.92,2.2,0.99,3906000.0
+R04,Transocean Enabler,semisub,70,1500,7900,FORMATION_TEST;HARSH_ENV;HPHT;WELL_TEST;WINTERIZED,7.4,3,0.36,2025-01-01,2038-01-01,,SKA-009,65.65929,7.56176,0.94,4588500.0
+R05,Transocean Spitsbergen,semisub,70,1500,7900,HARSH_ENV;HPHT;WINTERIZED,8.5,3,0.44,2025-01-01,2038-01-01,,SKA-021,65.82108,7.33102,1.03,4441500.0
+R06,Deepsea Nordkapp,semisub,70,1500,8700,HARSH_ENV;WINTERIZED,8.2,3,0.43,2025-01-01,2038-01-01,,ALV-045,59.65315,2.32933,0.98,4074000.0
+R07,Deepsea Atlantic,semisub,80,500,8600,HARSH_ENV,8.0,3,0.37,2028-01-01,2038-01-01,,,60.39,5.32,0.92,4137000.0
+R08,Transocean Encourage,semisub,70,1200,7000,HARSH_ENV,8.2,3,0.33,2025-01-01,2032-07-01,"2032-07-01..2034-07-01 (option, not modelled)",EDG-019,58.71597,2.31957,1.02,4956000.0

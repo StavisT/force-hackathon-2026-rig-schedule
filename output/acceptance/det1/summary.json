@@ -1,0 +1,213 @@
+{
+  "meta": {
+    "dataset": "default",
+    "generated": "2026-11-19 15:46",
+    "rigs": [
+      {
+        "rig_id": "R01",
+        "name": "Boreal Fulmar",
+        "rig_type": "jackup",
+        "capabilities": [
+          "HARSH_ENV",
+          "HPHT"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2029-05-18",
+            "end": "2029-06-22",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R02",
+        "name": "Boreal Gannet",
+        "rig_type": "jackup",
+        "capabilities": [
+          "FORMATION_TEST",
+          "HARSH_ENV",
+          "WELL_TEST"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2028-02-05",
+            "end": "2028-03-20",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R03",
+        "name": "Boreal Kittiwake",
+        "rig_type": "jackup",
+        "capabilities": [
+          "HARSH_ENV"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2029-12-14",
+            "end": "2030-01-23",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R04",
+        "name": "Polar Cormorant",
+        "rig_type": "semisub",
+        "capabilities": [
+          "FORMATION_TEST",
+          "HARSH_ENV",
+          "HPHT",
+          "WELL_TEST",
+          "WINTERIZED"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2028-05-08",
+            "end": "2028-06-09",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R05",
+        "name": "Polar Eider",
+        "rig_type": "semisub",
+        "capabilities": [
+          "HARSH_ENV",
+          "HPHT",
+          "WINTERIZED"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2030-01-13",
+            "end": "2030-02-26",
+            "reason": "class survey"
+          },
+          {
+            "start": "2033-08-17",
+            "end": "2033-09-20",
+            "reason": "yard stay"
+          }
+        ]
+      },
+      {
+        "rig_id": "R06",
+        "name": "Polar Shearwater",
+        "rig_type": "semisub",
+        "capabilities": [
+          "HARSH_ENV",
+          "WINTERIZED"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2031-04-08",
+            "end": "2031-05-22",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R07",
+        "name": "Polar Razorbill",
+        "rig_type": "semisub",
+        "capabilities": [
+          "HARSH_ENV"
+        ],
+        "contract_start": "2028-01-01",
+        "contract_end": "2038-01-01",
+        "unavailability": [
+          {
+            "start": "2030-03-15",
+            "end": "2030-04-26",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R08",
+        "name": "Polar Petrel",
+        "rig_type": "semisub",
+        "capabilities": [
+          "HARSH_ENV"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2032-07-01",
+        "unavailability": [
+          {
+            "start": "2029-02-01",
+            "end": "2029-03-02",
+            "reason": "class survey"
+          }
+        ]
+      }
+    ],
+    "winter_months": [
+      11,
+      12,
+      1,
+      2
+    ]
+  },
+  "variants": [
+    {
+      "name": "free",
+      "unit_set": "USD_bbl_MMBtu",
+      "money_unit": "USD",
+      "portfolio_value": 32885300117.829937,
+      "objective": 32056811201.0,
+      "winter_penalty": 206737917.0,
+      "batch_penalty": 6580000.0,
+      "wells_scheduled": 244,
+      "wells_frozen": 43,
+      "wells_unscheduled": 56,
+      "sail_days": 1018,
+      "idle_days": 4991,
+      "exploration_target_deviation": 2,
+      "missing_mandatory": 0,
+      "changed_vs_reference": 168,
+      "optimization_freedom": "free",
+      "frozen_months": 12,
+      "plan_start": "2027-01-01",
+      "freeze_end": "2028-01-01",
+      "horizon_end": "2037-01-01",
+      "runtime_s": 5.2,
+      "seed": 42
+    }
+  ],
+  "reference": {
+    "name": "reference",
+    "unit_set": "USD_bbl_MMBtu",
+    "money_unit": "USD",
+    "portfolio_value": 32508030173.641766,
+    "objective": 28352153496.0,
+    "winter_penalty": 243402678.0,
+    "batch_penalty": -2340000.0,
+    "wells_scheduled": 242,
+    "wells_frozen": 43,
+    "wells_unscheduled": 58,
+    "sail_days": 1005,
+    "idle_days": 4764,
+    "exploration_target_deviation": 13,
+    "missing_mandatory": 0,
+    "changed_vs_reference": 0,
+    "optimization_freedom": "free",
+    "frozen_months": 12,
+    "plan_start": "2027-01-01",
+    "freeze_end": "2028-01-01",
+    "horizon_end": "2037-01-01"
+  }
+}

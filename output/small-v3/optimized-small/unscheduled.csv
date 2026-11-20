@@ -1,0 +1,12 @@
+well_id,asset,category,purpose,mandatory,reason,detail,ideal_value,compatible_rigs,test_tag
+VAL-001,Valhall,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-60962224.42826602,R01,negative_value
+VAL-002,Valhall,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-91237569.28075004,R01,negative_value
+VAL-003,Valhall,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-50570861.46433649,R01,negative_value
+VAL-004,Valhall,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-64932980.4728282,R01,negative_value
+VAL-005,Valhall,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-123700963.91356969,R01,negative_value
+ALV-004,Alvheim,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-96763478.64137726,R02;R03,winter_filler
+IVA-002,Ivar Aasen,development,water_injector,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-2492084.532252148,R01,
+SKA-001,Skarv,development,producer,False,no_compatible_rig,"water depth 395 m outside rig range: R01; missing MPD: R02, R03",335101698.6042234,,no_compatible_rig
+SKA-002,Skarv,development,producer,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-30595879.582782373,R02,hpht_bottleneck
+EXP-002,Exploration,appraisal,n/a,False,no_compatible_rig,"water depth 1800 m outside rig range: R01, R02, R03",193074339.29252696,,no_compatible_rig
+EXP-003,Exploration,exploration,n/a,False,freedom_limit,adding wells is not allowed at this optimization-freedom level,-45687487.68335602,R02,negative_value

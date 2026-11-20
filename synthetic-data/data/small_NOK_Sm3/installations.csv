@@ -1,0 +1,12 @@
+installation_id,field_id,asset_id,name,type,lat,lon,water_depth_m
+F-VAL-VAL-P1,F-VAL-VAL,VAL,Valhall Field Centre,platform,56.28,3.39,72.7
+F-VAL-HOD-P1,F-VAL-HOD,VAL,Hod,platform,56.18,3.45,68.7
+F-FEN-FEN-P1,F-FEN-FEN,FEN,Fenris,platform,56.6,2.95,74.3
+F-ALV-ALV-T3,F-ALV-ALV,ALV,Boa,subsea_template,59.52857,1.90105,131.4
+F-ALV-BOY-T2,F-ALV-BOY,ALV,Bøyla T-B,subsea_template,59.40481,1.87774,118.3
+F-IVA-IVA-P1,F-IVA-IVA,IVA,Ivar Aasen,platform,58.92,2.2,105.1
+F-EDG-SOL-T1,F-EDG-SOL,EDG,Solveig T-A,subsea_template,58.73584,2.25568,112.8
+F-SKA-SKA-T1,F-SKA-SKA,SKA,Skarv T-A,subsea_template,65.69204,7.56563,397.1
+F-YGG-HUG-P1,F-YGG-HUG,YGG,Hugin A,platform,59.95,2.4,112.5
+F-YGG-MUN-P1,F-YGG-MUN,YGG,Munin,platform,60.05,2.45,115.3
+F-YGG-FRO-T1,F-YGG-FRO,YGG,Frøy T-A,subsea_template,59.70008,2.58487,115.7

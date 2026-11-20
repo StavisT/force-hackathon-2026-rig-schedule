@@ -1,0 +1,119 @@
+{
+  "meta": {
+    "dataset": "small",
+    "generated": "2026-11-19 15:47",
+    "rigs": [
+      {
+        "rig_id": "R01",
+        "name": "Boreal Fulmar",
+        "rig_type": "jackup",
+        "capabilities": [
+          "HARSH_ENV",
+          "HPHT"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2031-01-01",
+        "unavailability": [
+          {
+            "start": "2028-11-20",
+            "end": "2028-12-15",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R02",
+        "name": "Polar Cormorant",
+        "rig_type": "semisub",
+        "capabilities": [
+          "FORMATION_TEST",
+          "HARSH_ENV",
+          "HPHT",
+          "WELL_TEST",
+          "WINTERIZED"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2031-01-01",
+        "unavailability": [
+          {
+            "start": "2029-05-09",
+            "end": "2029-06-19",
+            "reason": "class survey"
+          }
+        ]
+      },
+      {
+        "rig_id": "R03",
+        "name": "Polar Eider",
+        "rig_type": "semisub",
+        "capabilities": [
+          "HARSH_ENV",
+          "WINTERIZED"
+        ],
+        "contract_start": "2025-11-27",
+        "contract_end": "2031-01-01",
+        "unavailability": [
+          {
+            "start": "2029-02-16",
+            "end": "2029-03-12",
+            "reason": "class survey"
+          }
+        ]
+      }
+    ],
+    "winter_months": [
+      11,
+      12,
+      1,
+      2
+    ]
+  },
+  "variants": [
+    {
+      "name": "free",
+      "unit_set": "USD_bbl_MMBtu",
+      "money_unit": "USD",
+      "portfolio_value": 2959677311.9918942,
+      "objective": 2949069010.0,
+      "winter_penalty": 11539301.999999998,
+      "batch_penalty": -1980000.0,
+      "wells_scheduled": 20,
+      "wells_frozen": 12,
+      "wells_unscheduled": 10,
+      "sail_days": 44,
+      "idle_days": 609,
+      "exploration_target_deviation": 0,
+      "missing_mandatory": 0,
+      "changed_vs_reference": 3,
+      "optimization_freedom": "free",
+      "frozen_months": 12,
+      "plan_start": "2027-01-01",
+      "freeze_end": "2028-01-01",
+      "horizon_end": "2030-01-01",
+      "runtime_s": 0.8,
+      "seed": 42
+    }
+  ],
+  "reference": {
+    "name": "reference",
+    "unit_set": "USD_bbl_MMBtu",
+    "money_unit": "USD",
+    "portfolio_value": 3001610007.3253627,
+    "objective": 2691774457.0,
+    "winter_penalty": 11336549.999999998,
+    "batch_penalty": -2440000.0,
+    "wells_scheduled": 19,
+    "wells_frozen": 12,
+    "wells_unscheduled": 11,
+    "sail_days": 33,
+    "idle_days": 609,
+    "exploration_target_deviation": 1,
+    "missing_mandatory": 0,
+    "changed_vs_reference": 0,
+    "optimization_freedom": "free",
+    "frozen_months": 12,
+    "plan_start": "2027-01-01",
+    "freeze_end": "2028-01-01",
+    "horizon_end": "2030-01-01"
+  }
+}

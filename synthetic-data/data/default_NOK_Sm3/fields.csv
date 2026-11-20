@@ -1,0 +1,20 @@
+field_id,asset_id,name,block,hub_lat,hub_lon,wd_min,wd_max,fluid,region
+F-VAL-VAL,VAL,Valhall,2/8,56.28,3.39,65,75,oil,north_sea_south
+F-VAL-HOD,VAL,Hod,2/11,56.18,3.45,65,75,oil,north_sea_south
+F-FEN-FEN,FEN,Fenris,2/4,56.6,2.95,65,75,gas_condensate,north_sea_south
+F-ALV-ALV,ALV,Alvheim,24/6,59.57,1.99,120,135,oil,north_sea_north
+F-ALV-VOL,ALV,Volund,24/9,59.45,1.95,115,130,oil,north_sea_north
+F-ALV-BOY,ALV,Bøyla,24/9,59.35,1.9,115,125,oil,north_sea_north
+F-ALV-VIL,ALV,Vilje,25/4,59.68,2.2,115,125,oil,north_sea_north
+F-ALV-SKO,ALV,Skogul,25/1,59.8,2.1,110,120,oil,north_sea_north
+F-ALV-TYR,ALV,Tyrving,25/4,59.62,2.25,115,125,oil,north_sea_north
+F-IVA-IVA,IVA,Ivar Aasen,16/1,58.92,2.2,105,115,oil,north_sea_north
+F-EDG-EDV,EDG,Edvard Grieg,16/1,58.84,2.25,105,112,oil,north_sea_north
+F-EDG-SOL,EDG,Solveig,16/4,58.75,2.35,105,115,oil,north_sea_north
+F-SKA-SKA,SKA,Skarv,6507/5,65.7,7.6,350,450,gas,norwegian_sea
+F-SKA-AERF,SKA,Ærfugl,6507/3,65.8,7.4,350,420,gas,norwegian_sea
+F-SKA-IDU,SKA,Idun,6507/3,65.9,7.55,370,450,gas,norwegian_sea
+F-YGG-HUG,YGG,Hugin,25/2,59.95,2.4,110,125,oil,north_sea_north
+F-YGG-MUN,YGG,Munin,30/11,60.05,2.45,115,130,oil,north_sea_north
+F-YGG-FUL,YGG,Fulla,25/2,59.85,2.35,110,125,gas,north_sea_north
+F-YGG-FRO,YGG,Frøy,25/2,59.75,2.55,110,125,oil,north_sea_north
